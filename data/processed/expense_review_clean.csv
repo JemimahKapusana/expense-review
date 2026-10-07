@@ -1,0 +1,2522 @@
+Date,Description,Amount,Category,KnownAnomaly,Year,Month,Day,DayOfWeek,IsWeekend
+2024-07-08,ALDI Joondalup Card,85.09,Groceries,0,2024,7,8,Monday,False
+2026-04-05,IGA Ellenbrook,26.79,Groceries,0,2026,4,5,Sunday,True
+2025-12-31,ALDI Online Card,63.75,Groceries,0,2025,12,31,Wednesday,False
+2025-12-05,Local Cafe Balcatta AU,15.78,Dining,0,2025,12,5,Friday,False
+2025-02-03,GP Clinic Morley Mon,103.15,Health,0,2025,2,3,Monday,False
+2025-08-31,Miscellaneous Purchase Online Purchase,23.8,Other,0,2025,8,31,Sunday,True
+2024-04-03,TAFE Course Materials Ellenbrook Wed,1141.22,Education,1,2024,4,3,Wednesday,False
+2024-12-23,Priceline Pharmacy Joondalup Mon,24.2,Health,0,2024,12,23,Monday,False
+2026-04-16,IGA AU,14.95,Groceries,0,2026,4,16,Thursday,False
+2024-06-30,Nando's Perth AU,25.44,Dining,0,2024,6,30,Sunday,True
+2026-02-20,Kmart Balcatta Card,43.69,Shopping,0,2026,2,20,Friday,False
+2024-08-10,Steam Perth,17.0,Entertainment,0,2024,8,10,Saturday,True
+2025-07-05,Nando's Joondalup Card,26.01,Dining,0,2025,7,5,Saturday,True
+2024-02-25,TAFE Course Materials Online Sun,107.62,Education,0,2024,2,25,Sunday,True
+2025-01-10,Udemy Morley,14.97,Education,0,2025,1,10,Friday,False
+2024-10-11,Local Cafe Cannington Card,4.93,Dining,0,2024,10,11,Friday,False
+2025-08-22,Spotify Online,13.99,Bills,0,2025,8,22,Friday,False
+2026-03-31,BP Fuel Ellenbrook Card,72.5,Transport,0,2026,3,31,Tuesday,False
+2024-04-21,Telstra Mobile Balcatta AU,53.83,Bills,0,2024,4,21,Sunday,True
+2024-12-08,Optus Internet Online,79.0,Bills,0,2024,12,8,Sunday,True
+2024-02-27,Event Cinemas Balcatta Purchase,24.5,Entertainment,0,2024,2,27,Tuesday,False
+2026-02-15,KFC Balcatta Sun,43.23,Dining,0,2026,2,15,Sunday,True
+2024-11-14,Woolworths Online AU,45.13,Groceries,0,2024,11,14,Thursday,False
+2026-03-28,Uber Eats Perth AU,51.06,Dining,0,2026,3,28,Saturday,True
+2024-11-22,Rent Balcatta,650.0,Bills,0,2024,11,22,Friday,False
+2025-08-25,Woolworths Morley Mon,105.05,Groceries,0,2025,8,25,Monday,False
+2024-11-03,Nando's Perth Purchase,35.32,Dining,0,2024,11,3,Sunday,True
+2026-03-10,Uber Morley Purchase,9.8,Transport,0,2026,3,10,Tuesday,False
+2024-10-07,Spudshed Balcatta Purchase,71.75,Groceries,0,2024,10,7,Monday,False
+2024-01-03,McDonald's Cannington Wed,33.34,Dining,0,2024,1,3,Wednesday,False
+2025-04-07,IGA Ellenbrook,61.32,Groceries,0,2025,4,7,Monday,False
+2025-09-03,DoorDash Online Wed,32.97,Dining,0,2025,9,3,Wednesday,False
+2025-03-04,ALDI Joondalup Purchase,74.62,Groceries,0,2025,3,4,Tuesday,False
+2024-11-09,Transperth Ellenbrook Purchase,7.37,Transport,0,2024,11,9,Saturday,True
+2024-04-25,DoorDash Ellenbrook AU,40.61,Dining,0,2024,4,25,Thursday,False
+2024-05-24,Rent Balcatta,650.0,Bills,0,2024,5,24,Friday,False
+2024-12-06,ALDI,54.37,Groceries,0,2024,12,6,Friday,False
+2025-08-14,PlayStation Store Purchase,31.25,Entertainment,0,2025,8,14,Thursday,False
+2024-02-15,Spotify Online Card,14.96,Bills,0,2024,2,15,Thursday,False
+2024-08-14,GP Clinic Joondalup Purchase,59.29,Health,0,2024,8,14,Wednesday,False
+2024-07-17,DiDi AU,15.62,Transport,0,2024,7,17,Wednesday,False
+2026-03-10,Spotify Online,17.03,Bills,0,2026,3,10,Tuesday,False
+2024-04-02,IGA Cannington,46.55,Groceries,0,2024,4,2,Tuesday,False
+2024-06-12,Kmart Perth AU,19.75,Shopping,0,2024,6,12,Wednesday,False
+2024-01-08,BP Fuel Joondalup,33.62,Transport,0,2024,1,8,Monday,False
+2026-02-22,BIG W Joondalup Sun,51.89,Shopping,0,2026,2,22,Sunday,True
+2024-03-30,IGA Joondalup Sat,56.28,Groceries,0,2024,3,30,Saturday,True
+2026-02-20,Myer Cannington Purchase,49.61,Shopping,0,2026,2,20,Friday,False
+2025-01-18,IGA Online,49.21,Groceries,0,2025,1,18,Saturday,True
+2024-06-22,Miscellaneous Purchase,50.21,Other,0,2024,6,22,Saturday,True
+2026-05-10,KFC Perth,39.46,Dining,0,2026,5,10,Sunday,True
+2025-10-10,Myer Joondalup,130.77,Shopping,0,2025,10,10,Friday,False
+2024-02-04,Beauty Store Joondalup Sun,70.95,Personal Care,0,2024,2,4,Sunday,True
+2024-01-26,KFC Morley Fri,17.26,Dining,0,2024,1,26,Friday,False
+2025-08-26,Cotton On Online Tue,64.8,Shopping,0,2025,8,26,Tuesday,False
+2025-09-05,Concert Ticket Joondalup Card,93.87,Entertainment,0,2025,9,5,Friday,False
+2025-10-31,Steam Card,4.76,Entertainment,0,2025,10,31,Friday,False
+2024-05-05,BP Fuel Ellenbrook,50.1,Transport,0,2024,5,5,Sunday,True
+2025-12-11,Transperth Balcatta Thu,7.58,Transport,0,2025,12,11,Thursday,False
+2026-03-17,Cotton On Morley Purchase,17.83,Shopping,0,2026,3,17,Tuesday,False
+2025-08-23,Uber Eats Online AU,12.9,Dining,0,2025,8,23,Saturday,True
+2024-05-17,Uber Balcatta Card,42.96,Transport,0,2024,5,17,Friday,False
+2024-08-08,BP Fuel Cannington Card,88.7,Transport,0,2024,8,8,Thursday,False
+2024-10-25,DiDi Cannington Card,30.83,Transport,0,2024,10,25,Friday,False
+2024-11-27,Priceline Pharmacy Online Card,22.56,Health,0,2024,11,27,Wednesday,False
+2025-10-24,Uber Perth AU,22.4,Transport,0,2025,10,24,Friday,False
+2024-09-08,IGA Morley Card,83.85,Groceries,0,2024,9,8,Sunday,True
+2024-01-14,BIG W Perth AU,108.25,Shopping,0,2024,1,14,Sunday,True
+2026-04-09,Rent Joondalup Card,686.99,Bills,0,2026,4,9,Thursday,False
+2025-09-26,Rent Balcatta,650.0,Bills,0,2025,9,26,Friday,False
+2025-05-28,DoorDash Cannington AU,38.18,Dining,0,2025,5,28,Wednesday,False
+2024-04-21,Netflix Morley Purchase,25.07,Bills,0,2024,4,21,Sunday,True
+2025-10-18,Spudshed Ellenbrook Purchase,8.68,Groceries,0,2025,10,18,Saturday,True
+2024-05-03,Officeworks Purchase,49.38,Education,0,2024,5,3,Friday,False
+2025-02-28,Rent Balcatta,650.0,Bills,0,2025,2,28,Friday,False
+2024-11-03,Ampol Fuel Morley Card,87.34,Transport,0,2024,11,3,Sunday,True
+2025-07-25,Concert Ticket Online Card,158.81,Entertainment,0,2025,7,25,Friday,False
+2025-03-30,Myer Perth AU,186.32,Shopping,0,2025,3,30,Sunday,True
+2025-07-08,Coles Balcatta Card,29.92,Groceries,0,2025,7,8,Tuesday,False
+2024-01-06,Amazon AU Cannington Card,188.37,Shopping,0,2024,1,6,Saturday,True
+2025-02-15,IGA Perth AU,52.51,Groceries,0,2025,2,15,Saturday,True
+2024-08-31,BP Fuel Ellenbrook Sat,123.67,Transport,0,2024,8,31,Saturday,True
+2025-05-01,IGA Ellenbrook Thu,26.31,Groceries,0,2025,5,1,Thursday,False
+2024-07-18,BP Fuel Ellenbrook,73.2,Transport,0,2024,7,18,Thursday,False
+2024-01-26,Netflix Card,23.06,Bills,0,2024,1,26,Friday,False
+2026-02-09,Miscellaneous Purchase Purchase,41.41,Other,0,2026,2,9,Monday,False
+2025-06-01,McDonald's,10.85,Dining,0,2025,6,1,Sunday,True
+2026-05-07,Rent Perth AU,665.19,Bills,0,2026,5,7,Thursday,False
+2024-07-29,Spudshed Cannington Purchase,55.45,Groceries,0,2024,7,29,Monday,False
+2025-05-23,Telstra Mobile Joondalup,58.9,Bills,0,2025,5,23,Friday,False
+2024-11-17,Ampol Fuel Morley AU,33.2,Transport,0,2024,11,17,Sunday,True
+2024-09-19,Myer Ellenbrook AU,898.19,Shopping,1,2024,9,19,Thursday,False
+2024-06-07,Charity Donation Online AU,22.16,Other,0,2024,6,7,Friday,False
+2026-06-19,TAFE Course Materials Cannington Card,114.55,Education,0,2026,6,19,Friday,False
+2024-03-21,Synergy Electricity Cannington Purchase,139.85,Bills,0,2024,3,21,Thursday,False
+2026-03-18,Telstra Mobile Online,55.0,Bills,0,2026,3,18,Wednesday,False
+2025-05-05,Rent Online Purchase,599.08,Bills,0,2025,5,5,Monday,False
+2025-02-24,Transperth Online Card,12.24,Transport,0,2025,2,24,Monday,False
+2026-05-02,Local Cafe Balcatta Purchase,25.94,Dining,0,2026,5,2,Saturday,True
+2026-02-09,Water Corporation Online,147.3,Bills,0,2026,2,9,Monday,False
+2025-11-19,Cotton On Online,53.0,Shopping,0,2025,11,19,Wednesday,False
+2024-10-11,ALDI Fri,38.73,Groceries,0,2024,10,11,Friday,False
+2025-07-29,Target Online AU,96.13,Shopping,0,2025,7,29,Tuesday,False
+2024-06-10,Cotton On Morley AU,103.2,Shopping,0,2024,6,10,Monday,False
+2025-03-04,Uber Cannington Purchase,26.23,Transport,0,2025,3,4,Tuesday,False
+2026-01-18,Telstra Mobile Online,55.0,Bills,0,2026,1,18,Sunday,True
+2026-05-21,Nando's Card,33.06,Dining,0,2026,5,21,Thursday,False
+2024-04-01,Transperth Joondalup AU,5.56,Transport,0,2024,4,1,Monday,False
+2026-02-12,Synergy Electricity Joondalup AU,171.6,Bills,0,2026,2,12,Thursday,False
+2024-01-10,Target Perth Wed,88.8,Shopping,0,2024,1,10,Wednesday,False
+2025-11-19,Coles Cannington,45.12,Groceries,0,2025,11,19,Wednesday,False
+2025-09-21,Local Cafe Perth AU,20.24,Dining,0,2025,9,21,Sunday,True
+2024-01-20,Dental Clinic Morley Purchase,150.12,Health,0,2024,1,20,Saturday,True
+2025-02-01,Spotify Cannington,11.31,Bills,0,2025,2,1,Saturday,True
+2026-04-05,IGA Cannington AU,31.81,Groceries,0,2026,4,5,Sunday,True
+2024-10-01,Ampol Fuel Morley AU,33.79,Transport,0,2024,10,1,Tuesday,False
+2025-02-14,Rent Balcatta,650.0,Bills,0,2025,2,14,Friday,False
+2024-04-23,Woolworths Ellenbrook Tue,39.6,Groceries,0,2024,4,23,Tuesday,False
+2025-07-31,Spotify Morley AU,13.49,Bills,0,2025,7,31,Thursday,False
+2025-08-02,Nando's Perth Purchase,40.86,Dining,0,2025,8,2,Saturday,True
+2025-10-10,McDonald's Joondalup Fri,20.01,Dining,0,2025,10,10,Friday,False
+2025-07-15,Dental Clinic,132.64,Health,0,2025,7,15,Tuesday,False
+2025-06-15,Myer Balcatta Sun,153.43,Shopping,0,2025,6,15,Sunday,True
+2024-08-19,Target Card,72.8,Shopping,0,2024,8,19,Monday,False
+2026-06-08,Woolworths Joondalup Purchase,48.34,Groceries,0,2026,6,8,Monday,False
+2024-07-09,GP Clinic Perth,96.52,Health,0,2024,7,9,Tuesday,False
+2025-09-22,HOYTS Ellenbrook Card,28.96,Entertainment,0,2025,9,22,Monday,False
+2025-07-20,Priceline Pharmacy Balcatta Card,32.22,Health,0,2025,7,20,Sunday,True
+2026-05-18,KFC Cannington AU,20.32,Dining,0,2026,5,18,Monday,False
+2025-11-28,Nando's Morley AU,57.35,Dining,0,2025,11,28,Friday,False
+2025-10-08,Optus Internet Online,79.0,Bills,0,2025,10,8,Wednesday,False
+2026-05-19,Transperth Ellenbrook Purchase,8.44,Transport,0,2026,5,19,Tuesday,False
+2026-04-18,Uber Eats Morley AU,62.58,Dining,0,2026,4,18,Saturday,True
+2024-02-14,Concert Ticket Perth,129.19,Entertainment,0,2024,2,14,Wednesday,False
+2024-11-12,Netflix Online,25.99,Bills,0,2024,11,12,Tuesday,False
+2026-05-08,Dental Clinic Perth,174.83,Health,0,2026,5,8,Friday,False
+2024-10-03,Woolworths Cannington,47.14,Groceries,0,2024,10,3,Thursday,False
+2026-01-30,PlayStation Store Fri,47.56,Entertainment,0,2026,1,30,Friday,False
+2026-06-11,Ampol Fuel Ellenbrook,84.33,Transport,0,2026,6,11,Thursday,False
+2025-07-15,Target Cannington AU,48.71,Shopping,0,2025,7,15,Tuesday,False
+2025-01-12,Netflix Online,25.99,Bills,0,2025,1,12,Sunday,True
+2025-09-15,Spotify AU,17.15,Bills,0,2025,9,15,Monday,False
+2025-12-12,Woolworths Ellenbrook AU,92.49,Groceries,0,2025,12,12,Friday,False
+2024-05-19,Steam Joondalup Purchase,50.74,Entertainment,0,2024,5,19,Sunday,True
+2025-12-19,Barber and Beauty Perth Purchase,80.15,Personal Care,0,2025,12,19,Friday,False
+2025-03-14,Dental Clinic Ellenbrook Fri,210.16,Health,0,2025,3,14,Friday,False
+2026-02-07,IGA Perth Sat,62.02,Groceries,0,2026,2,7,Saturday,True
+2025-04-04,BP Fuel Perth Purchase,75.38,Transport,0,2025,4,4,Friday,False
+2025-04-11,DoorDash Cannington,62.32,Dining,0,2025,4,11,Friday,False
+2024-04-26,Steam Fri,31.66,Entertainment,0,2024,4,26,Friday,False
+2025-04-13,Netflix,23.6,Bills,0,2025,4,13,Sunday,True
+2025-02-11,Beauty Store Morley Card,43.37,Personal Care,0,2025,2,11,Tuesday,False
+2024-03-05,DiDi Morley Card,0.4,Transport,1,2024,3,5,Tuesday,False
+2024-07-28,Uber Balcatta,26.4,Transport,0,2024,7,28,Sunday,True
+2025-06-23,ALDI Balcatta Mon,48.08,Groceries,0,2025,6,23,Monday,False
+2025-04-19,Woolworths Perth Purchase,74.49,Groceries,0,2025,4,19,Saturday,True
+2025-09-24,KFC Perth AU,11.67,Dining,0,2025,9,24,Wednesday,False
+2026-04-30,IGA Joondalup Purchase,21.12,Groceries,0,2026,4,30,Thursday,False
+2026-05-26,BIG W Ellenbrook Tue,35.67,Shopping,0,2026,5,26,Tuesday,False
+2025-10-16,Beauty Store Balcatta Thu,2.65,Personal Care,0,2025,10,16,Thursday,False
+2025-04-01,Chemist Warehouse AU,49.41,Health,0,2025,4,1,Tuesday,False
+2024-09-08,Optus Internet Online,79.0,Bills,0,2024,9,8,Sunday,True
+2026-02-16,Nando's Ellenbrook,37.89,Dining,0,2026,2,16,Monday,False
+2024-02-07,Spudshed Balcatta Wed,45.56,Groceries,0,2024,2,7,Wednesday,False
+2024-06-02,Woolworths Cannington Purchase,4.04,Groceries,0,2024,6,2,Sunday,True
+2024-10-17,Beauty Store Joondalup AU,44.03,Personal Care,0,2024,10,17,Thursday,False
+2026-04-05,Barber and Beauty Balcatta Sun,62.04,Personal Care,0,2026,4,5,Sunday,True
+2024-04-13,Spudshed Perth AU,55.06,Groceries,0,2024,4,13,Saturday,True
+2024-02-08,KFC Morley Card,26.55,Dining,0,2024,2,8,Thursday,False
+2026-02-28,McDonald's Perth,17.06,Dining,0,2026,2,28,Saturday,True
+2025-08-23,Amazon AU Morley Purchase,82.37,Shopping,0,2025,8,23,Saturday,True
+2025-12-03,Spotify Balcatta,16.29,Bills,0,2025,12,3,Wednesday,False
+2024-08-19,Gift Purchase Perth Card,113.74,Other,0,2024,8,19,Monday,False
+2026-05-02,PlayStation Store Cannington Card,40.64,Entertainment,0,2026,5,2,Saturday,True
+2025-01-02,Uber Ellenbrook Purchase,24.49,Transport,0,2025,1,2,Thursday,False
+2024-04-08,McDonald's Ellenbrook Purchase,14.5,Dining,0,2024,4,8,Monday,False
+2025-11-04,DiDi Ellenbrook Card,1.5,Transport,0,2025,11,4,Tuesday,False
+2024-10-23,BIG W Perth Wed,61.68,Shopping,0,2024,10,23,Wednesday,False
+2026-06-15,Coles Joondalup Purchase,57.72,Groceries,0,2026,6,15,Monday,False
+2026-04-22,Concert Ticket Balcatta AU,59.42,Entertainment,0,2026,4,22,Wednesday,False
+2025-03-17,McDonald's,1.5,Dining,0,2025,3,17,Monday,False
+2025-03-25,Coles Joondalup Purchase,59.24,Groceries,0,2025,3,25,Tuesday,False
+2025-09-10,Dental Clinic Morley,126.4,Health,0,2025,9,10,Wednesday,False
+2025-09-29,Concert Ticket Online,60.39,Entertainment,0,2025,9,29,Monday,False
+2025-12-12,Local Cafe Online AU,14.11,Dining,0,2025,12,12,Friday,False
+2025-03-24,Kmart Balcatta Mon,14.73,Shopping,0,2025,3,24,Monday,False
+2025-03-17,IGA Balcatta Mon,60.68,Groceries,0,2025,3,17,Monday,False
+2024-10-23,Netflix Balcatta AU,20.55,Bills,0,2024,10,23,Wednesday,False
+2024-09-19,Hotel Balcatta AU,231.11,Travel,0,2024,9,19,Thursday,False
+2025-09-12,Rent Balcatta,650.0,Bills,0,2025,9,12,Friday,False
+2025-03-31,Coles Online Mon,84.15,Groceries,0,2025,3,31,Monday,False
+2025-03-01,HOYTS,29.26,Entertainment,0,2025,3,1,Saturday,True
+2026-02-27,Spudshed Perth AU,68.06,Groceries,0,2026,2,27,Friday,False
+2025-10-22,Spudshed Joondalup,71.42,Groceries,0,2025,10,22,Wednesday,False
+2026-05-04,Uber Balcatta Mon,34.18,Transport,0,2026,5,4,Monday,False
+2024-08-22,Coursera Joondalup Card,80.44,Education,0,2024,8,22,Thursday,False
+2024-07-28,Hair Salon Card,67.5,Personal Care,0,2024,7,28,Sunday,True
+2026-06-12,ALDI Perth Card,22.79,Groceries,0,2026,6,12,Friday,False
+2026-05-10,Rent Ellenbrook Sun,3894.43,Bills,1,2026,5,10,Sunday,True
+2025-04-08,McDonald's Morley Purchase,38.88,Dining,0,2025,4,8,Tuesday,False
+2025-10-03,Coles Morley Purchase,81.88,Groceries,0,2025,10,3,Friday,False
+2025-07-29,Coles Perth Card,58.18,Groceries,0,2025,7,29,Tuesday,False
+2024-10-06,ALDI Cannington Purchase,28.92,Groceries,0,2024,10,6,Sunday,True
+2025-08-11,Coles Joondalup,27.44,Groceries,0,2025,8,11,Monday,False
+2026-05-22,Coles Online Card,43.65,Groceries,0,2026,5,22,Friday,False
+2024-08-27,Optus Internet Balcatta Card,79.79,Bills,0,2024,8,27,Tuesday,False
+2025-11-18,IGA Joondalup Card,17.75,Groceries,0,2025,11,18,Tuesday,False
+2026-05-12,Synergy Electricity Perth Purchase,140.42,Bills,0,2026,5,12,Tuesday,False
+2025-04-01,Netflix Cannington AU,22.04,Bills,0,2025,4,1,Tuesday,False
+2025-02-26,Udemy Morley Purchase,4.04,Education,0,2025,2,26,Wednesday,False
+2026-01-24,Coles Cannington Purchase,76.7,Groceries,0,2026,1,24,Saturday,True
+2025-01-05,Transperth Online,9.4,Transport,0,2025,1,5,Sunday,True
+2025-12-02,Uber Eats Online Tue,79.18,Dining,0,2025,12,2,Tuesday,False
+2026-03-30,Coles Joondalup Purchase,10.35,Groceries,0,2026,3,30,Monday,False
+2025-02-14,Spudshed Fri,61.38,Groceries,0,2025,2,14,Friday,False
+2026-04-27,Event Cinemas Ellenbrook AU,25.89,Entertainment,0,2026,4,27,Monday,False
+2024-02-02,Rent Balcatta,650.0,Bills,0,2024,2,2,Friday,False
+2025-12-13,ALDI Joondalup AU,1.77,Groceries,0,2025,12,13,Saturday,True
+2025-07-20,Uber,32.46,Transport,0,2025,7,20,Sunday,True
+2025-11-26,Kmart Purchase,77.36,Shopping,0,2025,11,26,Wednesday,False
+2024-11-12,DoorDash Balcatta Purchase,37.73,Dining,0,2024,11,12,Tuesday,False
+2024-11-19,Amazon AU,71.36,Shopping,0,2024,11,19,Tuesday,False
+2026-05-18,Telstra Mobile Online,55.0,Bills,0,2026,5,18,Monday,False
+2025-08-01,Hair Salon Cannington Purchase,650.8,Personal Care,1,2025,8,1,Friday,False
+2026-05-02,IGA Ellenbrook,40.25,Groceries,0,2026,5,2,Saturday,True
+2024-11-16,Coles Online Card,1.66,Groceries,0,2024,11,16,Saturday,True
+2025-12-16,KFC Perth Card,30.77,Dining,0,2025,12,16,Tuesday,False
+2024-02-13,Coles Cannington Card,119.45,Groceries,0,2024,2,13,Tuesday,False
+2025-01-17,Transperth Cannington Purchase,7.32,Transport,0,2025,1,17,Friday,False
+2025-01-17,Rent Balcatta,650.0,Bills,0,2025,1,17,Friday,False
+2025-08-21,Local Cafe Thu,19.94,Dining,0,2025,8,21,Thursday,False
+2025-04-06,KFC Balcatta Card,20.73,Dining,0,2025,4,6,Sunday,True
+2025-11-30,Hair Salon Cannington AU,101.16,Personal Care,0,2025,11,30,Sunday,True
+2025-12-10,Rent Balcatta Wed,4955.85,Bills,1,2025,12,10,Wednesday,False
+2025-03-21,Nail Studio Perth Card,74.34,Personal Care,0,2025,3,21,Friday,False
+2026-05-07,Transperth Balcatta,9.11,Transport,0,2026,5,7,Thursday,False
+2024-12-07,Transperth Cannington AU,4.51,Transport,0,2024,12,7,Saturday,True
+2024-05-20,Coles Perth Card,33.55,Groceries,0,2024,5,20,Monday,False
+2024-03-13,DiDi Perth Purchase,47.12,Transport,0,2024,3,13,Wednesday,False
+2025-01-17,Spudshed Online AU,34.2,Groceries,0,2025,1,17,Friday,False
+2024-02-11,ALDI Balcatta AU,36.48,Groceries,0,2024,2,11,Sunday,True
+2024-07-03,Local Cafe Ellenbrook AU,9.75,Dining,0,2024,7,3,Wednesday,False
+2026-05-19,DoorDash Card,89.39,Dining,0,2026,5,19,Tuesday,False
+2024-11-19,Miscellaneous Purchase Joondalup,1.5,Other,0,2024,11,19,Tuesday,False
+2026-01-30,Rent Balcatta,650.0,Bills,0,2026,1,30,Friday,False
+2025-08-19,Rent Cannington,627.24,Bills,0,2025,8,19,Tuesday,False
+2026-05-19,Local Cafe Morley Card,18.88,Dining,0,2026,5,19,Tuesday,False
+2024-06-29,Woolworths,95.14,Groceries,0,2024,6,29,Saturday,True
+2025-11-15,Ampol Fuel Perth AU,38.53,Transport,0,2025,11,15,Saturday,True
+2025-07-20,DoorDash AU,21.26,Dining,0,2025,7,20,Sunday,True
+2025-09-30,Steam Morley Tue,34.92,Entertainment,0,2025,9,30,Tuesday,False
+2025-07-11,Ampol Fuel Online Purchase,89.72,Transport,0,2025,7,11,Friday,False
+2025-06-21,McDonald's Balcatta Purchase,17.29,Dining,0,2025,6,21,Saturday,True
+2024-09-08,BIG W Card,27.7,Shopping,0,2024,9,8,Sunday,True
+2026-01-12,DoorDash Joondalup AU,75.02,Dining,0,2026,1,12,Monday,False
+2025-02-26,Coles Wed,58.47,Groceries,0,2025,2,26,Wednesday,False
+2024-08-22,Event Cinemas Cannington AU,25.65,Entertainment,0,2024,8,22,Thursday,False
+2024-01-31,Optus Internet Online Wed,78.04,Bills,0,2024,1,31,Wednesday,False
+2025-08-11,IGA Online,26.11,Groceries,0,2025,8,11,Monday,False
+2025-12-08,BP Fuel Cannington AU,154.81,Transport,0,2025,12,8,Monday,False
+2024-11-15,Event Cinemas Card,27.7,Entertainment,0,2024,11,15,Friday,False
+2025-11-04,ALDI Joondalup Purchase,19.27,Groceries,0,2025,11,4,Tuesday,False
+2025-01-23,Water Corporation Cannington Card,89.13,Bills,0,2025,1,23,Thursday,False
+2024-09-09,BIG W Morley Card,55.13,Shopping,0,2024,9,9,Monday,False
+2025-12-13,Transperth Online Purchase,10.12,Transport,0,2025,12,13,Saturday,True
+2026-06-22,Kmart Online AU,1.5,Shopping,0,2026,6,22,Monday,False
+2025-11-04,Woolworths Card,26.07,Groceries,0,2025,11,4,Tuesday,False
+2025-08-08,Spudshed Balcatta Card,70.51,Groceries,0,2025,8,8,Friday,False
+2025-07-06,Uber Card,9.67,Transport,0,2025,7,6,Sunday,True
+2024-03-29,McDonald's Morley AU,13.49,Dining,0,2024,3,29,Friday,False
+2025-03-29,McDonald's Ellenbrook AU,27.99,Dining,0,2025,3,29,Saturday,True
+2026-06-21,GP Clinic Card,64.67,Health,0,2026,6,21,Sunday,True
+2026-05-19,Coles Perth Tue,78.37,Groceries,0,2026,5,19,Tuesday,False
+2025-07-20,Kmart Purchase,9.31,Shopping,0,2025,7,20,Sunday,True
+2025-05-14,Spudshed Cannington AU,45.04,Groceries,0,2025,5,14,Wednesday,False
+2024-08-03,Steam Ellenbrook Purchase,35.54,Entertainment,0,2024,8,3,Saturday,True
+2026-01-11,IGA Perth Card,32.34,Groceries,0,2026,1,11,Sunday,True
+2024-12-22,Spotify Online,13.99,Bills,0,2024,12,22,Sunday,True
+2025-03-16,Uber Cannington Purchase,11.56,Transport,0,2025,3,16,Sunday,True
+2024-08-28,Transperth Morley Card,6.04,Transport,0,2024,8,28,Wednesday,False
+2024-12-05,DoorDash Online AU,28.45,Dining,0,2024,12,5,Thursday,False
+2026-01-17,Ampol Fuel Ellenbrook AU,103.6,Transport,0,2026,1,17,Saturday,True
+2026-05-05,Priceline Pharmacy Morley,28.72,Health,0,2026,5,5,Tuesday,False
+2024-03-30,ALDI Balcatta,100.24,Groceries,0,2024,3,30,Saturday,True
+2025-06-13,Spudshed Balcatta Fri,74.06,Groceries,0,2025,6,13,Friday,False
+2024-11-18,Telstra Mobile Online,55.0,Bills,0,2024,11,18,Monday,False
+2024-03-01,Rent Balcatta,650.0,Bills,0,2024,3,1,Friday,False
+2026-02-17,BIG W Cannington,84.82,Shopping,0,2026,2,17,Tuesday,False
+2025-05-26,Synergy Electricity Cannington Purchase,18.7,Bills,0,2025,5,26,Monday,False
+2026-04-06,DoorDash Joondalup Mon,58.02,Dining,0,2026,4,6,Monday,False
+2025-11-07,McDonald's Purchase,21.45,Dining,0,2025,11,7,Friday,False
+2025-05-23,BP Fuel Cannington Fri,68.18,Transport,0,2025,5,23,Friday,False
+2025-11-30,Dental Clinic Morley,109.64,Health,0,2025,11,30,Sunday,True
+2024-01-27,Transperth Balcatta Card,6.56,Transport,0,2024,1,27,Saturday,True
+2025-11-21,Cotton On Cannington Fri,11.02,Shopping,0,2025,11,21,Friday,False
+2026-03-14,DoorDash Online Sat,4.68,Dining,0,2026,3,14,Saturday,True
+2024-09-25,Steam Card,8.23,Entertainment,0,2024,9,25,Wednesday,False
+2025-10-24,Priceline Pharmacy Joondalup Fri,35.97,Health,0,2025,10,24,Friday,False
+2026-04-06,Udemy Morley Purchase,37.87,Education,0,2026,4,6,Monday,False
+2026-01-22,Dental Clinic Ellenbrook Purchase,247.88,Health,0,2026,1,22,Thursday,False
+2025-06-20,HOYTS Ellenbrook,38.62,Entertainment,0,2025,6,20,Friday,False
+2025-02-08,Optus Internet Online,79.0,Bills,0,2025,2,8,Saturday,True
+2026-04-06,Event Cinemas Perth Card,15.45,Entertainment,0,2026,4,6,Monday,False
+2024-07-03,Chemist Warehouse,45.88,Health,0,2024,7,3,Wednesday,False
+2025-09-27,Udemy AU,205.93,Education,1,2025,9,27,Saturday,True
+2024-02-12,PlayStation Store Balcatta,52.09,Entertainment,0,2024,2,12,Monday,False
+2025-05-11,Cotton On Morley Sun,95.02,Shopping,0,2025,5,11,Sunday,True
+2025-05-11,Spudshed Joondalup Purchase,37.82,Groceries,0,2025,5,11,Sunday,True
+2026-03-21,Woolworths Card,59.12,Groceries,0,2026,3,21,Saturday,True
+2025-09-17,Amazon AU Balcatta Purchase,95.87,Shopping,0,2025,9,17,Wednesday,False
+2026-05-25,Woolworths Card,122.29,Groceries,0,2026,5,25,Monday,False
+2026-02-07,Kmart Ellenbrook Purchase,104.19,Shopping,0,2026,2,7,Saturday,True
+2024-02-13,DoorDash Ellenbrook Card,67.61,Dining,0,2024,2,13,Tuesday,False
+2025-07-31,Uber Eats Online Card,35.39,Dining,0,2025,7,31,Thursday,False
+2024-08-07,Uber Ellenbrook Card,38.02,Transport,0,2024,8,7,Wednesday,False
+2025-05-09,Rent Balcatta,650.0,Bills,0,2025,5,9,Friday,False
+2024-07-14,IGA AU,51.79,Groceries,0,2024,7,14,Sunday,True
+2025-09-02,Uber Eats Purchase,11.24,Dining,0,2025,9,2,Tuesday,False
+2025-05-08,Netflix Online Thu,24.86,Bills,0,2025,5,8,Thursday,False
+2024-12-27,Transperth Joondalup Card,9.31,Transport,0,2024,12,27,Friday,False
+2024-04-11,Priceline Pharmacy Online Purchase,26.22,Health,0,2024,4,11,Thursday,False
+2024-08-17,Woolworths Purchase,114.93,Groceries,0,2024,8,17,Saturday,True
+2024-05-15,IGA Perth,15.28,Groceries,0,2024,5,15,Wednesday,False
+2024-03-02,Spudshed Ellenbrook Purchase,1.8,Groceries,0,2024,3,2,Saturday,True
+2025-04-17,Concert Ticket Balcatta AU,30.06,Entertainment,0,2025,4,17,Thursday,False
+2025-03-25,Local Cafe Joondalup,23.38,Dining,0,2025,3,25,Tuesday,False
+2025-03-09,Transperth,6.64,Transport,0,2025,3,9,Sunday,True
+2026-02-14,BIG W Morley Card,55.8,Shopping,0,2026,2,14,Saturday,True
+2025-09-18,Transperth Perth Purchase,8.89,Transport,0,2025,9,18,Thursday,False
+2024-04-13,DiDi Card,25.21,Transport,0,2024,4,13,Saturday,True
+2024-08-17,Rent Morley Purchase,656.91,Bills,0,2024,8,17,Saturday,True
+2024-08-03,Charity Donation Joondalup Sat,16.39,Other,0,2024,8,3,Saturday,True
+2024-07-04,Miscellaneous Purchase Cannington AU,14.51,Other,0,2024,7,4,Thursday,False
+2026-02-16,DiDi Online Mon,14.8,Transport,0,2026,2,16,Monday,False
+2025-04-18,ALDI Ellenbrook Purchase,1.5,Groceries,0,2025,4,18,Friday,False
+2026-01-27,Coles Joondalup,91.13,Groceries,0,2026,1,27,Tuesday,False
+2024-08-08,DoorDash Thu,54.24,Dining,0,2024,8,8,Thursday,False
+2025-10-12,Target Cannington,50.01,Shopping,0,2025,10,12,Sunday,True
+2026-02-19,Woolworths Morley Purchase,78.19,Groceries,0,2026,2,19,Thursday,False
+2025-06-18,Telstra Mobile Online,55.0,Bills,0,2025,6,18,Wednesday,False
+2025-05-04,IGA Joondalup Purchase,69.16,Groceries,0,2025,5,4,Sunday,True
+2026-03-25,Nando's Ellenbrook AU,23.42,Dining,0,2026,3,25,Wednesday,False
+2026-01-08,Steam Ellenbrook Card,1.5,Entertainment,0,2026,1,8,Thursday,False
+2024-04-09,Target Perth Card,79.22,Shopping,0,2024,4,9,Tuesday,False
+2025-06-10,Water Corporation Ellenbrook Card,107.74,Bills,0,2025,6,10,Tuesday,False
+2025-09-08,Ampol Fuel Ellenbrook Card,82.11,Transport,0,2025,9,8,Monday,False
+2025-04-19,PlayStation Store Perth,47.1,Entertainment,0,2025,4,19,Saturday,True
+2025-10-18,Telstra Mobile Online,55.0,Bills,0,2025,10,18,Saturday,True
+2025-06-09,Target Ellenbrook AU,62.24,Shopping,0,2025,6,9,Monday,False
+2024-03-29,Miscellaneous Purchase Perth,18.47,Other,0,2024,3,29,Friday,False
+2026-03-04,Rent Perth Purchase,677.49,Bills,0,2026,3,4,Wednesday,False
+2024-10-04,KFC Fri,1.5,Dining,0,2024,10,4,Friday,False
+2025-09-24,Kmart Ellenbrook Purchase,66.0,Shopping,0,2025,9,24,Wednesday,False
+2024-11-20,PlayStation Store Cannington Purchase,7.04,Entertainment,0,2024,11,20,Wednesday,False
+2024-11-19,IGA Perth,45.07,Groceries,0,2024,11,19,Tuesday,False
+2025-04-07,DoorDash Cannington Card,49.43,Dining,0,2025,4,7,Monday,False
+2024-09-28,Spudshed Ellenbrook AU,60.1,Groceries,0,2024,9,28,Saturday,True
+2024-10-12,Priceline Pharmacy Cannington,31.07,Health,0,2024,10,12,Saturday,True
+2026-04-30,Uber Eats,15.13,Dining,0,2026,4,30,Thursday,False
+2025-09-19,BIG W Online AU,36.21,Shopping,0,2025,9,19,Friday,False
+2024-08-22,Target Morley Thu,44.75,Shopping,0,2024,8,22,Thursday,False
+2026-03-22,ALDI Sun,56.36,Groceries,0,2026,3,22,Sunday,True
+2024-08-14,ALDI Joondalup Wed,14.89,Groceries,0,2024,8,14,Wednesday,False
+2026-01-10,DiDi Online Card,15.6,Transport,0,2026,1,10,Saturday,True
+2026-04-03,DoorDash Morley Card,43.51,Dining,0,2026,4,3,Friday,False
+2025-07-16,Spudshed Perth Purchase,50.9,Groceries,0,2025,7,16,Wednesday,False
+2025-10-29,Australia Post Ellenbrook AU,41.41,Other,0,2025,10,29,Wednesday,False
+2024-11-26,BP Fuel Perth Tue,707.93,Transport,1,2024,11,26,Tuesday,False
+2026-05-12,Dental Clinic Perth AU,183.81,Health,0,2026,5,12,Tuesday,False
+2026-01-08,Ampol Fuel Perth,31.66,Transport,0,2026,1,8,Thursday,False
+2025-04-19,Amazon AU Online,43.62,Shopping,0,2025,4,19,Saturday,True
+2025-12-26,Udemy Cannington Fri,33.12,Education,0,2025,12,26,Friday,False
+2025-12-14,Coursera Cannington Sun,39.1,Education,0,2025,12,14,Sunday,True
+2024-09-18,Synergy Electricity Online AU,203.64,Bills,0,2024,9,18,Wednesday,False
+2024-01-04,TAFE Course Materials Cannington Purchase,52.45,Education,0,2024,1,4,Thursday,False
+2024-10-07,Gift Purchase Morley,39.61,Other,0,2024,10,7,Monday,False
+2024-01-22,ALDI Ellenbrook Mon,32.67,Groceries,0,2024,1,22,Monday,False
+2025-04-02,KFC Ellenbrook Purchase,20.67,Dining,0,2025,4,2,Wednesday,False
+2026-03-19,Telstra Mobile Morley AU,60.89,Bills,0,2026,3,19,Thursday,False
+2024-05-31,Amazon AU Online Card,112.21,Shopping,0,2024,5,31,Friday,False
+2025-03-25,Uber Ellenbrook Tue,26.28,Transport,0,2025,3,25,Tuesday,False
+2024-06-21,Spudshed Balcatta,34.36,Groceries,0,2024,6,21,Friday,False
+2024-08-10,Concert Ticket Cannington AU,151.94,Entertainment,0,2024,8,10,Saturday,True
+2025-07-05,Target AU,106.98,Shopping,0,2025,7,5,Saturday,True
+2024-04-04,DiDi Thu,29.61,Transport,0,2024,4,4,Thursday,False
+2025-10-19,DoorDash Morley Sun,49.26,Dining,0,2025,10,19,Sunday,True
+2024-12-28,Myer Joondalup AU,142.26,Shopping,0,2024,12,28,Saturday,True
+2026-04-08,Optus Internet Online,79.0,Bills,0,2026,4,8,Wednesday,False
+2024-01-08,Miscellaneous Purchase Online Mon,18.18,Other,0,2024,1,8,Monday,False
+2025-05-24,Rent Cannington Card,635.48,Bills,0,2025,5,24,Saturday,True
+2025-01-16,Coursera Cannington Thu,1.5,Education,0,2025,1,16,Thursday,False
+2024-01-05,Rent Balcatta,650.0,Bills,0,2024,1,5,Friday,False
+2026-04-01,Local Cafe Balcatta AU,9.53,Dining,0,2026,4,1,Wednesday,False
+2024-08-12,TAFE Course Materials Card,72.34,Education,0,2024,8,12,Monday,False
+2025-01-05,Priceline Pharmacy Perth Purchase,7.74,Health,0,2025,1,5,Sunday,True
+2024-01-10,KFC AU,30.24,Dining,0,2024,1,10,Wednesday,False
+2026-04-03,BP Fuel Ellenbrook AU,81.82,Transport,0,2026,4,3,Friday,False
+2024-09-27,Rent Balcatta,650.0,Bills,0,2024,9,27,Friday,False
+2025-12-07,McDonald's Balcatta,30.43,Dining,0,2025,12,7,Sunday,True
+2025-01-10,Nando's Morley AU,14.43,Dining,0,2025,1,10,Friday,False
+2025-07-07,Uber Morley Mon,14.4,Transport,0,2025,7,7,Monday,False
+2026-01-12,Concert Ticket Cannington,78.36,Entertainment,0,2026,1,12,Monday,False
+2025-01-14,HOYTS Balcatta AU,36.25,Entertainment,0,2025,1,14,Tuesday,False
+2024-07-12,Coles Cannington AU,62.43,Groceries,0,2024,7,12,Friday,False
+2024-08-15,DiDi Joondalup AU,1.5,Transport,0,2024,8,15,Thursday,False
+2025-02-25,HOYTS Online,25.37,Entertainment,0,2025,2,25,Tuesday,False
+2025-11-06,Woolworths Perth Thu,95.17,Groceries,0,2025,11,6,Thursday,False
+2025-04-12,Netflix Online,25.99,Bills,0,2025,4,12,Saturday,True
+2025-05-09,BP Fuel Balcatta,50.4,Transport,0,2025,5,9,Friday,False
+2026-02-16,Coles Online Mon,96.81,Groceries,0,2026,2,16,Monday,False
+2024-06-26,Event Cinemas Cannington Wed,18.69,Entertainment,0,2024,6,26,Wednesday,False
+2024-11-18,Chemist Warehouse Balcatta,25.38,Health,0,2024,11,18,Monday,False
+2025-06-11,Coles Morley Card,51.77,Groceries,0,2025,6,11,Wednesday,False
+2024-12-25,ALDI Perth,47.82,Groceries,0,2024,12,25,Wednesday,False
+2025-07-29,IGA Cannington,26.78,Groceries,0,2025,7,29,Tuesday,False
+2025-03-04,Netflix Tue,22.1,Bills,0,2025,3,4,Tuesday,False
+2024-07-30,Uber Eats Morley,38.12,Dining,0,2024,7,30,Tuesday,False
+2025-01-03,Cotton On Purchase,48.05,Shopping,0,2025,1,3,Friday,False
+2026-03-30,DiDi Perth Card,23.75,Transport,0,2026,3,30,Monday,False
+2026-04-30,Amazon AU Ellenbrook,123.38,Shopping,0,2026,4,30,Thursday,False
+2024-07-30,ALDI Online AU,68.54,Groceries,0,2024,7,30,Tuesday,False
+2024-12-13,Woolworths Morley Fri,62.14,Groceries,0,2024,12,13,Friday,False
+2025-01-27,Hair Salon Card,83.04,Personal Care,0,2025,1,27,Monday,False
+2024-06-09,Gift Purchase Morley Purchase,15.12,Other,0,2024,6,9,Sunday,True
+2025-10-17,Water Corporation Perth Fri,139.36,Bills,0,2025,10,17,Friday,False
+2024-04-12,Rent Balcatta,650.0,Bills,0,2024,4,12,Friday,False
+2024-02-15,IGA Online AU,34.79,Groceries,0,2024,2,15,Thursday,False
+2025-06-16,DoorDash Cannington,30.78,Dining,0,2025,6,16,Monday,False
+2025-10-24,Australia Post Online,1.63,Other,0,2025,10,24,Friday,False
+2024-12-30,Uber Eats,109.85,Dining,0,2024,12,30,Monday,False
+2026-01-12,Event Cinemas Joondalup Mon,13.39,Entertainment,0,2026,1,12,Monday,False
+2024-01-03,Charity Donation Purchase,56.26,Other,0,2024,1,3,Wednesday,False
+2024-07-23,Spotify Cannington,17.0,Bills,0,2024,7,23,Tuesday,False
+2025-06-09,Uber Eats Perth Purchase,21.3,Dining,0,2025,6,9,Monday,False
+2025-12-16,Transperth Cannington AU,4.76,Transport,0,2025,12,16,Tuesday,False
+2024-08-10,HOYTS Online,45.71,Entertainment,0,2024,8,10,Saturday,True
+2024-04-15,Concert Ticket Joondalup,146.88,Entertainment,0,2024,4,15,Monday,False
+2026-06-04,IGA Morley Card,9.41,Groceries,0,2026,6,4,Thursday,False
+2024-06-28,McDonald's Joondalup Card,15.97,Dining,0,2024,6,28,Friday,False
+2025-09-15,Target Cannington Purchase,53.86,Shopping,0,2025,9,15,Monday,False
+2024-05-27,KFC Morley AU,22.49,Dining,0,2024,5,27,Monday,False
+2025-09-14,BP Fuel Morley,37.06,Transport,0,2025,9,14,Sunday,True
+2024-08-21,Optus Internet Joondalup,88.81,Bills,0,2024,8,21,Wednesday,False
+2024-04-16,Uber Eats Online AU,32.6,Dining,0,2024,4,16,Tuesday,False
+2025-04-17,Priceline Pharmacy Cannington,27.5,Health,0,2025,4,17,Thursday,False
+2024-07-16,Chemist Warehouse Balcatta,23.3,Health,0,2024,7,16,Tuesday,False
+2025-07-07,Uber Cannington Purchase,44.11,Transport,0,2025,7,7,Monday,False
+2025-03-04,Coles Joondalup Purchase,65.4,Groceries,0,2025,3,4,Tuesday,False
+2026-03-13,Rent Balcatta,650.0,Bills,0,2026,3,13,Friday,False
+2024-05-23,PlayStation Store Perth Thu,12.94,Entertainment,0,2024,5,23,Thursday,False
+2025-04-27,IGA Online,60.82,Groceries,0,2025,4,27,Sunday,True
+2024-12-14,Spudshed Cannington Sat,77.6,Groceries,0,2024,12,14,Saturday,True
+2024-05-01,Chemist Warehouse Perth,38.4,Health,0,2024,5,1,Wednesday,False
+2025-01-22,Telstra Mobile Morley Wed,70.2,Bills,0,2025,1,22,Wednesday,False
+2025-08-30,BP Fuel Purchase,43.71,Transport,0,2025,8,30,Saturday,True
+2024-05-08,Optus Internet Online,79.0,Bills,0,2024,5,8,Wednesday,False
+2025-05-02,Nando's Cannington Fri,19.3,Dining,0,2025,5,2,Friday,False
+2025-08-19,Woolworths Ellenbrook,80.29,Groceries,0,2025,8,19,Tuesday,False
+2024-09-21,Spudshed Balcatta AU,50.12,Groceries,0,2024,9,21,Saturday,True
+2025-07-15,Local Cafe Morley,22.78,Dining,0,2025,7,15,Tuesday,False
+2025-02-09,Spudshed Perth Sun,60.06,Groceries,0,2025,2,9,Sunday,True
+2024-12-27,BP Fuel Online Fri,82.28,Transport,0,2024,12,27,Friday,False
+2024-09-10,KFC Balcatta,24.3,Dining,0,2024,9,10,Tuesday,False
+2024-01-24,KFC Perth Card,22.8,Dining,0,2024,1,24,Wednesday,False
+2026-02-12,Kmart,60.34,Shopping,0,2026,2,12,Thursday,False
+2025-04-17,ALDI Perth Thu,41.83,Groceries,0,2025,4,17,Thursday,False
+2024-11-11,McDonald's Joondalup Mon,20.16,Dining,0,2024,11,11,Monday,False
+2026-01-20,Spudshed Tue,34.17,Groceries,0,2026,1,20,Tuesday,False
+2026-04-15,Ampol Fuel Perth Card,103.87,Transport,0,2026,4,15,Wednesday,False
+2024-03-08,Optus Internet Online,79.0,Bills,0,2024,3,8,Friday,False
+2025-12-05,Coles Ellenbrook AU,54.83,Groceries,0,2025,12,5,Friday,False
+2024-10-05,Synergy Electricity Morley,231.54,Bills,0,2024,10,5,Saturday,True
+2025-11-01,Coursera Ellenbrook Purchase,53.5,Education,0,2025,11,1,Saturday,True
+2024-04-05,Amazon AU Morley,29.42,Shopping,0,2024,4,5,Friday,False
+2025-01-26,BIG W Ellenbrook,82.88,Shopping,0,2025,1,26,Sunday,True
+2024-09-26,Local Cafe Cannington Card,8.62,Dining,0,2024,9,26,Thursday,False
+2024-08-13,BP Fuel Joondalup Card,79.01,Transport,0,2024,8,13,Tuesday,False
+2024-10-07,Dental Clinic Ellenbrook Card,273.73,Health,0,2024,10,7,Monday,False
+2025-12-10,BP Fuel Cannington AU,57.55,Transport,0,2025,12,10,Wednesday,False
+2024-02-14,Uber Perth,21.7,Transport,0,2024,2,14,Wednesday,False
+2024-06-03,Coles Balcatta AU,78.18,Groceries,0,2024,6,3,Monday,False
+2026-02-01,Steam Balcatta Sun,1.5,Entertainment,0,2026,2,1,Sunday,True
+2024-07-11,Ampol Fuel Ellenbrook Thu,121.96,Transport,0,2024,7,11,Thursday,False
+2024-06-19,Uber Online Wed,20.17,Transport,0,2024,6,19,Wednesday,False
+2024-11-18,Amazon AU Online Card,136.8,Shopping,0,2024,11,18,Monday,False
+2025-06-04,Steam Cannington,43.34,Entertainment,0,2025,6,4,Wednesday,False
+2025-12-02,Australia Post Perth AU,7.53,Other,0,2025,12,2,Tuesday,False
+2026-06-13,ALDI Purchase,27.32,Groceries,0,2026,6,13,Saturday,True
+2026-02-09,Ampol Fuel Balcatta Mon,31.38,Transport,0,2026,2,9,Monday,False
+2025-10-27,Australia Post Purchase,20.14,Other,0,2025,10,27,Monday,False
+2025-08-28,Local Cafe Morley Purchase,14.94,Dining,0,2025,8,28,Thursday,False
+2026-06-16,BIG W Ellenbrook Purchase,80.87,Shopping,0,2026,6,16,Tuesday,False
+2024-07-25,Target Joondalup Purchase,87.21,Shopping,0,2024,7,25,Thursday,False
+2025-04-04,Synergy Electricity Online,206.06,Bills,0,2025,4,4,Friday,False
+2026-02-26,BP Fuel Online Purchase,63.06,Transport,0,2026,2,26,Thursday,False
+2025-07-17,Water Corporation Cannington AU,102.61,Bills,0,2025,7,17,Thursday,False
+2025-07-08,Optus Internet Online,79.0,Bills,0,2025,7,8,Tuesday,False
+2026-04-28,Transperth Cannington Tue,5.17,Transport,0,2026,4,28,Tuesday,False
+2025-10-12,Dental Clinic Online Purchase,184.22,Health,0,2025,10,12,Sunday,True
+2024-06-11,Coles Morley Purchase,34.54,Groceries,0,2024,6,11,Tuesday,False
+2024-08-02,Rent Balcatta,650.0,Bills,0,2024,8,2,Friday,False
+2026-01-14,Woolworths Purchase,60.88,Groceries,0,2026,1,14,Wednesday,False
+2025-01-18,TAFE Course Materials Online,80.69,Education,0,2025,1,18,Saturday,True
+2025-02-01,DiDi Sat,25.88,Transport,0,2025,2,1,Saturday,True
+2026-04-09,Woolworths Online Thu,65.41,Groceries,0,2026,4,9,Thursday,False
+2024-06-16,PlayStation Store Card,62.68,Entertainment,0,2024,6,16,Sunday,True
+2024-05-23,KFC Ellenbrook AU,10.37,Dining,0,2024,5,23,Thursday,False
+2025-06-28,HOYTS Cannington Sat,41.78,Entertainment,0,2025,6,28,Saturday,True
+2025-07-01,Event Cinemas Perth Card,28.84,Entertainment,0,2025,7,1,Tuesday,False
+2024-04-11,Kmart Online Thu,35.27,Shopping,0,2024,4,11,Thursday,False
+2025-04-12,ALDI Online,22.99,Groceries,0,2025,4,12,Saturday,True
+2024-08-17,Target Balcatta Purchase,79.85,Shopping,0,2024,8,17,Saturday,True
+2024-09-12,HOYTS Ellenbrook Purchase,41.25,Entertainment,0,2024,9,12,Thursday,False
+2025-03-06,Transperth Online Purchase,7.95,Transport,0,2025,3,6,Thursday,False
+2025-02-17,Uber Eats Joondalup Mon,7.71,Dining,0,2025,2,17,Monday,False
+2026-01-12,Netflix Online,25.99,Bills,0,2026,1,12,Monday,False
+2025-09-19,Cotton On Ellenbrook AU,1.5,Shopping,0,2025,9,19,Friday,False
+2024-11-25,Priceline Pharmacy Perth Card,19.84,Health,0,2024,11,25,Monday,False
+2024-01-28,Local Cafe Morley,18.89,Dining,0,2024,1,28,Sunday,True
+2025-12-15,Nando's Cannington,43.12,Dining,0,2025,12,15,Monday,False
+2025-12-01,Local Cafe Joondalup Card,20.54,Dining,0,2025,12,1,Monday,False
+2024-10-24,Target Perth,45.39,Shopping,0,2024,10,24,Thursday,False
+2026-06-05,Rent Balcatta,650.0,Bills,0,2026,6,5,Friday,False
+2025-04-25,Rent Balcatta,650.0,Bills,0,2025,4,25,Friday,False
+2024-09-19,DiDi,29.8,Transport,0,2024,9,19,Thursday,False
+2025-03-20,Spudshed Ellenbrook,31.54,Groceries,0,2025,3,20,Thursday,False
+2026-01-10,BP Fuel Balcatta Sat,92.89,Transport,0,2026,1,10,Saturday,True
+2025-08-20,IGA Card,24.07,Groceries,0,2025,8,20,Wednesday,False
+2024-04-12,Coles Balcatta,65.29,Groceries,0,2024,4,12,Friday,False
+2024-09-26,GP Clinic Morley Purchase,112.13,Health,0,2024,9,26,Thursday,False
+2025-06-27,Uber Eats Ellenbrook AU,27.24,Dining,0,2025,6,27,Friday,False
+2024-11-15,GP Clinic Ellenbrook Purchase,55.78,Health,0,2024,11,15,Friday,False
+2024-09-04,Ampol Fuel Wed,56.03,Transport,0,2024,9,4,Wednesday,False
+2024-09-04,Nando's Online Wed,24.72,Dining,0,2024,9,4,Wednesday,False
+2025-09-08,Optus Internet Online,79.0,Bills,0,2025,9,8,Monday,False
+2024-09-03,KFC Cannington AU,12.95,Dining,0,2024,9,3,Tuesday,False
+2025-08-15,HOYTS Morley,13.11,Entertainment,0,2025,8,15,Friday,False
+2024-01-18,Telstra Mobile Online,55.0,Bills,0,2024,1,18,Thursday,False
+2024-01-26,ALDI Morley Card,49.37,Groceries,0,2024,1,26,Friday,False
+2025-05-29,Amazon AU AU,58.02,Shopping,0,2025,5,29,Thursday,False
+2024-11-06,Synergy Electricity AU,168.15,Bills,0,2024,11,6,Wednesday,False
+2025-03-15,Uber Eats Ellenbrook Card,56.77,Dining,0,2025,3,15,Saturday,True
+2024-12-10,Charity Donation Joondalup Card,18.9,Other,0,2024,12,10,Tuesday,False
+2024-06-21,Rent Balcatta,650.0,Bills,0,2024,6,21,Friday,False
+2025-01-18,Cotton On Joondalup Card,111.17,Shopping,0,2025,1,18,Saturday,True
+2026-06-22,Water Corporation Joondalup,105.42,Bills,0,2026,6,22,Monday,False
+2024-07-09,Target Joondalup AU,47.58,Shopping,0,2024,7,9,Tuesday,False
+2025-03-11,IGA Perth Purchase,34.45,Groceries,0,2025,3,11,Tuesday,False
+2024-04-22,Hair Salon Cannington Mon,92.89,Personal Care,0,2024,4,22,Monday,False
+2025-05-28,GP Clinic Morley Wed,86.2,Health,0,2025,5,28,Wednesday,False
+2024-05-01,Woolworths Joondalup Card,37.81,Groceries,0,2024,5,1,Wednesday,False
+2025-11-18,HOYTS Ellenbrook Purchase,38.29,Entertainment,0,2025,11,18,Tuesday,False
+2025-05-06,BP Fuel Online Purchase,86.51,Transport,0,2025,5,6,Tuesday,False
+2025-04-25,Target Cannington Fri,29.41,Shopping,0,2025,4,25,Friday,False
+2024-08-03,Kmart Ellenbrook AU,47.74,Shopping,0,2024,8,3,Saturday,True
+2026-01-03,Amazon AU Morley,62.41,Shopping,0,2026,1,3,Saturday,True
+2024-10-21,Spudshed Joondalup AU,42.43,Groceries,0,2024,10,21,Monday,False
+2024-07-22,Concert Ticket Perth Purchase,62.45,Entertainment,0,2024,7,22,Monday,False
+2024-11-12,Steam Online AU,18.94,Entertainment,0,2024,11,12,Tuesday,False
+2025-01-21,IGA Ellenbrook AU,15.17,Groceries,0,2025,1,21,Tuesday,False
+2024-10-28,Transperth Joondalup Purchase,7.59,Transport,0,2024,10,28,Monday,False
+2026-01-16,DoorDash Online AU,58.46,Dining,0,2026,1,16,Friday,False
+2024-10-07,McDonald's Balcatta Mon,10.3,Dining,0,2024,10,7,Monday,False
+2024-05-09,Dental Clinic Ellenbrook,245.67,Health,0,2024,5,9,Thursday,False
+2024-11-12,Woolworths,79.19,Groceries,0,2024,11,12,Tuesday,False
+2025-09-04,Dental Clinic Perth Thu,177.61,Health,0,2025,9,4,Thursday,False
+2026-01-18,Coles Cannington Purchase,31.73,Groceries,0,2026,1,18,Sunday,True
+2026-01-13,Ampol Fuel Cannington Purchase,73.55,Transport,0,2026,1,13,Tuesday,False
+2026-01-12,BP Fuel Morley Mon,80.74,Transport,0,2026,1,12,Monday,False
+2024-12-02,Coles Perth Purchase,56.99,Groceries,0,2024,12,2,Monday,False
+2025-02-21,Udemy Morley Card,38.13,Education,0,2025,2,21,Friday,False
+2024-10-17,DoorDash Online Card,23.31,Dining,0,2024,10,17,Thursday,False
+2025-07-01,Spudshed Balcatta Card,87.64,Groceries,0,2025,7,1,Tuesday,False
+2025-12-02,Rent Tue,629.96,Bills,0,2025,12,2,Tuesday,False
+2026-01-14,Nail Studio Ellenbrook,60.16,Personal Care,0,2026,1,14,Wednesday,False
+2026-03-18,ALDI Morley Card,53.14,Groceries,0,2026,3,18,Wednesday,False
+2026-04-23,Transperth Perth Card,13.0,Transport,0,2026,4,23,Thursday,False
+2026-01-21,Synergy Electricity Online Purchase,168.09,Bills,0,2026,1,21,Wednesday,False
+2025-12-13,Woolworths Ellenbrook Purchase,116.21,Groceries,0,2025,12,13,Saturday,True
+2024-02-12,Ampol Fuel Perth AU,94.12,Transport,0,2024,2,12,Monday,False
+2025-09-12,Nando's Purchase,44.38,Dining,0,2025,9,12,Friday,False
+2024-05-07,Cotton On Ellenbrook Purchase,67.65,Shopping,0,2024,5,7,Tuesday,False
+2025-07-16,Coles Ellenbrook Purchase,87.05,Groceries,0,2025,7,16,Wednesday,False
+2026-04-15,McDonald's Joondalup AU,29.18,Dining,0,2026,4,15,Wednesday,False
+2025-10-23,Target Joondalup,93.58,Shopping,0,2025,10,23,Thursday,False
+2025-10-31,Ampol Fuel Joondalup Purchase,30.52,Transport,0,2025,10,31,Friday,False
+2024-03-04,Water Corporation Cannington Purchase,156.24,Bills,0,2024,3,4,Monday,False
+2024-06-04,Coles Cannington Card,75.7,Groceries,0,2024,6,4,Tuesday,False
+2024-12-27,BP Fuel Cannington,85.68,Transport,0,2024,12,27,Friday,False
+2025-08-16,IGA Joondalup Purchase,33.65,Groceries,0,2025,8,16,Saturday,True
+2025-05-31,Rent Purchase,656.69,Bills,0,2025,5,31,Saturday,True
+2026-02-13,ALDI Online Purchase,12.44,Groceries,0,2026,2,13,Friday,False
+2025-07-18,Spudshed Joondalup Purchase,32.43,Groceries,0,2025,7,18,Friday,False
+2024-07-04,Kmart Ellenbrook AU,41.52,Shopping,0,2024,7,4,Thursday,False
+2025-02-12,ALDI Balcatta Card,49.24,Groceries,0,2025,2,12,Wednesday,False
+2024-05-07,Virgin Australia Joondalup Tue,158.49,Travel,0,2024,5,7,Tuesday,False
+2025-12-17,DiDi Joondalup,5.56,Transport,0,2025,12,17,Wednesday,False
+2024-09-29,DoorDash Balcatta,69.19,Dining,0,2024,9,29,Sunday,True
+2026-06-13,Woolworths Sat,57.38,Groceries,0,2026,6,13,Saturday,True
+2024-08-04,GP Clinic AU,88.08,Health,0,2024,8,4,Sunday,True
+2024-04-02,TAFE Course Materials Ellenbrook AU,144.57,Education,0,2024,4,2,Tuesday,False
+2025-04-07,Woolworths Cannington Card,58.31,Groceries,0,2025,4,7,Monday,False
+2025-09-22,DiDi Ellenbrook AU,26.33,Transport,0,2025,9,22,Monday,False
+2026-05-22,Rent Balcatta,650.0,Bills,0,2026,5,22,Friday,False
+2026-05-20,Transperth Joondalup AU,11.76,Transport,0,2026,5,20,Wednesday,False
+2025-04-14,TAFE Course Materials Cannington Card,825.03,Education,1,2025,4,14,Monday,False
+2025-04-18,Dental Clinic Online Purchase,192.79,Health,0,2025,4,18,Friday,False
+2026-03-22,Uber Eats Joondalup Card,64.57,Dining,0,2026,3,22,Sunday,True
+2025-01-22,Chemist Warehouse Ellenbrook AU,33.76,Health,0,2025,1,22,Wednesday,False
+2024-10-15,HOYTS Perth Tue,41.97,Entertainment,0,2024,10,15,Tuesday,False
+2025-03-07,Woolworths Joondalup Card,61.43,Groceries,0,2025,3,7,Friday,False
+2025-01-10,Amazon AU Joondalup Fri,32.33,Shopping,0,2025,1,10,Friday,False
+2024-03-13,HOYTS Balcatta Wed,32.44,Entertainment,0,2024,3,13,Wednesday,False
+2026-06-01,Woolworths Perth,18.36,Groceries,0,2026,6,1,Monday,False
+2024-05-13,Local Cafe Online Card,26.28,Dining,0,2024,5,13,Monday,False
+2024-07-12,Netflix Online,25.99,Bills,0,2024,7,12,Friday,False
+2025-05-12,Local Cafe Ellenbrook AU,13.9,Dining,0,2025,5,12,Monday,False
+2024-02-03,ALDI Morley Card,54.41,Groceries,0,2024,2,3,Saturday,True
+2025-09-17,Spudshed Online,41.61,Groceries,0,2025,9,17,Wednesday,False
+2026-06-07,HOYTS Balcatta AU,33.89,Entertainment,0,2026,6,7,Sunday,True
+2026-01-18,Uber Balcatta Purchase,17.02,Transport,0,2026,1,18,Sunday,True
+2024-12-24,DoorDash Morley Purchase,83.75,Dining,0,2024,12,24,Tuesday,False
+2025-10-29,Uber Eats Ellenbrook AU,35.65,Dining,0,2025,10,29,Wednesday,False
+2024-03-15,Rent Balcatta,650.0,Bills,0,2024,3,15,Friday,False
+2024-02-15,Concert Ticket Balcatta Thu,149.32,Entertainment,0,2024,2,15,Thursday,False
+2026-03-08,Woolworths Perth Sun,57.28,Groceries,0,2026,3,8,Sunday,True
+2024-11-15,IGA Joondalup Purchase,37.18,Groceries,0,2024,11,15,Friday,False
+2026-02-05,Coles Online AU,1.5,Groceries,0,2026,2,5,Thursday,False
+2025-04-22,Spotify Online,13.99,Bills,0,2025,4,22,Tuesday,False
+2025-10-06,HOYTS Morley Purchase,22.33,Entertainment,0,2025,10,6,Monday,False
+2026-04-06,Spudshed Online Card,41.87,Groceries,0,2026,4,6,Monday,False
+2026-05-02,Myer Morley Purchase,1.5,Shopping,0,2026,5,2,Saturday,True
+2024-01-14,Synergy Electricity Joondalup Card,180.05,Bills,0,2024,1,14,Sunday,True
+2024-11-24,Spudshed Perth Card,106.25,Groceries,0,2024,11,24,Sunday,True
+2024-07-09,Spotify Joondalup Purchase,13.89,Bills,0,2024,7,9,Tuesday,False
+2024-01-19,Rent Balcatta,650.0,Bills,0,2024,1,19,Friday,False
+2026-06-24,Water Corporation Joondalup Card,158.77,Bills,0,2026,6,24,Wednesday,False
+2026-01-04,Uber Eats Cannington AU,51.75,Dining,0,2026,1,4,Sunday,True
+2024-05-21,Charity Donation Online AU,43.16,Other,0,2024,5,21,Tuesday,False
+2024-12-04,KFC Joondalup AU,53.71,Dining,0,2024,12,4,Wednesday,False
+2024-07-08,BIG W Purchase,102.11,Shopping,0,2024,7,8,Monday,False
+2025-05-07,Local Cafe Morley Purchase,9.79,Dining,0,2025,5,7,Wednesday,False
+2025-07-24,HOYTS Balcatta AU,33.07,Entertainment,0,2025,7,24,Thursday,False
+2026-06-15,Nando's Morley Purchase,27.73,Dining,0,2026,6,15,Monday,False
+2025-11-16,Nando's Card,32.07,Dining,0,2025,11,16,Sunday,True
+2024-01-25,PlayStation Store Morley Purchase,25.56,Entertainment,0,2024,1,25,Thursday,False
+2024-03-05,McDonald's Joondalup Card,10.65,Dining,0,2024,3,5,Tuesday,False
+2024-10-25,Priceline Pharmacy Morley,54.37,Health,0,2024,10,25,Friday,False
+2024-02-26,Transperth Balcatta Card,1.5,Transport,0,2024,2,26,Monday,False
+2024-10-24,Woolworths Purchase,44.78,Groceries,0,2024,10,24,Thursday,False
+2026-05-21,Kmart Perth Thu,39.99,Shopping,0,2026,5,21,Thursday,False
+2025-10-04,Rent Card,661.42,Bills,0,2025,10,4,Saturday,True
+2024-01-31,ALDI Joondalup Purchase,41.08,Groceries,0,2024,1,31,Wednesday,False
+2024-05-05,IGA,86.19,Groceries,0,2024,5,5,Sunday,True
+2026-02-07,Ampol Fuel Morley AU,91.32,Transport,0,2026,2,7,Saturday,True
+2024-04-04,DiDi Cannington Thu,33.52,Transport,0,2024,4,4,Thursday,False
+2026-03-05,Optus Internet Balcatta,79.99,Bills,0,2026,3,5,Thursday,False
+2025-04-26,IGA Cannington AU,41.53,Groceries,0,2025,4,26,Saturday,True
+2024-12-23,Coles Cannington Card,43.08,Groceries,0,2024,12,23,Monday,False
+2024-03-09,ALDI Joondalup Sat,73.37,Groceries,0,2024,3,9,Saturday,True
+2026-02-02,ALDI Ellenbrook,71.66,Groceries,0,2026,2,2,Monday,False
+2024-01-10,Charity Donation Online Wed,1.5,Other,0,2024,1,10,Wednesday,False
+2026-01-16,BIG W Joondalup Fri,56.86,Shopping,0,2026,1,16,Friday,False
+2024-07-22,BP Fuel Online Card,42.48,Transport,0,2024,7,22,Monday,False
+2025-02-24,Priceline Pharmacy Perth Purchase,17.8,Health,0,2025,2,24,Monday,False
+2025-04-26,Coles Ellenbrook Card,101.6,Groceries,0,2025,4,26,Saturday,True
+2026-03-24,Local Cafe Morley Card,8.76,Dining,0,2026,3,24,Tuesday,False
+2025-10-04,IGA Morley Sat,45.48,Groceries,0,2025,10,4,Saturday,True
+2024-07-07,KFC Purchase,8.84,Dining,0,2024,7,7,Sunday,True
+2025-01-18,Local Cafe,14.22,Dining,0,2025,1,18,Saturday,True
+2024-08-15,IGA Morley,17.45,Groceries,0,2024,8,15,Thursday,False
+2025-09-08,Coles Balcatta Mon,74.75,Groceries,0,2025,9,8,Monday,False
+2024-09-04,HOYTS Cannington Wed,16.28,Entertainment,0,2024,9,4,Wednesday,False
+2024-12-06,Amazon AU Ellenbrook Card,101.39,Shopping,0,2024,12,6,Friday,False
+2025-02-27,DoorDash Online Thu,41.08,Dining,0,2025,2,27,Thursday,False
+2025-10-22,Transperth Cannington AU,4.59,Transport,0,2025,10,22,Wednesday,False
+2026-01-06,Telstra Mobile Morley Card,58.58,Bills,0,2026,1,6,Tuesday,False
+2026-06-04,Nail Studio Morley,80.08,Personal Care,0,2026,6,4,Thursday,False
+2026-03-18,Chemist Warehouse Ellenbrook Purchase,48.78,Health,0,2026,3,18,Wednesday,False
+2024-01-05,Coles Perth Card,78.14,Groceries,0,2024,1,5,Friday,False
+2024-04-26,Coles Online Fri,43.7,Groceries,0,2024,4,26,Friday,False
+2025-06-18,Transperth Online,10.3,Transport,0,2025,6,18,Wednesday,False
+2024-07-07,DiDi Perth Sun,23.38,Transport,0,2024,7,7,Sunday,True
+2025-01-25,Uber Ellenbrook,25.06,Transport,0,2025,1,25,Saturday,True
+2025-08-12,Amazon AU Ellenbrook Purchase,156.88,Shopping,0,2025,8,12,Tuesday,False
+2025-01-05,Concert Ticket Online AU,192.38,Entertainment,0,2025,1,5,Sunday,True
+2024-07-05,Rent Balcatta,650.0,Bills,0,2024,7,5,Friday,False
+2024-10-28,DoorDash Balcatta AU,83.16,Dining,0,2024,10,28,Monday,False
+2024-10-09,Spudshed Ellenbrook Wed,72.69,Groceries,0,2024,10,9,Wednesday,False
+2024-04-05,Coles Online Card,90.0,Groceries,0,2024,4,5,Friday,False
+2026-06-26,Uber Ellenbrook Fri,28.56,Transport,0,2026,6,26,Friday,False
+2024-08-02,KFC Online Fri,25.4,Dining,0,2024,8,2,Friday,False
+2024-11-08,Optus Internet Online,79.0,Bills,0,2024,11,8,Friday,False
+2024-12-04,Telstra Mobile Joondalup Wed,42.13,Bills,0,2024,12,4,Wednesday,False
+2024-12-09,Spudshed Perth Purchase,23.76,Groceries,0,2024,12,9,Monday,False
+2024-07-20,IGA Ellenbrook Sat,1.7,Groceries,0,2024,7,20,Saturday,True
+2025-06-07,Ampol Fuel Online AU,93.7,Transport,0,2025,6,7,Saturday,True
+2026-02-23,Telstra Mobile Joondalup Purchase,48.51,Bills,0,2026,2,23,Monday,False
+2024-06-28,Steam Ellenbrook AU,50.5,Entertainment,0,2024,6,28,Friday,False
+2025-12-31,DoorDash Perth AU,58.42,Dining,0,2025,12,31,Wednesday,False
+2025-10-02,Spudshed AU,72.28,Groceries,0,2025,10,2,Thursday,False
+2026-03-29,Optus Internet Morley,72.82,Bills,0,2026,3,29,Sunday,True
+2026-06-18,DoorDash Balcatta Thu,27.22,Dining,0,2026,6,18,Thursday,False
+2025-04-13,BIG W Balcatta AU,49.93,Shopping,0,2025,4,13,Sunday,True
+2025-10-20,Priceline Pharmacy Online Card,10.16,Health,0,2025,10,20,Monday,False
+2024-12-29,Barber and Beauty Card,86.03,Personal Care,0,2024,12,29,Sunday,True
+2024-07-31,Rent Joondalup Purchase,669.92,Bills,0,2024,7,31,Wednesday,False
+2026-03-26,McDonald's Morley AU,22.61,Dining,0,2026,3,26,Thursday,False
+2025-08-29,McDonald's Balcatta Fri,16.48,Dining,0,2025,8,29,Friday,False
+2025-03-08,Concert Ticket Joondalup Card,196.4,Entertainment,0,2025,3,8,Saturday,True
+2025-06-05,Water Corporation Cannington Thu,173.22,Bills,0,2025,6,5,Thursday,False
+2024-12-01,Rent Perth Purchase,633.03,Bills,0,2024,12,1,Sunday,True
+2024-08-08,Optus Internet Online,79.0,Bills,0,2024,8,8,Thursday,False
+2024-07-17,Transperth Perth,69.23,Transport,1,2024,7,17,Wednesday,False
+2026-06-06,HOYTS Morley AU,34.46,Entertainment,0,2026,6,6,Saturday,True
+2026-01-09,Udemy Joondalup Purchase,28.44,Education,0,2026,1,9,Friday,False
+2024-04-11,BP Fuel Joondalup Card,84.42,Transport,0,2024,4,11,Thursday,False
+2025-12-15,BIG W Balcatta Card,58.18,Shopping,0,2025,12,15,Monday,False
+2024-10-12,Netflix Online,25.99,Bills,0,2024,10,12,Saturday,True
+2026-04-06,Uber Eats Morley Card,17.98,Dining,0,2026,4,6,Monday,False
+2025-01-31,Ampol Fuel Fri,92.91,Transport,0,2025,1,31,Friday,False
+2024-09-05,ALDI Morley,10.85,Groceries,0,2024,9,5,Thursday,False
+2025-06-08,Booking.com Joondalup AU,324.63,Travel,0,2025,6,8,Sunday,True
+2024-09-28,Myer Ellenbrook Purchase,122.8,Shopping,0,2024,9,28,Saturday,True
+2024-11-03,Spudshed Purchase,136.14,Groceries,0,2024,11,3,Sunday,True
+2024-01-05,IGA Cannington AU,62.63,Groceries,0,2024,1,5,Friday,False
+2024-05-24,Uber Balcatta Fri,22.06,Transport,0,2024,5,24,Friday,False
+2024-08-17,Spudshed Sat,68.93,Groceries,0,2024,8,17,Saturday,True
+2024-08-30,Rent Balcatta,650.0,Bills,0,2024,8,30,Friday,False
+2026-06-03,Uber Eats Ellenbrook Wed,57.67,Dining,0,2026,6,3,Wednesday,False
+2025-11-10,Netflix Perth Mon,26.65,Bills,0,2025,11,10,Monday,False
+2024-04-25,Target Cannington Card,68.72,Shopping,0,2024,4,25,Thursday,False
+2025-06-20,Rent Balcatta,650.0,Bills,0,2025,6,20,Friday,False
+2024-10-05,Local Cafe Joondalup Purchase,10.04,Dining,0,2024,10,5,Saturday,True
+2026-05-23,Myer Joondalup AU,103.96,Shopping,0,2026,5,23,Saturday,True
+2024-05-01,Coles Morley Wed,5.56,Groceries,0,2024,5,1,Wednesday,False
+2025-12-27,DoorDash,53.19,Dining,0,2025,12,27,Saturday,True
+2024-10-05,Ampol Fuel Perth Sat,54.19,Transport,0,2024,10,5,Saturday,True
+2024-04-11,HOYTS Cannington Purchase,26.21,Entertainment,0,2024,4,11,Thursday,False
+2026-02-03,KFC Joondalup Purchase,15.44,Dining,0,2026,2,3,Tuesday,False
+2024-08-18,McDonald's AU,33.78,Dining,0,2024,8,18,Sunday,True
+2025-01-22,Spotify Online,13.99,Bills,0,2025,1,22,Wednesday,False
+2025-01-22,Steam Perth Wed,1.5,Entertainment,0,2025,1,22,Wednesday,False
+2024-10-19,McDonald's Joondalup Sat,11.27,Dining,0,2024,10,19,Saturday,True
+2025-12-12,Woolworths Joondalup Purchase,74.02,Groceries,0,2025,12,12,Friday,False
+2025-10-13,Target Morley Mon,68.37,Shopping,0,2025,10,13,Monday,False
+2024-12-14,BP Fuel Purchase,55.95,Transport,0,2024,12,14,Saturday,True
+2024-05-08,Woolworths Balcatta,116.37,Groceries,0,2024,5,8,Wednesday,False
+2024-12-13,BIG W Perth Purchase,77.85,Shopping,0,2024,12,13,Friday,False
+2025-07-22,Spotify Online,13.99,Bills,0,2025,7,22,Tuesday,False
+2024-02-11,Nail Studio Online AU,63.27,Personal Care,0,2024,2,11,Sunday,True
+2025-05-17,McDonald's Perth Card,29.61,Dining,0,2025,5,17,Saturday,True
+2026-02-20,Spudshed Balcatta AU,2.74,Groceries,0,2026,2,20,Friday,False
+2024-08-08,Telstra Mobile Online Purchase,40.45,Bills,0,2024,8,8,Thursday,False
+2024-04-07,Nando's AU,48.9,Dining,0,2024,4,7,Sunday,True
+2024-05-15,Netflix Morley Card,28.06,Bills,0,2024,5,15,Wednesday,False
+2024-04-09,DiDi Online Tue,11.19,Transport,0,2024,4,9,Tuesday,False
+2025-11-12,Water Corporation Ellenbrook,67.4,Bills,0,2025,11,12,Wednesday,False
+2026-04-06,Synergy Electricity Joondalup,191.56,Bills,0,2026,4,6,Monday,False
+2026-04-04,IGA Joondalup Sat,25.3,Groceries,0,2026,4,4,Saturday,True
+2026-02-20,Coursera Cannington Card,82.47,Education,0,2026,2,20,Friday,False
+2024-02-13,ALDI Perth Card,74.33,Groceries,0,2024,2,13,Tuesday,False
+2025-05-15,Steam Balcatta Thu,33.96,Entertainment,0,2025,5,15,Thursday,False
+2026-04-18,Amazon AU Ellenbrook Card,82.02,Shopping,0,2026,4,18,Saturday,True
+2024-08-16,BIG W Balcatta Fri,70.17,Shopping,0,2024,8,16,Friday,False
+2025-09-22,Coles Joondalup Mon,76.28,Groceries,0,2025,9,22,Monday,False
+2024-05-29,Telstra Mobile Online,50.08,Bills,0,2024,5,29,Wednesday,False
+2025-03-10,Spotify Mon,13.59,Bills,0,2025,3,10,Monday,False
+2026-01-20,IGA AU,30.91,Groceries,0,2026,1,20,Tuesday,False
+2024-07-07,Cotton On Perth Purchase,99.05,Shopping,0,2024,7,7,Sunday,True
+2024-06-05,Synergy Electricity Morley Purchase,95.75,Bills,0,2024,6,5,Wednesday,False
+2026-01-08,Optus Internet Online,79.0,Bills,0,2026,1,8,Thursday,False
+2025-01-26,Local Cafe Cannington,11.2,Dining,0,2025,1,26,Sunday,True
+2025-03-22,Spotify Online,13.99,Bills,0,2025,3,22,Saturday,True
+2024-07-08,IGA Morley Mon,46.98,Groceries,0,2024,7,8,Monday,False
+2025-08-27,Coles Cannington Purchase,50.58,Groceries,0,2025,8,27,Wednesday,False
+2025-07-18,Telstra Mobile Online,55.0,Bills,0,2025,7,18,Friday,False
+2025-09-14,Myer Perth Sun,94.63,Shopping,0,2025,9,14,Sunday,True
+2025-04-29,Telstra Mobile Morley Card,57.02,Bills,0,2025,4,29,Tuesday,False
+2024-01-04,Charity Donation Cannington AU,44.92,Other,0,2024,1,4,Thursday,False
+2025-02-02,Hair Salon Ellenbrook AU,123.49,Personal Care,0,2025,2,2,Sunday,True
+2024-12-24,Target Morley AU,52.38,Shopping,0,2024,12,24,Tuesday,False
+2024-12-01,KFC Perth AU,56.71,Dining,0,2024,12,1,Sunday,True
+2026-02-08,IGA Cannington AU,25.47,Groceries,0,2026,2,8,Sunday,True
+2024-03-14,Ampol Fuel Morley Card,129.37,Transport,0,2024,3,14,Thursday,False
+2025-10-20,Netflix,21.46,Bills,0,2025,10,20,Monday,False
+2026-02-13,Beauty Store Perth,81.86,Personal Care,0,2026,2,13,Friday,False
+2026-02-05,Nando's Balcatta Card,31.28,Dining,0,2026,2,5,Thursday,False
+2025-08-18,Woolworths Cannington,58.29,Groceries,0,2025,8,18,Monday,False
+2026-02-01,Local Cafe Ellenbrook AU,16.65,Dining,0,2026,2,1,Sunday,True
+2024-01-18,Miscellaneous Purchase Balcatta AU,26.64,Other,0,2024,1,18,Thursday,False
+2024-05-21,Coles Purchase,82.22,Groceries,0,2024,5,21,Tuesday,False
+2026-02-20,Nando's Cannington Fri,30.71,Dining,0,2026,2,20,Friday,False
+2024-09-17,Water Corporation Online Purchase,110.44,Bills,0,2024,9,17,Tuesday,False
+2024-07-31,Transperth Ellenbrook Purchase,4.91,Transport,0,2024,7,31,Wednesday,False
+2025-03-04,Event Cinemas Cannington AU,32.77,Entertainment,0,2025,3,4,Tuesday,False
+2025-04-16,Officeworks Joondalup Card,66.76,Education,0,2025,4,16,Wednesday,False
+2025-10-03,Local Cafe Cannington Fri,11.18,Dining,0,2025,10,3,Friday,False
+2026-05-21,ALDI Online AU,46.95,Groceries,0,2026,5,21,Thursday,False
+2025-01-16,Woolworths Online,83.72,Groceries,0,2025,1,16,Thursday,False
+2024-01-22,Synergy Electricity Online Purchase,188.76,Bills,0,2024,1,22,Monday,False
+2025-02-28,IGA Ellenbrook Purchase,55.44,Groceries,0,2025,2,28,Friday,False
+2025-08-09,Hair Salon Card,53.41,Personal Care,0,2025,8,9,Saturday,True
+2025-06-22,Spotify Online,13.99,Bills,0,2025,6,22,Sunday,True
+2024-10-22,ALDI Perth Card,16.66,Groceries,0,2024,10,22,Tuesday,False
+2024-11-22,Chemist Warehouse Online Card,18.57,Health,0,2024,11,22,Friday,False
+2024-01-17,HOYTS Perth Purchase,23.02,Entertainment,0,2024,1,17,Wednesday,False
+2024-06-22,Gift Purchase Cannington,124.17,Other,0,2024,6,22,Saturday,True
+2024-10-13,McDonald's Purchase,18.66,Dining,0,2024,10,13,Sunday,True
+2024-04-22,DiDi Perth Purchase,37.25,Transport,0,2024,4,22,Monday,False
+2025-09-13,Coles Online Purchase,74.36,Groceries,0,2025,9,13,Saturday,True
+2024-10-01,Spotify Perth Purchase,16.85,Bills,0,2024,10,1,Tuesday,False
+2025-04-05,Coles Purchase,101.29,Groceries,0,2025,4,5,Saturday,True
+2024-04-13,PlayStation Store Purchase,49.4,Entertainment,0,2024,4,13,Saturday,True
+2024-03-12,Netflix Online,25.99,Bills,0,2024,3,12,Tuesday,False
+2026-04-04,ALDI Balcatta AU,1.81,Groceries,0,2026,4,4,Saturday,True
+2025-12-07,Local Cafe Perth,49.77,Dining,0,2025,12,7,Sunday,True
+2025-06-07,BP Fuel Ellenbrook Card,69.2,Transport,0,2025,6,7,Saturday,True
+2024-05-19,IGA Cannington Purchase,40.13,Groceries,0,2024,5,19,Sunday,True
+2025-03-17,GP Clinic Morley Mon,108.48,Health,0,2025,3,17,Monday,False
+2024-07-08,Optus Internet Online,79.0,Bills,0,2024,7,8,Monday,False
+2026-01-25,TAFE Course Materials Joondalup Sun,89.35,Education,0,2026,1,25,Sunday,True
+2024-03-08,Transperth Balcatta Card,5.53,Transport,0,2024,3,8,Friday,False
+2024-02-07,Barber and Beauty Online Card,70.11,Personal Care,0,2024,2,7,Wednesday,False
+2024-03-15,Cotton On Perth Card,37.32,Shopping,0,2024,3,15,Friday,False
+2024-12-22,Dental Clinic Morley Sun,47.4,Health,0,2024,12,22,Sunday,True
+2024-03-22,Spotify Online,13.99,Bills,0,2024,3,22,Friday,False
+2024-07-06,Charity Donation Ellenbrook,13.59,Other,0,2024,7,6,Saturday,True
+2025-11-25,Uber Eats Cannington Tue,34.21,Dining,0,2025,11,25,Tuesday,False
+2025-05-05,Amazon AU Balcatta,47.22,Shopping,0,2025,5,5,Monday,False
+2025-01-23,Optus Internet Morley,86.5,Bills,0,2025,1,23,Thursday,False
+2024-09-27,Ampol Fuel Ellenbrook Fri,82.57,Transport,0,2024,9,27,Friday,False
+2025-01-18,Ampol Fuel Ellenbrook Card,86.7,Transport,0,2025,1,18,Saturday,True
+2026-05-08,Uber Eats Morley Purchase,56.22,Dining,0,2026,5,8,Friday,False
+2024-02-29,Ampol Fuel Balcatta AU,52.99,Transport,0,2024,2,29,Thursday,False
+2026-02-26,IGA Cannington AU,8.19,Groceries,0,2026,2,26,Thursday,False
+2024-03-05,Coles Cannington AU,57.79,Groceries,0,2024,3,5,Tuesday,False
+2025-01-15,McDonald's Joondalup Purchase,9.22,Dining,0,2025,1,15,Wednesday,False
+2025-05-06,Local Cafe Cannington AU,7.77,Dining,0,2025,5,6,Tuesday,False
+2025-12-20,Nando's Perth Sat,60.16,Dining,0,2025,12,20,Saturday,True
+2024-11-01,Synergy Electricity Morley Card,17.8,Bills,0,2024,11,1,Friday,False
+2025-07-08,McDonald's Morley AU,16.46,Dining,0,2025,7,8,Tuesday,False
+2026-02-23,DoorDash Perth Mon,35.56,Dining,0,2026,2,23,Monday,False
+2026-03-18,GP Clinic Perth,122.07,Health,0,2026,3,18,Wednesday,False
+2024-03-07,Target Cannington AU,92.56,Shopping,0,2024,3,7,Thursday,False
+2024-04-19,BP Fuel Balcatta Card,40.88,Transport,0,2024,4,19,Friday,False
+2024-04-15,Transperth Balcatta Card,8.59,Transport,0,2024,4,15,Monday,False
+2024-03-15,ALDI Perth AU,74.56,Groceries,0,2024,3,15,Friday,False
+2025-06-20,PlayStation Store Balcatta,51.71,Entertainment,0,2025,6,20,Friday,False
+2025-07-29,ALDI Cannington,46.52,Groceries,0,2025,7,29,Tuesday,False
+2024-05-26,Coles Online,82.03,Groceries,0,2024,5,26,Sunday,True
+2026-04-28,Coles Joondalup Card,59.82,Groceries,0,2026,4,28,Tuesday,False
+2024-03-26,Netflix Perth Tue,26.31,Bills,0,2024,3,26,Tuesday,False
+2024-02-12,Spotify Balcatta AU,15.31,Bills,0,2024,2,12,Monday,False
+2024-05-01,Coles Joondalup Card,87.5,Groceries,0,2024,5,1,Wednesday,False
+2025-05-27,Local Cafe Perth AU,19.94,Dining,0,2025,5,27,Tuesday,False
+2025-04-26,Coles Online,109.66,Groceries,0,2025,4,26,Saturday,True
+2025-07-03,Priceline Pharmacy Online Card,45.91,Health,0,2025,7,3,Thursday,False
+2025-01-23,Synergy Electricity Morley Card,178.33,Bills,0,2025,1,23,Thursday,False
+2024-01-23,Virgin Australia Perth Tue,332.39,Travel,0,2024,1,23,Tuesday,False
+2024-04-11,Charity Donation Cannington,31.54,Other,0,2024,4,11,Thursday,False
+2024-12-11,Event Cinemas Balcatta AU,170.61,Entertainment,1,2024,12,11,Wednesday,False
+2025-11-21,Rent Balcatta,650.0,Bills,0,2025,11,21,Friday,False
+2025-07-18,Uber Balcatta Card,29.26,Transport,0,2025,7,18,Friday,False
+2026-01-01,IGA Thu,48.61,Groceries,0,2026,1,1,Thursday,False
+2025-07-22,PlayStation Store AU,15.67,Entertainment,0,2025,7,22,Tuesday,False
+2025-03-12,Concert Ticket Balcatta AU,157.46,Entertainment,0,2025,3,12,Wednesday,False
+2024-06-14,Uber Balcatta Card,6.46,Transport,0,2024,6,14,Friday,False
+2026-04-17,DiDi Perth Purchase,30.89,Transport,0,2026,4,17,Friday,False
+2025-11-18,Steam Ellenbrook,45.69,Entertainment,0,2025,11,18,Tuesday,False
+2026-03-01,Steam Cannington AU,10.24,Entertainment,0,2026,3,1,Sunday,True
+2026-01-22,Optus Internet Cannington Card,82.73,Bills,0,2026,1,22,Thursday,False
+2025-08-08,Concert Ticket Joondalup AU,178.03,Entertainment,0,2025,8,8,Friday,False
+2025-07-12,Officeworks Balcatta,53.26,Education,0,2025,7,12,Saturday,True
+2026-01-06,Telstra Mobile Cannington,38.71,Bills,0,2026,1,6,Tuesday,False
+2026-04-21,Kmart Joondalup Tue,5.24,Shopping,0,2026,4,21,Tuesday,False
+2026-01-14,Uber Online Card,19.93,Transport,0,2026,1,14,Wednesday,False
+2024-07-30,Uber Morley AU,7.45,Transport,0,2024,7,30,Tuesday,False
+2024-03-24,Myer,50.06,Shopping,0,2024,3,24,Sunday,True
+2025-02-11,Transperth Morley Tue,15.08,Transport,0,2025,2,11,Tuesday,False
+2024-08-09,Target Online Card,28.2,Shopping,0,2024,8,9,Friday,False
+2025-08-01,Rent Balcatta,650.0,Bills,0,2025,8,1,Friday,False
+2024-01-03,ALDI Perth AU,68.3,Groceries,0,2024,1,3,Wednesday,False
+2024-11-06,BIG W Morley Wed,63.37,Shopping,0,2024,11,6,Wednesday,False
+2024-07-04,Dental Clinic Balcatta Thu,289.68,Health,0,2024,7,4,Thursday,False
+2024-06-23,Transperth Cannington AU,16.02,Transport,0,2024,6,23,Sunday,True
+2026-02-28,Airbnb Perth Purchase,231.32,Travel,0,2026,2,28,Saturday,True
+2024-03-29,Rent Balcatta,650.0,Bills,0,2024,3,29,Friday,False
+2025-03-04,Coles Perth Purchase,20.03,Groceries,0,2025,3,4,Tuesday,False
+2025-05-07,Uber Eats Ellenbrook Purchase,23.25,Dining,0,2025,5,7,Wednesday,False
+2025-05-13,DiDi Balcatta,24.17,Transport,0,2025,5,13,Tuesday,False
+2024-04-21,IGA Balcatta,51.89,Groceries,0,2024,4,21,Sunday,True
+2024-10-08,DoorDash Balcatta Purchase,38.81,Dining,0,2024,10,8,Tuesday,False
+2024-04-14,ALDI,20.9,Groceries,0,2024,4,14,Sunday,True
+2025-09-23,Woolworths Perth AU,36.05,Groceries,0,2025,9,23,Tuesday,False
+2025-04-13,Gift Purchase Morley,89.18,Other,0,2025,4,13,Sunday,True
+2026-03-30,GP Clinic Purchase,120.01,Health,0,2026,3,30,Monday,False
+2024-01-15,Uber Balcatta Purchase,22.0,Transport,0,2024,1,15,Monday,False
+2026-05-01,KFC Online Card,23.8,Dining,0,2026,5,1,Friday,False
+2025-01-05,Woolworths Ellenbrook,46.88,Groceries,0,2025,1,5,Sunday,True
+2024-07-29,DoorDash Balcatta Purchase,63.41,Dining,0,2024,7,29,Monday,False
+2025-10-06,Water Corporation Morley,129.36,Bills,0,2025,10,6,Monday,False
+2025-07-30,Target Joondalup AU,104.13,Shopping,0,2025,7,30,Wednesday,False
+2026-02-19,Netflix Perth AU,24.7,Bills,0,2026,2,19,Thursday,False
+2025-06-27,Ampol Fuel Card,115.26,Transport,0,2025,6,27,Friday,False
+2025-02-26,Nail Studio Balcatta AU,44.93,Personal Care,0,2025,2,26,Wednesday,False
+2025-12-19,Rent Balcatta,650.0,Bills,0,2025,12,19,Friday,False
+2024-03-14,BP Fuel Balcatta,91.1,Transport,0,2024,3,14,Thursday,False
+2025-10-31,Australia Post Online AU,20.9,Other,0,2025,10,31,Friday,False
+2024-06-28,IGA Morley AU,55.54,Groceries,0,2024,6,28,Friday,False
+2024-09-04,Telstra Mobile Online,51.05,Bills,0,2024,9,4,Wednesday,False
+2025-02-22,Spotify Online,13.99,Bills,0,2025,2,22,Saturday,True
+2026-01-16,Rent Balcatta,650.0,Bills,0,2026,1,16,Friday,False
+2026-02-18,Telstra Mobile Online,55.0,Bills,0,2026,2,18,Wednesday,False
+2026-05-24,ALDI Ellenbrook,33.16,Groceries,0,2026,5,24,Sunday,True
+2026-04-09,Kmart Morley,15.01,Shopping,0,2026,4,9,Thursday,False
+2025-10-05,Transperth Balcatta,9.91,Transport,0,2025,10,5,Sunday,True
+2026-01-28,Telstra Mobile Balcatta,68.25,Bills,0,2026,1,28,Wednesday,False
+2024-07-15,Hair Salon Joondalup Card,70.86,Personal Care,0,2024,7,15,Monday,False
+2024-01-04,DoorDash Perth,70.32,Dining,0,2024,1,4,Thursday,False
+2024-01-14,HOYTS Purchase,19.22,Entertainment,0,2024,1,14,Sunday,True
+2026-04-27,ALDI Balcatta Purchase,28.35,Groceries,0,2026,4,27,Monday,False
+2025-01-09,Spotify Morley AU,15.19,Bills,0,2025,1,9,Thursday,False
+2025-01-31,Myer Joondalup AU,47.43,Shopping,0,2025,1,31,Friday,False
+2024-10-18,Telstra Mobile Online,55.0,Bills,0,2024,10,18,Friday,False
+2024-03-24,McDonald's Online AU,18.2,Dining,0,2024,3,24,Sunday,True
+2025-02-09,Kmart Cannington,52.85,Shopping,0,2025,2,9,Sunday,True
+2025-09-11,DoorDash Online,33.45,Dining,0,2025,9,11,Thursday,False
+2025-11-14,Uber Perth,28.52,Transport,0,2025,11,14,Friday,False
+2024-08-18,BIG W Morley AU,43.65,Shopping,0,2024,8,18,Sunday,True
+2024-06-21,Coles Online Card,41.06,Groceries,0,2024,6,21,Friday,False
+2025-09-22,Rent Balcatta Purchase,628.21,Bills,0,2025,9,22,Monday,False
+2026-01-11,Uber Eats Balcatta Purchase,29.28,Dining,0,2026,1,11,Sunday,True
+2024-12-14,Ampol Fuel Online AU,0.07,Transport,1,2024,12,14,Saturday,True
+2025-06-13,Uber Perth Fri,11.63,Transport,0,2025,6,13,Friday,False
+2024-09-10,Synergy Electricity Cannington AU,229.56,Bills,0,2024,9,10,Tuesday,False
+2025-05-13,Cotton On Morley,133.3,Shopping,0,2025,5,13,Tuesday,False
+2025-09-15,ALDI Cannington Purchase,8.49,Groceries,0,2025,9,15,Monday,False
+2025-02-21,BP Fuel Perth Fri,57.9,Transport,0,2025,2,21,Friday,False
+2024-07-29,McDonald's Cannington Purchase,17.59,Dining,0,2024,7,29,Monday,False
+2025-03-01,Udemy Joondalup Sat,25.42,Education,0,2025,3,1,Saturday,True
+2025-01-30,IGA Morley,35.46,Groceries,0,2025,1,30,Thursday,False
+2025-07-25,Concert Ticket Morley Fri,172.03,Entertainment,0,2025,7,25,Friday,False
+2025-04-23,Uber Eats Online,46.19,Dining,0,2025,4,23,Wednesday,False
+2026-02-27,Rent Balcatta,650.0,Bills,0,2026,2,27,Friday,False
+2024-09-28,Coles Online,136.79,Groceries,0,2024,9,28,Saturday,True
+2025-08-24,Spudshed Morley,13.76,Groceries,0,2025,8,24,Sunday,True
+2026-03-13,Myer Joondalup Fri,101.45,Shopping,0,2026,3,13,Friday,False
+2026-04-22,Spotify Online,13.99,Bills,0,2026,4,22,Wednesday,False
+2024-09-08,DoorDash Morley Purchase,50.54,Dining,0,2024,9,8,Sunday,True
+2024-01-07,Netflix Online AU,20.51,Bills,0,2024,1,7,Sunday,True
+2024-02-04,DoorDash,17.94,Dining,0,2024,2,4,Sunday,True
+2024-01-31,Woolworths Perth,84.83,Groceries,0,2024,1,31,Wednesday,False
+2025-06-07,BIG W Purchase,5.06,Shopping,0,2025,6,7,Saturday,True
+2025-10-20,ALDI Morley Card,29.2,Groceries,0,2025,10,20,Monday,False
+2026-06-10,IGA Purchase,32.34,Groceries,0,2026,6,10,Wednesday,False
+2025-05-12,Netflix Online,25.99,Bills,0,2025,5,12,Monday,False
+2025-09-14,Target Online Card,44.6,Shopping,0,2025,9,14,Sunday,True
+2025-07-01,IGA Online Tue,45.21,Groceries,0,2025,7,1,Tuesday,False
+2025-07-31,Water Corporation Cannington,106.52,Bills,0,2025,7,31,Thursday,False
+2025-08-07,HOYTS,24.87,Entertainment,0,2025,8,7,Thursday,False
+2025-07-01,Optus Internet Balcatta Card,89.34,Bills,0,2025,7,1,Tuesday,False
+2025-02-13,Transperth Balcatta AU,10.31,Transport,0,2025,2,13,Thursday,False
+2026-02-14,KFC Ellenbrook,25.82,Dining,0,2026,2,14,Saturday,True
+2024-06-07,Transperth,8.07,Transport,0,2024,6,7,Friday,False
+2026-05-16,Nando's Online Sat,41.59,Dining,0,2026,5,16,Saturday,True
+2024-03-03,Water Corporation Online Purchase,136.42,Bills,0,2024,3,3,Sunday,True
+2024-02-16,Rent Balcatta,650.0,Bills,0,2024,2,16,Friday,False
+2026-03-12,Spudshed Cannington,65.28,Groceries,0,2026,3,12,Thursday,False
+2025-01-31,DoorDash Purchase,256.79,Dining,1,2025,1,31,Friday,False
+2026-04-05,Nando's Cannington,44.82,Dining,0,2026,4,5,Sunday,True
+2026-04-15,Spudshed Ellenbrook Card,52.25,Groceries,0,2026,4,15,Wednesday,False
+2024-05-17,GP Clinic Cannington,59.68,Health,0,2024,5,17,Friday,False
+2024-10-15,Transperth Purchase,11.19,Transport,0,2024,10,15,Tuesday,False
+2026-03-05,HOYTS Joondalup AU,33.16,Entertainment,0,2026,3,5,Thursday,False
+2024-04-21,Coles Balcatta AU,63.93,Groceries,0,2024,4,21,Sunday,True
+2025-08-15,KFC Balcatta Fri,14.73,Dining,0,2025,8,15,Friday,False
+2024-03-25,Netflix Morley Purchase,23.2,Bills,0,2024,3,25,Monday,False
+2025-03-14,Coursera Online Card,98.32,Education,0,2025,3,14,Friday,False
+2026-03-16,IGA Balcatta,46.33,Groceries,0,2026,3,16,Monday,False
+2025-03-12,Netflix Online,25.99,Bills,0,2025,3,12,Wednesday,False
+2025-06-08,ALDI Ellenbrook Purchase,106.75,Groceries,0,2025,6,8,Sunday,True
+2024-02-19,DiDi Online Mon,31.32,Transport,0,2024,2,19,Monday,False
+2025-03-24,Spudshed Cannington Card,27.04,Groceries,0,2025,3,24,Monday,False
+2025-05-16,Amazon AU Morley,19.9,Shopping,0,2025,5,16,Friday,False
+2024-07-22,Spotify Online,13.99,Bills,0,2024,7,22,Monday,False
+2025-10-21,Cotton On Online,137.88,Shopping,0,2025,10,21,Tuesday,False
+2025-02-16,TAFE Course Materials Balcatta Sun,71.08,Education,0,2025,2,16,Sunday,True
+2024-03-20,Dental Clinic Online Card,243.28,Health,0,2024,3,20,Wednesday,False
+2026-03-09,Transperth Mon,7.75,Transport,0,2026,3,9,Monday,False
+2025-02-14,DoorDash Perth Card,11.0,Dining,0,2025,2,14,Friday,False
+2025-02-01,Myer Ellenbrook AU,194.38,Shopping,0,2025,2,1,Saturday,True
+2025-06-15,Cotton On Balcatta Purchase,119.79,Shopping,0,2025,6,15,Sunday,True
+2024-08-09,Steam Joondalup,15.15,Entertainment,0,2024,8,9,Friday,False
+2025-11-28,ALDI Ellenbrook Card,98.87,Groceries,0,2025,11,28,Friday,False
+2025-01-01,Uber Cannington Purchase,27.83,Transport,0,2025,1,1,Wednesday,False
+2026-04-04,Spudshed Online Card,23.65,Groceries,0,2026,4,4,Saturday,True
+2025-12-09,Ampol Fuel Online Tue,74.05,Transport,0,2025,12,9,Tuesday,False
+2024-12-01,DiDi Online Card,9.17,Transport,0,2024,12,1,Sunday,True
+2026-02-10,Coles Ellenbrook,59.55,Groceries,0,2026,2,10,Tuesday,False
+2024-03-18,Telstra Mobile Online,55.0,Bills,0,2024,3,18,Monday,False
+2026-06-16,DiDi Online Purchase,21.15,Transport,0,2026,6,16,Tuesday,False
+2024-07-16,Cotton On Joondalup,48.02,Shopping,0,2024,7,16,Tuesday,False
+2026-05-08,Rent Balcatta,650.0,Bills,0,2026,5,8,Friday,False
+2024-07-22,ALDI Online Mon,54.64,Groceries,0,2024,7,22,Monday,False
+2025-04-12,Spotify Joondalup,17.61,Bills,0,2025,4,12,Saturday,True
+2026-03-23,ALDI Morley,10.95,Groceries,0,2026,3,23,Monday,False
+2024-05-25,Nando's Balcatta AU,24.41,Dining,0,2024,5,25,Saturday,True
+2024-11-05,Netflix Perth,29.36,Bills,0,2024,11,5,Tuesday,False
+2024-02-04,Kmart Online Purchase,87.15,Shopping,0,2024,2,4,Sunday,True
+2024-04-19,ALDI Online AU,73.77,Groceries,0,2024,4,19,Friday,False
+2025-08-01,Spudshed,1.5,Groceries,0,2025,8,1,Friday,False
+2026-06-17,Airbnb Joondalup,5.38,Travel,0,2026,6,17,Wednesday,False
+2026-01-30,Woolworths Ellenbrook Fri,132.04,Groceries,0,2026,1,30,Friday,False
+2026-06-24,Transperth Online Wed,6.73,Transport,0,2026,6,24,Wednesday,False
+2025-06-02,TAFE Course Materials Ellenbrook Mon,47.44,Education,0,2025,6,2,Monday,False
+2024-01-17,Steam Perth Wed,30.9,Entertainment,0,2024,1,17,Wednesday,False
+2025-10-12,Coles Morley Card,24.4,Groceries,0,2025,10,12,Sunday,True
+2024-09-13,Myer Perth Card,149.24,Shopping,0,2024,9,13,Friday,False
+2026-01-01,Woolworths Online AU,40.48,Groceries,0,2026,1,1,Thursday,False
+2025-02-19,Spotify Ellenbrook Wed,12.52,Bills,0,2025,2,19,Wednesday,False
+2026-05-02,Coles Perth,52.25,Groceries,0,2026,5,2,Saturday,True
+2024-05-26,Officeworks Cannington,43.9,Education,0,2024,5,26,Sunday,True
+2025-10-19,Airbnb Cannington Card,300.95,Travel,0,2025,10,19,Sunday,True
+2025-02-18,IGA Joondalup Purchase,52.16,Groceries,0,2025,2,18,Tuesday,False
+2024-04-26,Coles Joondalup Fri,754.02,Groceries,1,2024,4,26,Friday,False
+2024-11-03,Target Ellenbrook Sun,143.7,Shopping,0,2024,11,3,Sunday,True
+2025-02-12,KFC Joondalup Wed,38.46,Dining,0,2025,2,12,Wednesday,False
+2024-02-12,Coles Cannington Card,82.36,Groceries,0,2024,2,12,Monday,False
+2026-05-31,Ampol Fuel Joondalup Card,64.29,Transport,0,2026,5,31,Sunday,True
+2025-04-05,ALDI Cannington Sat,83.42,Groceries,0,2025,4,5,Saturday,True
+2026-03-21,Synergy Electricity Balcatta,105.21,Bills,0,2026,3,21,Saturday,True
+2025-12-13,BP Fuel Joondalup Card,117.72,Transport,0,2025,12,13,Saturday,True
+2025-07-09,DiDi Morley Purchase,17.52,Transport,0,2025,7,9,Wednesday,False
+2024-07-18,IGA Ellenbrook Card,49.72,Groceries,0,2024,7,18,Thursday,False
+2026-06-23,Uber Eats Cannington Tue,32.65,Dining,0,2026,6,23,Tuesday,False
+2026-01-14,Netflix Joondalup AU,26.02,Bills,0,2026,1,14,Wednesday,False
+2025-01-18,Woolworths Morley,86.93,Groceries,0,2025,1,18,Saturday,True
+2024-02-28,IGA Balcatta Purchase,1.78,Groceries,0,2024,2,28,Wednesday,False
+2026-01-22,BIG W Cannington Purchase,58.61,Shopping,0,2026,1,22,Thursday,False
+2025-10-06,KFC Perth Card,9.2,Dining,0,2025,10,6,Monday,False
+2025-05-18,Telstra Mobile Online,55.0,Bills,0,2025,5,18,Sunday,True
+2024-04-19,Ampol Fuel Joondalup Card,49.27,Transport,0,2024,4,19,Friday,False
+2024-10-11,Netflix Morley,25.65,Bills,0,2024,10,11,Friday,False
+2025-01-24,ALDI Online Card,56.19,Groceries,0,2025,1,24,Friday,False
+2026-03-31,IGA Balcatta Purchase,24.62,Groceries,0,2026,3,31,Tuesday,False
+2025-06-12,Coles Online Purchase,44.65,Groceries,0,2025,6,12,Thursday,False
+2024-12-18,Amazon AU Balcatta Purchase,168.84,Shopping,0,2024,12,18,Wednesday,False
+2025-05-24,Target Purchase,113.29,Shopping,0,2025,5,24,Saturday,True
+2024-06-25,Telstra Mobile Balcatta,56.95,Bills,0,2024,6,25,Tuesday,False
+2026-01-12,Optus Internet Perth Purchase,69.51,Bills,0,2026,1,12,Monday,False
+2025-08-13,Local Cafe Online Card,18.61,Dining,0,2025,8,13,Wednesday,False
+2024-09-24,BP Fuel Cannington Purchase,29.73,Transport,0,2024,9,24,Tuesday,False
+2024-05-26,BIG W Cannington AU,26.49,Shopping,0,2024,5,26,Sunday,True
+2024-12-07,IGA Joondalup,85.84,Groceries,0,2024,12,7,Saturday,True
+2025-11-18,PlayStation Store Tue,17.51,Entertainment,0,2025,11,18,Tuesday,False
+2024-12-10,Uber Eats Joondalup AU,75.47,Dining,0,2024,12,10,Tuesday,False
+2024-12-18,Telstra Mobile Online,55.0,Bills,0,2024,12,18,Wednesday,False
+2026-03-10,IGA Perth AU,26.05,Groceries,0,2026,3,10,Tuesday,False
+2025-10-04,McDonald's Balcatta AU,18.74,Dining,0,2025,10,4,Saturday,True
+2025-09-12,PlayStation Store Balcatta Fri,58.94,Entertainment,0,2025,9,12,Friday,False
+2026-06-12,Water Corporation AU,151.14,Bills,0,2026,6,12,Friday,False
+2025-08-14,PlayStation Store Online,10.04,Entertainment,0,2025,8,14,Thursday,False
+2025-01-28,TAFE Course Materials Balcatta AU,100.8,Education,0,2025,1,28,Tuesday,False
+2025-11-08,Optus Internet Online,79.0,Bills,0,2025,11,8,Saturday,True
+2026-03-15,ALDI Online Purchase,21.12,Groceries,0,2026,3,15,Sunday,True
+2025-10-28,Uber Cannington AU,10.28,Transport,0,2025,10,28,Tuesday,False
+2024-09-12,Netflix Online,25.99,Bills,0,2024,9,12,Thursday,False
+2024-03-02,Coursera Joondalup AU,52.26,Education,0,2024,3,2,Saturday,True
+2024-12-14,Amazon AU Online Purchase,66.86,Shopping,0,2024,12,14,Saturday,True
+2024-12-13,McDonald's Perth Card,21.51,Dining,0,2024,12,13,Friday,False
+2024-01-11,Officeworks Perth Purchase,59.97,Education,0,2024,1,11,Thursday,False
+2026-03-25,Uber Online Card,25.75,Transport,0,2026,3,25,Wednesday,False
+2025-04-10,Uber Joondalup AU,24.97,Transport,0,2025,4,10,Thursday,False
+2025-09-24,Kmart Cannington,24.13,Shopping,0,2025,9,24,Wednesday,False
+2024-12-12,Netflix Online,25.99,Bills,0,2024,12,12,Thursday,False
+2026-04-07,Hair Salon Ellenbrook Tue,111.72,Personal Care,0,2026,4,7,Tuesday,False
+2025-01-15,DiDi,30.86,Transport,0,2025,1,15,Wednesday,False
+2026-04-18,Telstra Mobile Online,55.0,Bills,0,2026,4,18,Saturday,True
+2024-10-02,McDonald's Balcatta Purchase,9.68,Dining,0,2024,10,2,Wednesday,False
+2025-01-11,Woolworths Morley,7.28,Groceries,0,2025,1,11,Saturday,True
+2024-08-01,Australia Post,34.14,Other,0,2024,8,1,Thursday,False
+2024-05-25,Barber and Beauty Balcatta Purchase,47.39,Personal Care,0,2024,5,25,Saturday,True
+2024-06-07,Rent Balcatta,650.0,Bills,0,2024,6,7,Friday,False
+2025-04-12,ALDI Balcatta,48.92,Groceries,0,2025,4,12,Saturday,True
+2025-09-17,Kmart Online AU,1.5,Shopping,0,2025,9,17,Wednesday,False
+2025-04-19,Coles Joondalup,9.56,Groceries,0,2025,4,19,Saturday,True
+2025-12-02,DoorDash Balcatta Tue,2.09,Dining,0,2025,12,2,Tuesday,False
+2024-05-17,BP Fuel Cannington Card,99.41,Transport,0,2024,5,17,Friday,False
+2024-09-14,ALDI Balcatta Card,62.64,Groceries,0,2024,9,14,Saturday,True
+2026-06-22,Woolworths Joondalup Purchase,93.41,Groceries,0,2026,6,22,Monday,False
+2024-08-23,Steam Morley AU,4.99,Entertainment,0,2024,8,23,Friday,False
+2026-03-06,IGA Joondalup Purchase,33.86,Groceries,0,2026,3,6,Friday,False
+2024-08-16,DiDi Morley,25.05,Transport,0,2024,8,16,Friday,False
+2026-06-14,Miscellaneous Purchase Balcatta Purchase,29.16,Other,0,2026,6,14,Sunday,True
+2025-12-11,Amazon AU Joondalup Thu,94.24,Shopping,0,2025,12,11,Thursday,False
+2025-05-29,BP Fuel Morley Card,34.11,Transport,0,2025,5,29,Thursday,False
+2025-08-07,BP Fuel Online Card,71.49,Transport,0,2025,8,7,Thursday,False
+2025-04-08,HOYTS AU,20.54,Entertainment,0,2025,4,8,Tuesday,False
+2026-03-08,Coles Morley Sun,88.6,Groceries,0,2026,3,8,Sunday,True
+2025-01-25,Target Morley AU,60.68,Shopping,0,2025,1,25,Saturday,True
+2025-10-07,HOYTS Cannington,10.37,Entertainment,0,2025,10,7,Tuesday,False
+2024-10-11,Coles Online AU,50.5,Groceries,0,2024,10,11,Friday,False
+2025-09-17,Officeworks Perth,23.33,Education,0,2025,9,17,Wednesday,False
+2024-10-18,IGA Morley AU,22.8,Groceries,0,2024,10,18,Friday,False
+2025-03-02,McDonald's Ellenbrook Purchase,19.25,Dining,0,2025,3,2,Sunday,True
+2024-09-15,DoorDash Morley,42.53,Dining,0,2024,9,15,Sunday,True
+2025-11-26,DiDi Joondalup Purchase,12.14,Transport,0,2025,11,26,Wednesday,False
+2024-08-19,Dental Clinic Joondalup AU,151.03,Health,0,2024,8,19,Monday,False
+2025-10-23,Coles Balcatta Purchase,92.15,Groceries,0,2025,10,23,Thursday,False
+2025-11-15,Netflix Joondalup Purchase,26.32,Bills,0,2025,11,15,Saturday,True
+2026-06-20,Transperth Cannington,6.13,Transport,0,2026,6,20,Saturday,True
+2025-09-24,Spudshed Joondalup Purchase,58.53,Groceries,0,2025,9,24,Wednesday,False
+2024-12-15,Airbnb Sun,248.76,Travel,0,2024,12,15,Sunday,True
+2024-10-12,McDonald's Balcatta,26.41,Dining,0,2024,10,12,Saturday,True
+2025-09-05,DiDi Cannington Fri,19.16,Transport,0,2025,9,5,Friday,False
+2024-05-23,BP Fuel Balcatta Purchase,0.53,Transport,1,2024,5,23,Thursday,False
+2025-11-02,DoorDash Ellenbrook AU,73.65,Dining,0,2025,11,2,Sunday,True
+2025-04-14,Nail Studio Ellenbrook AU,58.02,Personal Care,0,2025,4,14,Monday,False
+2024-05-04,Spudshed Balcatta AU,371.82,Groceries,1,2024,5,4,Saturday,True
+2025-11-15,Uber Morley,15.65,Transport,0,2025,11,15,Saturday,True
+2026-04-08,Netflix Morley Card,22.15,Bills,0,2026,4,8,Wednesday,False
+2025-07-02,ALDI Ellenbrook Wed,4.47,Groceries,0,2025,7,2,Wednesday,False
+2024-07-13,Woolworths Ellenbrook Sat,99.23,Groceries,0,2024,7,13,Saturday,True
+2025-12-27,BIG W Balcatta AU,47.45,Shopping,0,2025,12,27,Saturday,True
+2026-01-14,Local Cafe Cannington,6.59,Dining,0,2026,1,14,Wednesday,False
+2024-06-15,Coles Cannington,20.27,Groceries,0,2024,6,15,Saturday,True
+2025-05-31,ALDI Online Card,55.79,Groceries,0,2025,5,31,Saturday,True
+2025-11-24,Synergy Electricity Cannington Mon,121.5,Bills,0,2025,11,24,Monday,False
+2026-06-25,Priceline Pharmacy Joondalup,29.53,Health,0,2026,6,25,Thursday,False
+2024-02-06,Water Corporation Balcatta Card,111.48,Bills,0,2024,2,6,Tuesday,False
+2025-08-15,Rent Balcatta,650.0,Bills,0,2025,8,15,Friday,False
+2025-12-25,ALDI Morley Thu,34.99,Groceries,0,2025,12,25,Thursday,False
+2024-04-29,Synergy Electricity Purchase,140.34,Bills,0,2024,4,29,Monday,False
+2026-02-08,Optus Internet Online,79.0,Bills,0,2026,2,8,Sunday,True
+2025-10-08,BP Fuel AU,76.7,Transport,0,2025,10,8,Wednesday,False
+2026-05-08,Coles Ellenbrook Purchase,59.09,Groceries,0,2026,5,8,Friday,False
+2025-12-08,Optus Internet Online,79.0,Bills,0,2025,12,8,Monday,False
+2026-01-23,Event Cinemas Joondalup Card,9.93,Entertainment,0,2026,1,23,Friday,False
+2024-04-23,BP Fuel Balcatta Tue,55.22,Transport,0,2024,4,23,Tuesday,False
+2025-09-09,Miscellaneous Purchase Ellenbrook Card,83.28,Other,0,2025,9,9,Tuesday,False
+2026-06-18,Cotton On Online Thu,46.84,Shopping,0,2026,6,18,Thursday,False
+2024-11-22,Spudshed Online AU,31.29,Groceries,0,2024,11,22,Friday,False
+2025-09-13,Miscellaneous Purchase Online Sat,1.5,Other,0,2025,9,13,Saturday,True
+2026-06-15,Coles Cannington Purchase,60.32,Groceries,0,2026,6,15,Monday,False
+2024-08-13,ALDI Morley AU,33.15,Groceries,0,2024,8,13,Tuesday,False
+2026-01-17,Australia Post Perth Card,31.22,Other,0,2026,1,17,Saturday,True
+2026-06-23,Coles Cannington Purchase,13.68,Groceries,0,2026,6,23,Tuesday,False
+2026-06-21,Target Balcatta Purchase,114.54,Shopping,0,2026,6,21,Sunday,True
+2025-02-12,Netflix Online,25.99,Bills,0,2025,2,12,Wednesday,False
+2024-05-22,Cotton On Cannington Purchase,1.5,Shopping,0,2024,5,22,Wednesday,False
+2024-08-01,GP Clinic Perth Purchase,52.59,Health,0,2024,8,1,Thursday,False
+2025-04-16,IGA Morley Card,38.48,Groceries,0,2025,4,16,Wednesday,False
+2024-11-30,Water Corporation Joondalup,105.83,Bills,0,2024,11,30,Saturday,True
+2024-03-21,BP Fuel Joondalup,54.67,Transport,0,2024,3,21,Thursday,False
+2025-02-08,Netflix Morley AU,24.11,Bills,0,2025,2,8,Saturday,True
+2025-06-23,Kmart Cannington Card,67.66,Shopping,0,2025,6,23,Monday,False
+2025-08-26,Woolworths Cannington AU,52.54,Groceries,0,2025,8,26,Tuesday,False
+2024-01-15,Coles Joondalup Card,5.9,Groceries,0,2024,1,15,Monday,False
+2024-11-26,Uber Morley AU,27.64,Transport,0,2024,11,26,Tuesday,False
+2026-02-13,Rent Balcatta,650.0,Bills,0,2026,2,13,Friday,False
+2024-09-13,Rent Balcatta,650.0,Bills,0,2024,9,13,Friday,False
+2024-01-22,Spotify Online,13.99,Bills,0,2024,1,22,Monday,False
+2025-09-21,Rent Balcatta,607.13,Bills,0,2025,9,21,Sunday,True
+2025-04-14,ALDI AU,16.54,Groceries,0,2025,4,14,Monday,False
+2025-05-06,Spudshed Morley,54.61,Groceries,0,2025,5,6,Tuesday,False
+2026-02-28,Spotify Morley AU,11.54,Bills,0,2026,2,28,Saturday,True
+2024-04-24,ALDI Ellenbrook AU,72.39,Groceries,0,2024,4,24,Wednesday,False
+2026-01-27,BP Fuel Joondalup,67.72,Transport,0,2026,1,27,Tuesday,False
+2025-06-16,ALDI Morley Mon,19.09,Groceries,0,2025,6,16,Monday,False
+2025-12-27,Local Cafe Balcatta Card,43.14,Dining,0,2025,12,27,Saturday,True
+2025-04-14,Officeworks Online,50.95,Education,0,2025,4,14,Monday,False
+2024-01-12,Netflix Purchase,24.48,Bills,0,2024,1,12,Friday,False
+2025-01-13,Target Morley AU,58.47,Shopping,0,2025,1,13,Monday,False
+2025-07-25,PlayStation Store Balcatta,41.15,Entertainment,0,2025,7,25,Friday,False
+2025-09-21,Uber Eats Morley Card,42.89,Dining,0,2025,9,21,Sunday,True
+2025-06-09,Telstra Mobile Perth Card,68.34,Bills,0,2025,6,9,Monday,False
+2025-12-03,Rent Cannington Wed,609.63,Bills,0,2025,12,3,Wednesday,False
+2025-02-18,Cotton On Perth Tue,57.85,Shopping,0,2025,2,18,Tuesday,False
+2024-01-02,KFC Morley Tue,105.14,Dining,1,2024,1,2,Tuesday,False
+2025-06-15,Ampol Fuel Cannington Card,73.81,Transport,0,2025,6,15,Sunday,True
+2025-01-31,Dental Clinic Ellenbrook AU,141.43,Health,0,2025,1,31,Friday,False
+2025-07-13,IGA Morley Card,23.1,Groceries,0,2025,7,13,Sunday,True
+2025-09-14,Local Cafe Balcatta,20.6,Dining,0,2025,9,14,Sunday,True
+2024-11-28,Transperth Cannington,7.33,Transport,0,2024,11,28,Thursday,False
+2024-12-13,Amazon AU Cannington Purchase,63.05,Shopping,0,2024,12,13,Friday,False
+2025-05-08,IGA Ellenbrook,30.59,Groceries,0,2025,5,8,Thursday,False
+2024-05-10,Ampol Fuel Ellenbrook Purchase,69.6,Transport,0,2024,5,10,Friday,False
+2025-06-06,Rent Balcatta,650.0,Bills,0,2025,6,6,Friday,False
+2025-06-16,Nando's Cannington Purchase,36.32,Dining,0,2025,6,16,Monday,False
+2025-05-21,Rent Balcatta AU,634.04,Bills,0,2025,5,21,Wednesday,False
+2025-01-03,Uber Eats,23.16,Dining,0,2025,1,3,Friday,False
+2025-08-01,Concert Ticket Joondalup,202.11,Entertainment,0,2025,8,1,Friday,False
+2024-12-09,Target AU,44.3,Shopping,0,2024,12,9,Monday,False
+2025-08-15,Spudshed Morley Card,43.31,Groceries,0,2025,8,15,Friday,False
+2026-01-26,Spudshed Morley Purchase,55.24,Groceries,0,2026,1,26,Monday,False
+2025-02-16,HOYTS Online Purchase,29.07,Entertainment,0,2025,2,16,Sunday,True
+2024-08-25,PlayStation Store Ellenbrook AU,1.75,Entertainment,0,2024,8,25,Sunday,True
+2025-10-24,Rent Balcatta,650.0,Bills,0,2025,10,24,Friday,False
+2024-05-23,Nando's Online Thu,40.14,Dining,0,2024,5,23,Thursday,False
+2024-07-01,Miscellaneous Purchase Morley,58.61,Other,0,2024,7,1,Monday,False
+2026-04-12,Transperth Ellenbrook Card,9.02,Transport,0,2026,4,12,Sunday,True
+2024-06-13,IGA Joondalup Thu,21.32,Groceries,0,2024,6,13,Thursday,False
+2025-06-08,Optus Internet Online,79.0,Bills,0,2025,6,8,Sunday,True
+2025-12-20,BIG W Morley Purchase,83.2,Shopping,0,2025,12,20,Saturday,True
+2025-05-11,McDonald's Purchase,21.7,Dining,0,2025,5,11,Sunday,True
+2025-11-18,Telstra Mobile Online,55.0,Bills,0,2025,11,18,Tuesday,False
+2024-09-29,HOYTS Ellenbrook Purchase,28.83,Entertainment,0,2024,9,29,Sunday,True
+2026-05-21,Ampol Fuel Perth AU,81.48,Transport,0,2026,5,21,Thursday,False
+2024-02-18,Telstra Mobile Online,55.0,Bills,0,2024,2,18,Sunday,True
+2024-06-23,Coles Perth,70.84,Groceries,0,2024,6,23,Sunday,True
+2025-10-08,Optus Internet Morley Card,80.79,Bills,0,2025,10,8,Wednesday,False
+2024-04-10,Kmart Cannington Purchase,41.1,Shopping,0,2024,4,10,Wednesday,False
+2024-07-10,IGA Balcatta AU,34.23,Groceries,0,2024,7,10,Wednesday,False
+2025-01-14,Spudshed Online Tue,67.22,Groceries,0,2025,1,14,Tuesday,False
+2025-10-31,Spudshed Ellenbrook,33.55,Groceries,0,2025,10,31,Friday,False
+2025-11-19,IGA Joondalup Card,33.7,Groceries,0,2025,11,19,Wednesday,False
+2024-07-02,IGA Balcatta,28.5,Groceries,0,2024,7,2,Tuesday,False
+2024-03-07,Nando's Thu,42.41,Dining,0,2024,3,7,Thursday,False
+2025-06-23,GP Clinic Online Mon,72.85,Health,0,2025,6,23,Monday,False
+2024-01-06,Nail Studio Purchase,12.21,Personal Care,0,2024,1,6,Saturday,True
+2026-02-24,Myer Morley AU,164.66,Shopping,0,2026,2,24,Tuesday,False
+2026-02-24,Local Cafe Cannington Purchase,20.58,Dining,0,2026,2,24,Tuesday,False
+2025-09-25,Udemy Ellenbrook Purchase,19.37,Education,0,2025,9,25,Thursday,False
+2025-05-23,Concert Ticket Perth Card,137.62,Entertainment,0,2025,5,23,Friday,False
+2024-04-26,Water Corporation Balcatta,87.44,Bills,0,2024,4,26,Friday,False
+2026-05-22,KFC Online,19.18,Dining,0,2026,5,22,Friday,False
+2024-01-17,Spudshed Ellenbrook AU,33.0,Groceries,0,2024,1,17,Wednesday,False
+2025-10-01,Target Ellenbrook,11.84,Shopping,0,2025,10,1,Wednesday,False
+2025-07-24,Amazon AU Cannington Purchase,1.5,Shopping,0,2025,7,24,Thursday,False
+2026-03-17,Uber Joondalup Purchase,18.8,Transport,0,2026,3,17,Tuesday,False
+2025-08-06,Myer Cannington,45.29,Shopping,0,2025,8,6,Wednesday,False
+2025-09-18,Telstra Mobile Online,55.0,Bills,0,2025,9,18,Thursday,False
+2024-09-25,BP Fuel Ellenbrook AU,97.26,Transport,0,2024,9,25,Wednesday,False
+2025-01-04,Water Corporation Morley Purchase,136.04,Bills,0,2025,1,4,Saturday,True
+2024-03-13,Target Balcatta Wed,57.38,Shopping,0,2024,3,13,Wednesday,False
+2026-05-15,Uber Eats Joondalup,19.56,Dining,0,2026,5,15,Friday,False
+2025-12-14,Spudshed Balcatta AU,67.41,Groceries,0,2025,12,14,Sunday,True
+2025-12-14,Spudshed Joondalup Card,75.5,Groceries,0,2025,12,14,Sunday,True
+2025-10-25,DiDi Morley,24.58,Transport,0,2025,10,25,Saturday,True
+2026-04-25,Woolworths Online Purchase,8.73,Groceries,0,2026,4,25,Saturday,True
+2024-12-04,Rent Online AU,644.8,Bills,0,2024,12,4,Wednesday,False
+2025-09-19,Coles Balcatta,71.43,Groceries,0,2025,9,19,Friday,False
+2024-07-05,Woolworths Morley Purchase,98.17,Groceries,0,2024,7,5,Friday,False
+2025-03-18,ALDI AU,59.15,Groceries,0,2025,3,18,Tuesday,False
+2025-12-08,Concert Ticket Balcatta Card,143.7,Entertainment,0,2025,12,8,Monday,False
+2026-05-29,BIG W Cannington AU,24.38,Shopping,0,2026,5,29,Friday,False
+2026-02-10,DoorDash Perth Card,31.27,Dining,0,2026,2,10,Tuesday,False
+2026-05-22,Spotify Online,13.99,Bills,0,2026,5,22,Friday,False
+2024-08-02,Cotton On Online Purchase,130.46,Shopping,0,2024,8,2,Friday,False
+2024-11-02,Uber Purchase,13.97,Transport,0,2024,11,2,Saturday,True
+2025-09-13,KFC Cannington Card,12.57,Dining,0,2025,9,13,Saturday,True
+2024-09-20,Woolworths Joondalup Purchase,76.92,Groceries,0,2024,9,20,Friday,False
+2025-04-27,BIG W Joondalup,55.83,Shopping,0,2025,4,27,Sunday,True
+2024-07-15,ALDI Online AU,73.45,Groceries,0,2024,7,15,Monday,False
+2025-07-26,Event Cinemas Perth Purchase,25.93,Entertainment,0,2025,7,26,Saturday,True
+2026-04-09,KFC Perth AU,16.56,Dining,0,2026,4,9,Thursday,False
+2024-08-03,Nando's Card,61.89,Dining,0,2024,8,3,Saturday,True
+2025-04-17,Synergy Electricity Balcatta Card,200.69,Bills,0,2025,4,17,Thursday,False
+2024-04-30,DiDi Purchase,18.82,Transport,0,2024,4,30,Tuesday,False
+2025-03-02,Nando's Joondalup Sun,17.88,Dining,0,2025,3,2,Sunday,True
+2025-04-26,Coles Morley,60.82,Groceries,0,2025,4,26,Saturday,True
+2026-06-11,Synergy Electricity Perth Purchase,232.17,Bills,0,2026,6,11,Thursday,False
+2024-05-10,Rent Balcatta,650.0,Bills,0,2024,5,10,Friday,False
+2026-02-27,GP Clinic Cannington Fri,97.46,Health,0,2026,2,27,Friday,False
+2024-07-15,Telstra Mobile Joondalup AU,34.42,Bills,0,2024,7,15,Monday,False
+2024-04-02,Uber Card,22.68,Transport,0,2024,4,2,Tuesday,False
+2026-02-09,McDonald's Cannington AU,16.64,Dining,0,2026,2,9,Monday,False
+2024-04-02,ALDI Cannington Card,88.42,Groceries,0,2024,4,2,Tuesday,False
+2026-06-26,ALDI Joondalup,14.64,Groceries,0,2026,6,26,Friday,False
+2025-07-07,IGA Cannington Card,68.86,Groceries,0,2025,7,7,Monday,False
+2025-11-01,Transperth Online Card,2.0,Transport,0,2025,11,1,Saturday,True
+2024-11-27,IGA Perth Wed,25.86,Groceries,0,2024,11,27,Wednesday,False
+2026-01-11,Local Cafe Morley Card,22.58,Dining,0,2026,1,11,Sunday,True
+2026-04-16,Miscellaneous Purchase Morley Thu,41.38,Other,0,2026,4,16,Thursday,False
+2024-12-23,DoorDash Balcatta AU,10.88,Dining,0,2024,12,23,Monday,False
+2024-07-08,BP Fuel Perth Mon,58.62,Transport,0,2024,7,8,Monday,False
+2024-04-15,Target Balcatta Mon,91.8,Shopping,0,2024,4,15,Monday,False
+2026-04-24,Rent Balcatta,650.0,Bills,0,2026,4,24,Friday,False
+2025-07-08,Concert Ticket Cannington Tue,139.03,Entertainment,0,2025,7,8,Tuesday,False
+2025-11-15,Spudshed Purchase,60.42,Groceries,0,2025,11,15,Saturday,True
+2025-07-24,DoorDash Perth Card,53.58,Dining,0,2025,7,24,Thursday,False
+2024-04-26,Uber Eats Morley AU,31.06,Dining,0,2024,4,26,Friday,False
+2024-04-30,McDonald's Cannington,10.61,Dining,0,2024,4,30,Tuesday,False
+2024-01-07,Local Cafe Joondalup Sun,10.52,Dining,0,2024,1,7,Sunday,True
+2026-02-13,Nando's Perth Fri,21.33,Dining,0,2026,2,13,Friday,False
+2024-08-01,Barber and Beauty AU,18.52,Personal Care,0,2024,8,1,Thursday,False
+2024-05-07,KFC Joondalup Card,15.01,Dining,0,2024,5,7,Tuesday,False
+2025-04-26,KFC Card,33.07,Dining,0,2025,4,26,Saturday,True
+2025-09-06,Transperth Morley,5.56,Transport,0,2025,9,6,Saturday,True
+2025-05-15,Kmart Joondalup Thu,41.41,Shopping,0,2025,5,15,Thursday,False
+2024-08-12,Dental Clinic Online Mon,227.14,Health,0,2024,8,12,Monday,False
+2025-01-21,ALDI Online Tue,8.53,Groceries,0,2025,1,21,Tuesday,False
+2024-03-11,ALDI Balcatta,79.8,Groceries,0,2024,3,11,Monday,False
+2024-01-23,Miscellaneous Purchase Cannington Tue,30.68,Other,0,2024,1,23,Tuesday,False
+2025-10-16,Udemy Purchase,16.87,Education,0,2025,10,16,Thursday,False
+2025-10-24,Event Cinemas AU,27.97,Entertainment,0,2025,10,24,Friday,False
+2024-08-27,Coles,12.25,Groceries,0,2024,8,27,Tuesday,False
+2024-10-25,Rent Balcatta,650.0,Bills,0,2024,10,25,Friday,False
+2025-02-09,Transperth Ellenbrook Purchase,11.51,Transport,0,2025,2,9,Sunday,True
+2024-02-10,Officeworks Joondalup Card,287.16,Education,1,2024,2,10,Saturday,True
+2024-10-17,DoorDash Morley Card,36.16,Dining,0,2024,10,17,Thursday,False
+2024-03-05,Australia Post Balcatta,27.52,Other,0,2024,3,5,Tuesday,False
+2024-09-26,IGA Cannington Card,47.09,Groceries,0,2024,9,26,Thursday,False
+2025-01-03,Rent Balcatta,650.0,Bills,0,2025,1,3,Friday,False
+2025-07-23,Event Cinemas Balcatta,17.32,Entertainment,0,2025,7,23,Wednesday,False
+2025-07-31,BP Fuel Cannington AU,31.81,Transport,0,2025,7,31,Thursday,False
+2025-09-19,ALDI AU,28.41,Groceries,0,2025,9,19,Friday,False
+2024-10-25,Coles Morley Fri,44.72,Groceries,0,2024,10,25,Friday,False
+2025-10-15,Priceline Pharmacy Cannington,1.5,Health,0,2025,10,15,Wednesday,False
+2024-06-04,Spudshed Morley Purchase,29.88,Groceries,0,2024,6,4,Tuesday,False
+2024-04-14,Spotify Online Purchase,13.74,Bills,0,2024,4,14,Sunday,True
+2026-02-19,Australia Post Online Thu,43.24,Other,0,2026,2,19,Thursday,False
+2026-06-09,McDonald's Balcatta,12.93,Dining,0,2026,6,9,Tuesday,False
+2024-03-08,ALDI Online Card,15.46,Groceries,0,2024,3,8,Friday,False
+2025-09-25,GP Clinic Cannington Thu,85.0,Health,0,2025,9,25,Thursday,False
+2025-09-22,KFC Cannington Card,7.78,Dining,0,2025,9,22,Monday,False
+2024-12-07,Officeworks Online Sat,32.71,Education,0,2024,12,7,Saturday,True
+2026-03-09,Ampol Fuel Morley Mon,73.77,Transport,0,2026,3,9,Monday,False
+2026-01-02,Priceline Pharmacy Online,25.89,Health,0,2026,1,2,Friday,False
+2024-09-01,Transperth Online Purchase,9.77,Transport,0,2024,9,1,Sunday,True
+2024-03-04,BIG W Online Card,61.06,Shopping,0,2024,3,4,Monday,False
+2024-03-26,Beauty Store Online Tue,46.69,Personal Care,0,2024,3,26,Tuesday,False
+2024-06-22,Telstra Mobile Perth Purchase,57.55,Bills,0,2024,6,22,Saturday,True
+2025-12-24,ALDI Perth AU,81.25,Groceries,0,2025,12,24,Wednesday,False
+2025-09-02,Water Corporation Ellenbrook,78.25,Bills,0,2025,9,2,Tuesday,False
+2024-03-17,DiDi,6.42,Transport,0,2024,3,17,Sunday,True
+2025-02-03,BP Fuel Morley Mon,564.1,Transport,1,2025,2,3,Monday,False
+2025-09-10,Nando's Joondalup Purchase,18.91,Dining,0,2025,9,10,Wednesday,False
+2024-04-07,Spudshed Joondalup,52.91,Groceries,0,2024,4,7,Sunday,True
+2025-10-22,Spotify Online,13.99,Bills,0,2025,10,22,Wednesday,False
+2025-05-12,Uber Morley Card,9.44,Transport,0,2025,5,12,Monday,False
+2024-12-28,Local Cafe Perth AU,34.25,Dining,0,2024,12,28,Saturday,True
+2026-01-13,Event Cinemas Balcatta,44.16,Entertainment,0,2026,1,13,Tuesday,False
+2026-05-25,Woolworths Card,53.77,Groceries,0,2026,5,25,Monday,False
+2025-08-29,Local Cafe Ellenbrook Purchase,12.96,Dining,0,2025,8,29,Friday,False
+2025-08-08,IGA Ellenbrook Fri,26.86,Groceries,0,2025,8,8,Friday,False
+2026-05-21,Woolworths Balcatta AU,90.01,Groceries,0,2026,5,21,Thursday,False
+2024-05-18,Telstra Mobile Online,55.0,Bills,0,2024,5,18,Saturday,True
+2026-01-25,Coles Ellenbrook Card,58.71,Groceries,0,2026,1,25,Sunday,True
+2024-02-04,Transperth Balcatta Purchase,14.76,Transport,1,2024,2,4,Sunday,True
+2025-03-16,Chemist Warehouse Cannington AU,36.91,Health,0,2025,3,16,Sunday,True
+2024-03-11,Spotify Online,13.93,Bills,0,2024,3,11,Monday,False
+2024-12-09,IGA Joondalup,37.74,Groceries,0,2024,12,9,Monday,False
+2025-09-25,Rent Online Purchase,688.09,Bills,0,2025,9,25,Thursday,False
+2024-07-11,Coles Online Card,96.01,Groceries,0,2024,7,11,Thursday,False
+2025-09-10,DoorDash Ellenbrook AU,41.51,Dining,0,2025,9,10,Wednesday,False
+2025-06-14,Coles Balcatta Purchase,67.68,Groceries,0,2025,6,14,Saturday,True
+2025-08-18,Telstra Mobile Online,55.0,Bills,0,2025,8,18,Monday,False
+2024-04-20,Nando's Morley,26.46,Dining,0,2024,4,20,Saturday,True
+2024-04-13,ALDI Joondalup,40.64,Groceries,0,2024,4,13,Saturday,True
+2025-02-14,ALDI Online,38.86,Groceries,0,2025,2,14,Friday,False
+2026-06-24,Coursera Joondalup Wed,65.84,Education,0,2026,6,24,Wednesday,False
+2025-11-29,Transperth Balcatta Card,5.9,Transport,0,2025,11,29,Saturday,True
+2024-08-07,Coursera Balcatta Purchase,41.17,Education,0,2024,8,7,Wednesday,False
+2024-02-24,Steam Balcatta Sat,1.61,Entertainment,0,2024,2,24,Saturday,True
+2025-06-24,Myer Joondalup,118.36,Shopping,0,2025,6,24,Tuesday,False
+2024-01-17,Officeworks Joondalup AU,58.71,Education,0,2024,1,17,Wednesday,False
+2024-01-02,Woolworths Perth,75.48,Groceries,0,2024,1,2,Tuesday,False
+2025-11-17,ALDI Joondalup Purchase,45.01,Groceries,0,2025,11,17,Monday,False
+2025-09-13,Coles Perth Purchase,65.82,Groceries,0,2025,9,13,Saturday,True
+2025-01-31,Rent Balcatta,650.0,Bills,0,2025,1,31,Friday,False
+2025-12-02,Steam Cannington Purchase,51.22,Entertainment,0,2025,12,2,Tuesday,False
+2025-07-19,PlayStation Store Joondalup Sat,42.08,Entertainment,0,2025,7,19,Saturday,True
+2025-12-04,KFC Purchase,40.15,Dining,0,2025,12,4,Thursday,False
+2025-05-29,Nando's Online AU,40.04,Dining,0,2025,5,29,Thursday,False
+2024-01-15,HOYTS Joondalup Purchase,9.51,Entertainment,0,2024,1,15,Monday,False
+2024-11-23,IGA,8.04,Groceries,0,2024,11,23,Saturday,True
+2024-12-14,Target Online Purchase,88.72,Shopping,0,2024,12,14,Saturday,True
+2024-02-11,BP Fuel Cannington Sun,41.93,Transport,0,2024,2,11,Sunday,True
+2025-08-09,Concert Ticket Morley Purchase,106.14,Entertainment,0,2025,8,9,Saturday,True
+2024-08-03,DiDi Purchase,18.29,Transport,0,2024,8,3,Saturday,True
+2025-08-25,Uber Ellenbrook AU,40.62,Transport,0,2025,8,25,Monday,False
+2026-06-19,Spotify Balcatta AU,15.95,Bills,0,2026,6,19,Friday,False
+2024-12-11,IGA Balcatta Card,58.94,Groceries,0,2024,12,11,Wednesday,False
+2024-04-25,Spotify Joondalup AU,13.76,Bills,0,2024,4,25,Thursday,False
+2025-01-09,IGA Joondalup Thu,59.24,Groceries,0,2025,1,9,Thursday,False
+2024-12-14,Udemy Purchase,29.25,Education,0,2024,12,14,Saturday,True
+2026-06-12,Netflix Online,25.99,Bills,0,2026,6,12,Friday,False
+2024-06-01,Synergy Electricity Cannington AU,242.18,Bills,0,2024,6,1,Saturday,True
+2025-08-23,Transperth Perth Sat,15.54,Transport,0,2025,8,23,Saturday,True
+2026-04-05,Woolworths Perth Purchase,103.35,Groceries,0,2026,4,5,Sunday,True
+2024-01-17,Ampol Fuel Cannington Purchase,52.24,Transport,0,2024,1,17,Wednesday,False
+2024-07-27,Woolworths Balcatta Sat,29.9,Groceries,0,2024,7,27,Saturday,True
+2025-10-02,Barber and Beauty AU,50.96,Personal Care,0,2025,10,2,Thursday,False
+2024-01-13,Nail Studio Ellenbrook AU,45.28,Personal Care,0,2024,1,13,Saturday,True
+2024-06-11,Synergy Electricity Balcatta Card,147.34,Bills,0,2024,6,11,Tuesday,False
+2025-12-26,Uber Eats Ellenbrook Card,16.49,Dining,0,2025,12,26,Friday,False
+2024-01-24,PlayStation Store Ellenbrook Purchase,42.58,Entertainment,0,2024,1,24,Wednesday,False
+2024-07-24,Ampol Fuel Purchase,90.81,Transport,0,2024,7,24,Wednesday,False
+2026-02-12,Netflix Online,25.99,Bills,0,2026,2,12,Thursday,False
+2024-06-12,Netflix Online,25.99,Bills,0,2024,6,12,Wednesday,False
+2025-01-26,Event Cinemas Ellenbrook Card,34.81,Entertainment,0,2025,1,26,Sunday,True
+2024-03-09,Nando's,21.38,Dining,0,2024,3,9,Saturday,True
+2024-06-26,DoorDash Balcatta,9.84,Dining,0,2024,6,26,Wednesday,False
+2025-07-03,Kmart Joondalup Thu,49.46,Shopping,0,2025,7,3,Thursday,False
+2024-07-01,Cotton On Online AU,119.73,Shopping,0,2024,7,1,Monday,False
+2025-12-12,Optus Internet Ellenbrook AU,73.52,Bills,0,2025,12,12,Friday,False
+2024-05-07,TAFE Course Materials Morley Purchase,86.63,Education,0,2024,5,7,Tuesday,False
+2026-01-19,McDonald's Balcatta Card,5.7,Dining,0,2026,1,19,Monday,False
+2024-02-12,KFC Ellenbrook Card,8.53,Dining,0,2024,2,12,Monday,False
+2025-10-15,Uber Eats Online Wed,56.42,Dining,0,2025,10,15,Wednesday,False
+2024-01-12,Spotify Joondalup Fri,16.01,Bills,0,2024,1,12,Friday,False
+2024-04-08,Optus Internet Morley,87.33,Bills,0,2024,4,8,Monday,False
+2026-04-23,Spudshed Balcatta Purchase,77.39,Groceries,0,2026,4,23,Thursday,False
+2024-05-30,PlayStation Store Perth AU,29.65,Entertainment,0,2024,5,30,Thursday,False
+2024-10-02,PlayStation Store Perth Purchase,23.96,Entertainment,0,2024,10,2,Wednesday,False
+2024-04-10,Spudshed Morley,29.56,Groceries,0,2024,4,10,Wednesday,False
+2024-05-17,Nando's Perth AU,36.25,Dining,0,2024,5,17,Friday,False
+2024-11-25,Woolworths,21.01,Groceries,0,2024,11,25,Monday,False
+2025-02-17,Ampol Fuel Cannington Card,81.77,Transport,0,2025,2,17,Monday,False
+2024-12-29,Kmart Ellenbrook Purchase,74.35,Shopping,0,2024,12,29,Sunday,True
+2025-01-14,Transperth Morley Purchase,9.53,Transport,0,2025,1,14,Tuesday,False
+2025-09-09,Synergy Electricity Cannington AU,128.51,Bills,0,2025,9,9,Tuesday,False
+2026-02-25,Local Cafe Cannington Card,14.17,Dining,0,2026,2,25,Wednesday,False
+2025-07-10,Cotton On Morley Purchase,8.06,Shopping,0,2025,7,10,Thursday,False
+2025-12-29,BP Fuel Ellenbrook Purchase,56.82,Transport,0,2025,12,29,Monday,False
+2025-08-06,Qantas,513.43,Travel,0,2025,8,6,Wednesday,False
+2024-02-29,Synergy Electricity Cannington,197.92,Bills,0,2024,2,29,Thursday,False
+2026-05-31,Transperth Online Card,7.97,Transport,0,2026,5,31,Sunday,True
+2025-02-04,TAFE Course Materials Perth AU,109.59,Education,0,2025,2,4,Tuesday,False
+2024-05-25,DoorDash Ellenbrook AU,15.54,Dining,0,2024,5,25,Saturday,True
+2026-04-21,DoorDash Ellenbrook AU,425.38,Dining,1,2026,4,21,Tuesday,False
+2025-11-04,Cotton On Tue,24.56,Shopping,0,2025,11,4,Tuesday,False
+2025-10-25,ALDI Ellenbrook AU,37.52,Groceries,0,2025,10,25,Saturday,True
+2024-07-19,Rent Balcatta,650.0,Bills,0,2024,7,19,Friday,False
+2024-09-13,TAFE Course Materials Morley AU,22.82,Education,0,2024,9,13,Friday,False
+2024-05-10,Nail Studio Morley Purchase,29.27,Personal Care,0,2024,5,10,Friday,False
+2025-11-07,Concert Ticket Cannington,51.48,Entertainment,0,2025,11,7,Friday,False
+2024-11-19,BIG W Ellenbrook Card,59.48,Shopping,0,2024,11,19,Tuesday,False
+2026-04-05,Kmart Online,12.04,Shopping,0,2026,4,5,Sunday,True
+2026-06-11,Dental Clinic Cannington Purchase,199.88,Health,0,2026,6,11,Thursday,False
+2025-04-21,BP Fuel Joondalup,74.51,Transport,0,2025,4,21,Monday,False
+2025-03-05,Spudshed Ellenbrook Card,24.72,Groceries,0,2025,3,5,Wednesday,False
+2024-12-11,Myer Ellenbrook Card,100.43,Shopping,0,2024,12,11,Wednesday,False
+2026-04-10,Ampol Fuel Morley,95.0,Transport,0,2026,4,10,Friday,False
+2024-09-14,Telstra Mobile Balcatta,38.35,Bills,0,2024,9,14,Saturday,True
+2024-09-02,Spudshed Morley AU,26.93,Groceries,0,2024,9,2,Monday,False
+2026-04-29,Nail Studio Perth Purchase,44.3,Personal Care,0,2026,4,29,Wednesday,False
+2024-02-11,DiDi Online Sun,31.34,Transport,0,2024,2,11,Sunday,True
+2024-02-27,Water Corporation Balcatta Card,107.67,Bills,0,2024,2,27,Tuesday,False
+2025-09-21,Coles Joondalup Sun,87.02,Groceries,0,2025,9,21,Sunday,True
+2026-03-15,Concert Ticket Online AU,142.21,Entertainment,0,2026,3,15,Sunday,True
+2024-07-08,Woolworths Online,68.84,Groceries,0,2024,7,8,Monday,False
+2024-11-28,Amazon AU Online Purchase,1.5,Shopping,0,2024,11,28,Thursday,False
+2024-03-07,BP Fuel Online Purchase,99.66,Transport,0,2024,3,7,Thursday,False
+2024-12-21,Dental Clinic AU,152.31,Health,0,2024,12,21,Saturday,True
+2026-01-24,Nando's Balcatta Purchase,25.88,Dining,0,2026,1,24,Saturday,True
+2025-11-27,Spudshed,79.43,Groceries,0,2025,11,27,Thursday,False
+2024-08-30,DoorDash Cannington Fri,29.12,Dining,0,2024,8,30,Friday,False
+2024-07-29,KFC Ellenbrook Card,1.5,Dining,0,2024,7,29,Monday,False
+2025-08-23,Kmart Ellenbrook AU,47.26,Shopping,0,2025,8,23,Saturday,True
+2024-10-01,DiDi Card,13.43,Transport,0,2024,10,1,Tuesday,False
+2025-04-02,BIG W Perth Purchase,82.85,Shopping,0,2025,4,2,Wednesday,False
+2025-02-27,Myer Ellenbrook Purchase,39.71,Shopping,0,2025,2,27,Thursday,False
+2025-06-03,IGA Balcatta,31.12,Groceries,0,2025,6,3,Tuesday,False
+2026-05-17,Woolworths Online Purchase,49.34,Groceries,0,2026,5,17,Sunday,True
+2024-10-24,KFC Joondalup AU,28.23,Dining,0,2024,10,24,Thursday,False
+2024-08-05,GP Clinic Purchase,31.86,Health,0,2024,8,5,Monday,False
+2024-08-03,Rent Online,659.37,Bills,0,2024,8,3,Saturday,True
+2026-06-24,Spudshed Cannington Card,39.07,Groceries,0,2026,6,24,Wednesday,False
+2025-11-13,BIG W Balcatta Thu,76.23,Shopping,0,2025,11,13,Thursday,False
+2026-01-05,Coles,24.67,Groceries,0,2026,1,5,Monday,False
+2025-12-05,Rent Balcatta,650.0,Bills,0,2025,12,5,Friday,False
+2025-03-02,BIG W,55.03,Shopping,0,2025,3,2,Sunday,True
+2025-08-05,McDonald's Balcatta AU,16.97,Dining,0,2025,8,5,Tuesday,False
+2025-12-04,Charity Donation Card,21.68,Other,0,2025,12,4,Thursday,False
+2025-06-15,ALDI Online Card,80.43,Groceries,0,2025,6,15,Sunday,True
+2024-02-01,BIG W Ellenbrook AU,46.5,Shopping,0,2024,2,1,Thursday,False
+2025-08-13,Woolworths Perth Wed,37.93,Groceries,0,2025,8,13,Wednesday,False
+2026-02-12,KFC Perth,17.08,Dining,0,2026,2,12,Thursday,False
+2024-07-19,Miscellaneous Purchase Joondalup Fri,84.05,Other,0,2024,7,19,Friday,False
+2025-11-15,BP Fuel Joondalup Purchase,59.95,Transport,0,2025,11,15,Saturday,True
+2024-06-23,Netflix Online AU,28.06,Bills,0,2024,6,23,Sunday,True
+2025-01-19,IGA,18.37,Groceries,0,2025,1,19,Sunday,True
+2024-10-03,ALDI Joondalup,40.8,Groceries,0,2024,10,3,Thursday,False
+2024-01-01,Cotton On Cannington Mon,44.75,Shopping,0,2024,1,1,Monday,False
+2024-06-23,Coles Ellenbrook Sun,89.38,Groceries,0,2024,6,23,Sunday,True
+2025-10-07,Local Cafe Purchase,20.22,Dining,0,2025,10,7,Tuesday,False
+2024-05-05,Uber Eats Online Purchase,44.38,Dining,0,2024,5,5,Sunday,True
+2026-05-18,Target Online Card,69.84,Shopping,0,2026,5,18,Monday,False
+2024-04-29,DiDi Online Purchase,10.48,Transport,0,2024,4,29,Monday,False
+2025-05-10,Concert Ticket Cannington Purchase,187.5,Entertainment,0,2025,5,10,Saturday,True
+2024-03-22,DiDi Online Purchase,8.73,Transport,0,2024,3,22,Friday,False
+2024-09-29,Kmart Joondalup Sun,1.5,Shopping,0,2024,9,29,Sunday,True
+2024-11-10,Coles Morley Purchase,71.97,Groceries,0,2024,11,10,Sunday,True
+2026-02-15,Uber Eats Cannington Sun,59.74,Dining,0,2026,2,15,Sunday,True
+2026-04-01,Target Ellenbrook,74.89,Shopping,0,2026,4,1,Wednesday,False
+2025-09-08,Spudshed Cannington AU,44.15,Groceries,0,2025,9,8,Monday,False
+2026-03-02,Water Corporation Morley Mon,126.72,Bills,0,2026,3,2,Monday,False
+2025-10-29,Optus Internet Purchase,70.88,Bills,0,2025,10,29,Wednesday,False
+2026-05-11,BP Fuel Morley AU,77.78,Transport,0,2026,5,11,Monday,False
+2024-12-19,Myer Thu,211.92,Shopping,0,2024,12,19,Thursday,False
+2025-12-22,McDonald's Morley Mon,32.9,Dining,0,2025,12,22,Monday,False
+2024-04-12,Netflix Online,25.99,Bills,0,2024,4,12,Friday,False
+2024-09-04,Uber Wed,19.03,Transport,0,2024,9,4,Wednesday,False
+2024-10-20,IGA Ellenbrook Purchase,54.26,Groceries,0,2024,10,20,Sunday,True
+2024-03-26,Kmart Cannington AU,50.61,Shopping,0,2024,3,26,Tuesday,False
+2025-04-18,KFC,8.52,Dining,0,2025,4,18,Friday,False
+2025-10-03,Uber Eats Card,8.67,Dining,0,2025,10,3,Friday,False
+2024-11-17,HOYTS Joondalup Sun,21.81,Entertainment,0,2024,11,17,Sunday,True
+2024-12-25,BIG W Balcatta Card,23.58,Shopping,0,2024,12,25,Wednesday,False
+2025-03-30,Barber and Beauty Morley Purchase,37.47,Personal Care,0,2025,3,30,Sunday,True
+2024-07-04,Cotton On Online Card,68.63,Shopping,0,2024,7,4,Thursday,False
+2024-01-26,Nando's Ellenbrook Card,4.52,Dining,0,2024,1,26,Friday,False
+2026-03-21,Gift Purchase Online Purchase,53.81,Other,0,2026,3,21,Saturday,True
+2025-08-21,Local Cafe AU,21.96,Dining,0,2025,8,21,Thursday,False
+2024-11-24,Woolworths Ellenbrook AU,84.4,Groceries,0,2024,11,24,Sunday,True
+2025-03-10,Coles Morley Card,46.84,Groceries,0,2025,3,10,Monday,False
+2024-11-22,PlayStation Store Purchase,42.5,Entertainment,0,2024,11,22,Friday,False
+2024-06-11,Kmart Tue,13.92,Shopping,0,2024,6,11,Tuesday,False
+2025-05-10,Nando's Joondalup,46.81,Dining,0,2025,5,10,Saturday,True
+2025-12-17,Coles Ellenbrook Wed,43.6,Groceries,0,2025,12,17,Wednesday,False
+2024-11-24,ALDI Ellenbrook Purchase,47.73,Groceries,0,2024,11,24,Sunday,True
+2026-04-17,Transperth Card,11.82,Transport,0,2026,4,17,Friday,False
+2025-04-02,Nando's Balcatta,12.93,Dining,0,2025,4,2,Wednesday,False
+2024-09-23,ALDI AU,501.78,Groceries,1,2024,9,23,Monday,False
+2025-10-04,Telstra Mobile Perth Sat,44.64,Bills,0,2025,10,4,Saturday,True
+2024-04-01,IGA Purchase,35.98,Groceries,0,2024,4,1,Monday,False
+2026-04-16,Spudshed Cannington Thu,62.74,Groceries,0,2026,4,16,Thursday,False
+2025-01-01,Event Cinemas Wed,34.18,Entertainment,0,2025,1,1,Wednesday,False
+2025-01-18,BP Fuel AU,43.06,Transport,0,2025,1,18,Saturday,True
+2024-10-13,KFC Online Sun,36.5,Dining,0,2024,10,13,Sunday,True
+2024-09-25,Event Cinemas Online Wed,19.62,Entertainment,0,2024,9,25,Wednesday,False
+2026-06-21,Uber Eats Joondalup AU,69.48,Dining,0,2026,6,21,Sunday,True
+2026-03-19,Nando's Cannington Thu,37.85,Dining,0,2026,3,19,Thursday,False
+2024-02-23,Myer Online Card,65.69,Shopping,0,2024,2,23,Friday,False
+2024-05-18,Dental Clinic Cannington AU,144.7,Health,0,2024,5,18,Saturday,True
+2025-11-10,Transperth Joondalup Purchase,1.5,Transport,0,2025,11,10,Monday,False
+2025-01-26,Coles Cannington Purchase,89.79,Groceries,0,2025,1,26,Sunday,True
+2025-11-06,ALDI Balcatta Card,76.54,Groceries,0,2025,11,6,Thursday,False
+2025-09-25,Event Cinemas Online Card,17.75,Entertainment,0,2025,9,25,Thursday,False
+2025-08-22,Spudshed Ellenbrook AU,90.22,Groceries,0,2025,8,22,Friday,False
+2025-01-06,Nando's Perth Mon,42.52,Dining,0,2025,1,6,Monday,False
+2025-09-25,Spotify Morley,12.36,Bills,0,2025,9,25,Thursday,False
+2024-10-21,Optus Internet Joondalup AU,70.21,Bills,0,2024,10,21,Monday,False
+2026-05-12,Netflix Online,25.99,Bills,0,2026,5,12,Tuesday,False
+2026-03-08,Optus Internet Online,79.0,Bills,0,2026,3,8,Sunday,True
+2024-09-27,Spotify Ellenbrook Card,15.39,Bills,0,2024,9,27,Friday,False
+2024-05-12,Netflix Online,25.99,Bills,0,2024,5,12,Sunday,True
+2025-11-26,Kmart Wed,50.51,Shopping,0,2025,11,26,Wednesday,False
+2024-10-18,Water Corporation Card,107.31,Bills,0,2024,10,18,Friday,False
+2026-05-13,Kmart Joondalup,48.94,Shopping,0,2026,5,13,Wednesday,False
+2024-05-26,DoorDash Ellenbrook,30.41,Dining,0,2024,5,26,Sunday,True
+2024-08-02,McDonald's Joondalup Card,22.91,Dining,0,2024,8,2,Friday,False
+2026-04-15,Udemy Cannington Purchase,1.5,Education,0,2026,4,15,Wednesday,False
+2025-10-10,Rent Balcatta,650.0,Bills,0,2025,10,10,Friday,False
+2024-06-14,Uber Cannington Fri,10.3,Transport,0,2024,6,14,Friday,False
+2024-09-03,Ampol Fuel,87.13,Transport,0,2024,9,3,Tuesday,False
+2025-01-16,KFC Purchase,16.52,Dining,0,2025,1,16,Thursday,False
+2025-06-25,Water Corporation Balcatta Purchase,92.11,Bills,0,2025,6,25,Wednesday,False
+2024-06-10,Transperth Perth,12.72,Transport,0,2024,6,10,Monday,False
+2025-03-22,BP Fuel,78.5,Transport,0,2025,3,22,Saturday,True
+2024-04-26,Myer Perth AU,103.0,Shopping,0,2024,4,26,Friday,False
+2024-06-01,Charity Donation Online Card,46.68,Other,0,2024,6,1,Saturday,True
+2024-02-25,KFC AU,19.91,Dining,0,2024,2,25,Sunday,True
+2024-11-02,KFC Perth AU,1.61,Dining,0,2024,11,2,Saturday,True
+2024-03-20,Nando's Morley AU,28.29,Dining,0,2024,3,20,Wednesday,False
+2025-04-05,Uber Perth AU,26.68,Transport,0,2025,4,5,Saturday,True
+2024-04-18,Telstra Mobile Online,55.0,Bills,0,2024,4,18,Thursday,False
+2026-06-15,Gift Purchase Ellenbrook Purchase,38.65,Other,0,2026,6,15,Monday,False
+2024-08-22,Spotify Online,13.99,Bills,0,2024,8,22,Thursday,False
+2025-09-30,Kmart Morley Tue,103.22,Shopping,1,2025,9,30,Tuesday,False
+2025-03-22,Cotton On Morley,124.1,Shopping,0,2025,3,22,Saturday,True
+2026-04-01,Local Cafe Cannington,26.55,Dining,0,2026,4,1,Wednesday,False
+2024-07-17,BP Fuel Joondalup Wed,78.28,Transport,0,2024,7,17,Wednesday,False
+2024-01-22,Dental Clinic Morley AU,218.73,Health,0,2024,1,22,Monday,False
+2025-02-26,ALDI Perth Card,1.5,Groceries,0,2025,2,26,Wednesday,False
+2024-04-08,Spudshed Perth AU,24.46,Groceries,0,2024,4,8,Monday,False
+2026-06-20,IGA Balcatta,34.57,Groceries,0,2026,6,20,Saturday,True
+2026-04-06,DiDi Perth,40.12,Transport,0,2026,4,6,Monday,False
+2024-05-10,ALDI Perth Card,33.74,Groceries,0,2024,5,10,Friday,False
+2025-07-02,Coles Online Purchase,25.2,Groceries,0,2025,7,2,Wednesday,False
+2024-06-08,Steam Online Card,25.44,Entertainment,0,2024,6,8,Saturday,True
+2024-01-06,Uber Perth,38.15,Transport,0,2024,1,6,Saturday,True
+2026-03-20,Event Cinemas Perth Purchase,21.47,Entertainment,0,2026,3,20,Friday,False
+2024-11-20,Steam Online Card,27.12,Entertainment,0,2024,11,20,Wednesday,False
+2025-03-28,Rent Balcatta,650.0,Bills,0,2025,3,28,Friday,False
+2025-05-10,Coles Joondalup Card,86.63,Groceries,0,2025,5,10,Saturday,True
+2025-04-28,ALDI AU,86.25,Groceries,0,2025,4,28,Monday,False
+2025-01-25,Transperth Online Sat,3.13,Transport,0,2025,1,25,Saturday,True
+2026-03-22,Nando's Perth,1.82,Dining,0,2026,3,22,Sunday,True
+2024-08-31,Coursera Cannington Purchase,70.9,Education,0,2024,8,31,Saturday,True
+2024-10-20,KFC Online Card,24.29,Dining,0,2024,10,20,Sunday,True
+2024-09-09,Woolworths Mon,40.24,Groceries,0,2024,9,9,Monday,False
+2025-09-03,Telstra Mobile Morley Wed,55.83,Bills,0,2025,9,3,Wednesday,False
+2025-01-07,DoorDash Ellenbrook Tue,27.15,Dining,0,2025,1,7,Tuesday,False
+2024-04-04,KFC Online Purchase,20.61,Dining,0,2024,4,4,Thursday,False
+2025-03-29,Woolworths Online Purchase,58.7,Groceries,0,2025,3,29,Saturday,True
+2026-04-17,Target Balcatta Purchase,49.5,Shopping,0,2026,4,17,Friday,False
+2024-12-12,Spudshed Morley,61.99,Groceries,0,2024,12,12,Thursday,False
+2026-06-17,Nando's Joondalup Card,50.57,Dining,0,2026,6,17,Wednesday,False
+2025-09-25,Spotify Joondalup AU,15.24,Bills,0,2025,9,25,Thursday,False
+2024-07-12,Coles Card,43.16,Groceries,0,2024,7,12,Friday,False
+2024-04-09,Target Balcatta,94.4,Shopping,0,2024,4,9,Tuesday,False
+2024-03-13,Hair Salon Perth,130.46,Personal Care,0,2024,3,13,Wednesday,False
+2025-08-19,Telstra Mobile Ellenbrook Tue,49.6,Bills,0,2025,8,19,Tuesday,False
+2025-01-08,Nando's Cannington Wed,31.65,Dining,0,2025,1,8,Wednesday,False
+2024-05-20,IGA Ellenbrook AU,40.05,Groceries,0,2024,5,20,Monday,False
+2025-03-29,Coles Joondalup Sat,37.93,Groceries,0,2025,3,29,Saturday,True
+2024-08-09,Steam Perth,29.35,Entertainment,0,2024,8,9,Friday,False
+2024-04-24,Uber Eats Joondalup AU,56.85,Dining,0,2024,4,24,Wednesday,False
+2026-06-27,Nando's Perth Purchase,35.12,Dining,0,2026,6,27,Saturday,True
+2025-05-15,GP Clinic Online Purchase,78.09,Health,0,2025,5,15,Thursday,False
+2024-02-23,Spudshed Online Purchase,32.09,Groceries,0,2024,2,23,Friday,False
+2024-01-30,DoorDash Online Purchase,58.82,Dining,0,2024,1,30,Tuesday,False
+2025-07-28,Australia Post Cannington Card,21.56,Other,0,2025,7,28,Monday,False
+2025-05-02,Local Cafe Perth Card,22.37,Dining,0,2025,5,2,Friday,False
+2024-01-16,DiDi Morley Tue,48.89,Transport,0,2024,1,16,Tuesday,False
+2025-05-19,GP Clinic Morley Purchase,71.36,Health,0,2025,5,19,Monday,False
+2025-05-22,Spotify Online,13.99,Bills,0,2025,5,22,Thursday,False
+2024-12-15,Uber Cannington AU,12.62,Transport,0,2024,12,15,Sunday,True
+2025-05-15,Barber and Beauty Perth,53.86,Personal Care,0,2025,5,15,Thursday,False
+2025-06-22,Uber Eats,71.18,Dining,0,2025,6,22,Sunday,True
+2025-10-11,IGA Ellenbrook Sat,18.26,Groceries,0,2025,10,11,Saturday,True
+2026-05-09,ALDI Cannington AU,35.52,Groceries,0,2026,5,9,Saturday,True
+2026-06-08,Optus Internet Online,79.0,Bills,0,2026,6,8,Monday,False
+2026-05-25,Barber and Beauty Ellenbrook AU,1.5,Personal Care,0,2026,5,25,Monday,False
+2024-05-02,Uber Thu,27.8,Transport,0,2024,5,2,Thursday,False
+2025-01-17,Cotton On Perth Fri,39.58,Shopping,0,2025,1,17,Friday,False
+2025-03-23,BIG W Online Sun,119.4,Shopping,0,2025,3,23,Sunday,True
+2026-04-16,IGA Cannington AU,21.86,Groceries,0,2026,4,16,Thursday,False
+2024-06-16,Uber Eats Joondalup Purchase,61.31,Dining,0,2024,6,16,Sunday,True
+2025-03-23,Cotton On Online AU,57.08,Shopping,0,2025,3,23,Sunday,True
+2024-02-06,KFC Online AU,14.33,Dining,0,2024,2,6,Tuesday,False
+2026-01-30,Cotton On Balcatta Fri,59.45,Shopping,0,2026,1,30,Friday,False
+2024-12-26,Optus Internet Perth Card,77.26,Bills,0,2024,12,26,Thursday,False
+2024-08-03,KFC Online Purchase,34.57,Dining,0,2024,8,3,Saturday,True
+2026-01-09,Concert Ticket Joondalup,91.61,Entertainment,0,2026,1,9,Friday,False
+2024-06-11,Dental Clinic Cannington Purchase,261.07,Health,0,2024,6,11,Tuesday,False
+2026-06-23,Local Cafe Perth Card,15.76,Dining,0,2026,6,23,Tuesday,False
+2025-11-03,Beauty Store Joondalup AU,71.43,Personal Care,0,2025,11,3,Monday,False
+2025-11-23,PlayStation Store Purchase,19.79,Entertainment,0,2025,11,23,Sunday,True
+2025-09-12,DoorDash Balcatta,63.28,Dining,0,2025,9,12,Friday,False
+2025-06-30,Officeworks Perth,38.84,Education,0,2025,6,30,Monday,False
+2026-01-01,Ampol Fuel Online Purchase,20.75,Transport,0,2026,1,1,Thursday,False
+2024-08-03,Spotify Online Sat,16.78,Bills,0,2024,8,3,Saturday,True
+2026-04-03,PlayStation Store Card,12.44,Entertainment,0,2026,4,3,Friday,False
+2025-10-15,Rent Balcatta Purchase,660.65,Bills,0,2025,10,15,Wednesday,False
+2026-03-25,KFC Morley AU,11.1,Dining,0,2026,3,25,Wednesday,False
+2024-08-12,ALDI Online,45.25,Groceries,0,2024,8,12,Monday,False
+2024-04-04,McDonald's Ellenbrook Purchase,17.22,Dining,0,2024,4,4,Thursday,False
+2024-07-13,Transperth Perth Card,4.88,Transport,0,2024,7,13,Saturday,True
+2025-06-14,Uber Eats Cannington Card,86.43,Dining,0,2025,6,14,Saturday,True
+2025-01-24,Local Cafe Perth Fri,14.27,Dining,0,2025,1,24,Friday,False
+2024-06-29,Synergy Electricity,193.09,Bills,0,2024,6,29,Saturday,True
+2025-02-13,Udemy Joondalup AU,10.27,Education,0,2025,2,13,Thursday,False
+2025-02-21,Rent Online AU,639.87,Bills,0,2025,2,21,Friday,False
+2025-06-07,Steam Perth AU,1.5,Entertainment,0,2025,6,7,Saturday,True
+2024-06-22,ALDI Ellenbrook AU,20.38,Groceries,0,2024,6,22,Saturday,True
+2024-04-27,DiDi Cannington,33.59,Transport,0,2024,4,27,Saturday,True
+2024-11-13,Cotton On Perth Wed,53.15,Shopping,0,2024,11,13,Wednesday,False
+2026-01-31,Spudshed Perth Card,50.47,Groceries,0,2026,1,31,Saturday,True
+2024-05-29,Event Cinemas Online AU,25.96,Entertainment,0,2024,5,29,Wednesday,False
+2024-10-01,Chemist Warehouse Online AU,23.88,Health,0,2024,10,1,Tuesday,False
+2025-03-18,McDonald's Joondalup,24.27,Dining,0,2025,3,18,Tuesday,False
+2026-03-23,Water Corporation Online Mon,120.0,Bills,0,2026,3,23,Monday,False
+2026-02-02,Myer Morley Mon,77.09,Shopping,0,2026,2,2,Monday,False
+2024-09-08,Cotton On Cannington AU,24.85,Shopping,0,2024,9,8,Sunday,True
+2025-07-02,KFC Purchase,27.66,Dining,0,2025,7,2,Wednesday,False
+2025-09-26,Coles Morley,42.62,Groceries,0,2025,9,26,Friday,False
+2025-05-27,Uber Eats Ellenbrook,47.64,Dining,0,2025,5,27,Tuesday,False
+2026-05-30,McDonald's Ellenbrook Card,22.31,Dining,0,2026,5,30,Saturday,True
+2026-02-27,GP Clinic Balcatta,119.4,Health,0,2026,2,27,Friday,False
+2024-03-23,Uber Joondalup,16.22,Transport,0,2024,3,23,Saturday,True
+2025-08-26,Uber Purchase,44.04,Transport,0,2025,8,26,Tuesday,False
+2025-04-13,DoorDash Online Purchase,64.09,Dining,0,2025,4,13,Sunday,True
+2026-05-09,Cotton On Ellenbrook Sat,35.79,Shopping,0,2026,5,9,Saturday,True
+2024-07-23,Spudshed Online Purchase,78.14,Groceries,0,2024,7,23,Tuesday,False
+2026-03-05,DiDi Morley AU,21.91,Transport,0,2026,3,5,Thursday,False
+2025-06-30,IGA AU,46.74,Groceries,0,2025,6,30,Monday,False
+2025-01-09,Ampol Fuel Balcatta AU,73.73,Transport,0,2025,1,9,Thursday,False
+2024-08-04,Woolworths Cannington AU,139.27,Groceries,0,2024,8,4,Sunday,True
+2024-01-13,Spudshed Ellenbrook AU,65.75,Groceries,0,2024,1,13,Saturday,True
+2025-12-05,Synergy Electricity Joondalup AU,225.29,Bills,0,2025,12,5,Friday,False
+2026-04-07,Woolworths Ellenbrook,28.71,Groceries,0,2026,4,7,Tuesday,False
+2024-02-19,Water Corporation Purchase,105.78,Bills,0,2024,2,19,Monday,False
+2025-05-26,BP Fuel Ellenbrook,37.1,Transport,0,2025,5,26,Monday,False
+2025-12-03,Rent Balcatta Purchase,643.8,Bills,0,2025,12,3,Wednesday,False
+2025-01-08,Optus Internet Online,79.0,Bills,0,2025,1,8,Wednesday,False
+2024-12-18,Coles Morley,68.9,Groceries,0,2024,12,18,Wednesday,False
+2025-09-08,HOYTS Balcatta AU,22.42,Entertainment,0,2025,9,8,Monday,False
+2024-07-22,KFC Ellenbrook AU,36.55,Dining,0,2024,7,22,Monday,False
+2025-10-27,Kmart Perth Card,85.05,Shopping,0,2025,10,27,Monday,False
+2025-01-18,KFC Joondalup Sat,25.97,Dining,0,2025,1,18,Saturday,True
+2025-07-25,KFC Joondalup,24.67,Dining,0,2025,7,25,Friday,False
+2025-10-23,Local Cafe Cannington Purchase,20.4,Dining,0,2025,10,23,Thursday,False
+2026-06-06,IGA Joondalup Card,7.7,Groceries,0,2026,6,6,Saturday,True
+2026-06-18,Telstra Mobile Online,55.0,Bills,0,2026,6,18,Thursday,False
+2026-03-11,Transperth,10.03,Transport,0,2026,3,11,Wednesday,False
+2025-06-25,Uber Balcatta AU,44.83,Transport,0,2025,6,25,Wednesday,False
+2025-09-23,Woolworths Perth,46.71,Groceries,0,2025,9,23,Tuesday,False
+2026-01-23,Synergy Electricity Morley AU,183.81,Bills,0,2026,1,23,Friday,False
+2026-01-23,Target Balcatta Card,95.04,Shopping,0,2026,1,23,Friday,False
+2025-07-29,Local Cafe Ellenbrook Purchase,14.15,Dining,0,2025,7,29,Tuesday,False
+2024-08-13,Hair Salon Online,99.59,Personal Care,0,2024,8,13,Tuesday,False
+2025-03-20,Beauty Store Balcatta AU,78.24,Personal Care,0,2025,3,20,Thursday,False
+2024-04-18,ALDI Purchase,37.16,Groceries,0,2024,4,18,Thursday,False
+2025-11-14,Spudshed Balcatta AU,53.27,Groceries,0,2025,11,14,Friday,False
+2024-06-20,Spudshed Joondalup,41.35,Groceries,0,2024,6,20,Thursday,False
+2024-11-26,IGA Perth,22.75,Groceries,0,2024,11,26,Tuesday,False
+2026-02-12,Myer Perth,80.95,Shopping,0,2026,2,12,Thursday,False
+2026-05-22,Coles Fri,63.79,Groceries,0,2026,5,22,Friday,False
+2024-10-31,Coles Ellenbrook Card,87.75,Groceries,0,2024,10,31,Thursday,False
+2026-03-07,Event Cinemas Perth Sat,15.98,Entertainment,0,2026,3,7,Saturday,True
+2024-03-02,GP Clinic Joondalup AU,110.02,Health,0,2024,3,2,Saturday,True
+2026-04-12,Spudshed Ellenbrook,37.2,Groceries,0,2026,4,12,Sunday,True
+2025-12-19,IGA Joondalup Purchase,57.95,Groceries,0,2025,12,19,Friday,False
+2025-07-18,Rent Balcatta,650.0,Bills,0,2025,7,18,Friday,False
+2024-11-04,Amazon AU Balcatta Mon,31.75,Shopping,0,2024,11,4,Monday,False
+2025-10-21,Coles Balcatta Card,47.64,Groceries,0,2025,10,21,Tuesday,False
+2025-08-28,Nando's Online Thu,47.61,Dining,0,2025,8,28,Thursday,False
+2025-05-09,Concert Ticket Joondalup Fri,124.29,Entertainment,0,2025,5,9,Friday,False
+2025-05-16,Rent Morley AU,640.76,Bills,0,2025,5,16,Friday,False
+2024-05-31,PlayStation Store Cannington Card,17.81,Entertainment,0,2024,5,31,Friday,False
+2025-08-13,Woolworths Joondalup Card,71.52,Groceries,0,2025,8,13,Wednesday,False
+2025-01-04,Woolworths Joondalup,121.88,Groceries,0,2025,1,4,Saturday,True
+2024-12-26,DiDi Ellenbrook,19.99,Transport,0,2024,12,26,Thursday,False
+2025-09-13,Priceline Pharmacy Online Sat,45.39,Health,0,2025,9,13,Saturday,True
+2025-10-06,Synergy Electricity Card,153.08,Bills,0,2025,10,6,Monday,False
+2024-04-18,Uber Morley AU,76.44,Transport,1,2024,4,18,Thursday,False
+2025-06-27,ALDI Cannington AU,84.12,Groceries,0,2025,6,27,Friday,False
+2026-04-21,Steam Balcatta Card,17.69,Entertainment,0,2026,4,21,Tuesday,False
+2024-08-21,Coles AU,27.09,Groceries,0,2024,8,21,Wednesday,False
+2024-02-09,Woolworths Balcatta Purchase,384.43,Groceries,1,2024,2,9,Friday,False
+2025-06-28,Event Cinemas Ellenbrook AU,33.16,Entertainment,0,2025,6,28,Saturday,True
+2025-11-05,Priceline Pharmacy Perth Purchase,282.27,Health,1,2025,11,5,Wednesday,False
+2026-03-13,GP Clinic Perth Purchase,99.86,Health,0,2026,3,13,Friday,False
+2024-01-02,Officeworks Joondalup Purchase,46.6,Education,0,2024,1,2,Tuesday,False
+2024-04-22,Spotify Online,13.99,Bills,0,2024,4,22,Monday,False
+2024-07-16,Nando's,37.05,Dining,0,2024,7,16,Tuesday,False
+2025-09-28,ALDI Perth,28.14,Groceries,0,2025,9,28,Sunday,True
+2024-03-26,Ampol Fuel Balcatta AU,110.64,Transport,0,2024,3,26,Tuesday,False
+2025-09-08,Kmart Ellenbrook,74.45,Shopping,0,2025,9,8,Monday,False
+2024-11-17,ALDI Cannington Card,31.22,Groceries,0,2024,11,17,Sunday,True
+2024-10-27,Local Cafe Joondalup Sun,9.56,Dining,0,2024,10,27,Sunday,True
+2025-12-14,Coles Perth Card,148.53,Groceries,0,2025,12,14,Sunday,True
+2025-10-30,Spudshed Ellenbrook AU,44.5,Groceries,0,2025,10,30,Thursday,False
+2024-06-13,IGA Morley,60.24,Groceries,0,2024,6,13,Thursday,False
+2025-04-18,Telstra Mobile Online,55.0,Bills,0,2025,4,18,Friday,False
+2026-03-10,Amazon AU Morley Card,95.87,Shopping,0,2026,3,10,Tuesday,False
+2024-10-02,IGA Morley,30.74,Groceries,0,2024,10,2,Wednesday,False
+2025-03-28,KFC Ellenbrook,30.29,Dining,0,2025,3,28,Friday,False
+2025-04-12,Coles Ellenbrook,77.44,Groceries,0,2025,4,12,Saturday,True
+2024-12-26,Cotton On Joondalup Thu,60.74,Shopping,0,2024,12,26,Thursday,False
+2024-07-25,BP Fuel Perth,53.34,Transport,0,2024,7,25,Thursday,False
+2024-10-18,DoorDash Purchase,40.28,Dining,0,2024,10,18,Friday,False
+2025-04-04,Woolworths Cannington Card,64.23,Groceries,0,2025,4,4,Friday,False
+2024-12-13,DoorDash Balcatta Purchase,23.56,Dining,0,2024,12,13,Friday,False
+2025-10-16,ALDI Balcatta Thu,45.37,Groceries,0,2025,10,16,Thursday,False
+2025-07-27,Coles Balcatta Sun,689.4,Groceries,1,2025,7,27,Sunday,True
+2025-08-08,Telstra Mobile Morley AU,51.11,Bills,0,2025,8,8,Friday,False
+2025-04-17,Coles Ellenbrook,66.81,Groceries,0,2025,4,17,Thursday,False
+2025-08-04,Nando's Balcatta AU,43.03,Dining,0,2025,8,4,Monday,False
+2025-12-22,Spotify Online,13.99,Bills,0,2025,12,22,Monday,False
+2025-07-12,Netflix Online,25.99,Bills,0,2025,7,12,Saturday,True
+2024-12-29,Ampol Fuel Online Sun,33.67,Transport,0,2024,12,29,Sunday,True
+2025-02-24,BP Fuel Perth Card,43.68,Transport,0,2025,2,24,Monday,False
+2024-07-28,Telstra Mobile Online Purchase,56.02,Bills,0,2024,7,28,Sunday,True
+2024-05-06,DoorDash Morley Purchase,51.86,Dining,0,2024,5,6,Monday,False
+2024-01-28,Steam Cannington Purchase,78.72,Entertainment,0,2024,1,28,Sunday,True
+2026-04-07,BP Fuel Perth AU,88.48,Transport,0,2026,4,7,Tuesday,False
+2025-09-06,McDonald's Online Sat,20.35,Dining,0,2025,9,6,Saturday,True
+2025-06-03,IGA Morley Purchase,33.47,Groceries,0,2025,6,3,Tuesday,False
+2024-12-06,Rent Balcatta,650.0,Bills,0,2024,12,6,Friday,False
+2026-06-22,Spotify Online,13.99,Bills,0,2026,6,22,Monday,False
+2025-05-20,Woolworths Online Tue,72.37,Groceries,0,2025,5,20,Tuesday,False
+2024-11-08,Rent Balcatta,650.0,Bills,0,2024,11,8,Friday,False
+2025-03-06,Event Cinemas Morley Card,36.1,Entertainment,0,2025,3,6,Thursday,False
+2025-03-08,Telstra Mobile Joondalup Card,55.48,Bills,0,2025,3,8,Saturday,True
+2026-05-09,Coles Balcatta Sat,61.5,Groceries,0,2026,5,9,Saturday,True
+2024-01-24,ALDI Balcatta Purchase,41.89,Groceries,0,2024,1,24,Wednesday,False
+2025-11-09,BIG W Ellenbrook Card,40.14,Shopping,0,2025,11,9,Sunday,True
+2026-03-27,DoorDash Joondalup Fri,43.62,Dining,0,2026,3,27,Friday,False
+2025-05-10,DiDi Purchase,21.42,Transport,0,2025,5,10,Saturday,True
+2026-01-12,Ampol Fuel Joondalup Purchase,347.37,Transport,1,2026,1,12,Monday,False
+2025-12-11,DoorDash Cannington Card,94.43,Dining,0,2025,12,11,Thursday,False
+2024-01-30,Priceline Pharmacy,11.44,Health,0,2024,1,30,Tuesday,False
+2024-01-21,Amazon AU Joondalup Sun,99.73,Shopping,0,2024,1,21,Sunday,True
+2025-03-02,GP Clinic Balcatta Sun,64.67,Health,0,2025,3,2,Sunday,True
+2025-02-12,Telstra Mobile Balcatta,47.05,Bills,0,2025,2,12,Wednesday,False
+2024-03-16,Uber Eats Balcatta,45.92,Dining,0,2024,3,16,Saturday,True
+2026-06-07,Netflix Joondalup Sun,24.08,Bills,0,2026,6,7,Sunday,True
+2024-04-04,Ampol Fuel Online Thu,59.14,Transport,0,2024,4,4,Thursday,False
+2025-04-01,Spotify Online Purchase,12.81,Bills,0,2025,4,1,Tuesday,False
+2025-04-28,Woolworths Ellenbrook Purchase,40.16,Groceries,0,2025,4,28,Monday,False
+2025-06-12,IGA Ellenbrook Card,30.1,Groceries,0,2025,6,12,Thursday,False
+2025-07-26,BP Fuel Ellenbrook Sat,82.04,Transport,0,2025,7,26,Saturday,True
+2025-07-04,Rent Balcatta,650.0,Bills,0,2025,7,4,Friday,False
+2024-04-19,Telstra Mobile Morley Purchase,34.27,Bills,0,2024,4,19,Friday,False
+2025-01-24,KFC Cannington AU,27.15,Dining,0,2025,1,24,Friday,False
+2025-05-23,Rent Balcatta,650.0,Bills,0,2025,5,23,Friday,False
+2025-12-27,Transperth Morley Card,9.36,Transport,0,2025,12,27,Saturday,True
+2025-05-07,PlayStation Store Ellenbrook,25.13,Entertainment,0,2025,5,7,Wednesday,False
+2025-12-22,IGA Joondalup Card,30.18,Groceries,0,2025,12,22,Monday,False
+2025-06-01,KFC Perth Card,27.14,Dining,0,2025,6,1,Sunday,True
+2025-06-18,HOYTS Perth Wed,36.39,Entertainment,0,2025,6,18,Wednesday,False
+2026-01-06,Nando's Morley AU,40.45,Dining,0,2026,1,6,Tuesday,False
+2024-10-25,PlayStation Store Ellenbrook Fri,28.76,Entertainment,0,2024,10,25,Friday,False
+2025-05-02,Ampol Fuel Online AU,82.82,Transport,0,2025,5,2,Friday,False
+2025-05-08,Optus Internet Online,79.0,Bills,0,2025,5,8,Thursday,False
+2024-02-28,Transperth Online AU,10.85,Transport,0,2024,2,28,Wednesday,False
+2025-04-30,Priceline Pharmacy Cannington,39.41,Health,0,2025,4,30,Wednesday,False
+2024-12-12,KFC Ellenbrook Purchase,12.76,Dining,0,2024,12,12,Thursday,False
+2026-05-22,DiDi Morley Card,14.62,Transport,0,2026,5,22,Friday,False
+2024-04-25,Woolworths Thu,115.64,Groceries,0,2024,4,25,Thursday,False
+2024-06-19,Transperth Perth AU,15.56,Transport,0,2024,6,19,Wednesday,False
+2026-05-06,Nail Studio Ellenbrook Card,39.87,Personal Care,0,2026,5,6,Wednesday,False
+2024-05-15,Uber Eats Online Wed,70.12,Dining,0,2024,5,15,Wednesday,False
+2025-11-07,Rent Balcatta,650.0,Bills,0,2025,11,7,Friday,False
+2024-07-27,Uber AU,21.9,Transport,0,2024,7,27,Saturday,True
+2026-05-28,Hotel Morley Purchase,249.91,Travel,0,2026,5,28,Thursday,False
+2025-04-01,Concert Ticket Morley AU,167.47,Entertainment,0,2025,4,1,Tuesday,False
+2024-05-11,Transperth Cannington Purchase,13.73,Transport,0,2024,5,11,Saturday,True
+2026-06-22,Coles Balcatta Card,50.71,Groceries,0,2026,6,22,Monday,False
+2024-09-17,Telstra Mobile Online,62.8,Bills,0,2024,9,17,Tuesday,False
+2024-12-07,BIG W Morley AU,75.11,Shopping,0,2024,12,7,Saturday,True
+2025-01-07,Qantas Morley AU,550.39,Travel,0,2025,1,7,Tuesday,False
+2024-05-04,Uber Eats Cannington Purchase,58.96,Dining,0,2024,5,4,Saturday,True
+2024-04-08,Optus Internet Online,79.0,Bills,0,2024,4,8,Monday,False
+2026-01-19,Gift Purchase Cannington,56.66,Other,0,2026,1,19,Monday,False
+2024-03-18,Target Online,78.12,Shopping,0,2024,3,18,Monday,False
+2025-11-13,Myer Perth Purchase,100.76,Shopping,0,2025,11,13,Thursday,False
+2024-04-17,Kmart Joondalup Wed,33.3,Shopping,0,2024,4,17,Wednesday,False
+2024-03-13,Transperth Ellenbrook Purchase,10.06,Transport,0,2024,3,13,Wednesday,False
+2025-07-04,Coles Online Fri,56.67,Groceries,0,2025,7,4,Friday,False
+2024-07-08,McDonald's Morley,20.39,Dining,0,2024,7,8,Monday,False
+2026-06-18,Woolworths Joondalup Thu,97.48,Groceries,0,2026,6,18,Thursday,False
+2024-09-03,IGA Card,38.67,Groceries,0,2024,9,3,Tuesday,False
+2025-04-23,Transperth Purchase,7.14,Transport,0,2025,4,23,Wednesday,False
+2024-06-05,Coles Ellenbrook,68.09,Groceries,0,2024,6,5,Wednesday,False
+2024-03-04,Ampol Fuel Cannington,77.05,Transport,0,2024,3,4,Monday,False
+2024-04-14,Cotton On Cannington Purchase,38.2,Shopping,0,2024,4,14,Sunday,True
+2025-12-31,DiDi Joondalup Purchase,21.57,Transport,0,2025,12,31,Wednesday,False
+2025-01-23,Uber Eats Perth,63.72,Dining,0,2025,1,23,Thursday,False
+2024-09-08,BP Fuel Joondalup Purchase,59.2,Transport,0,2024,9,8,Sunday,True
+2024-04-16,Concert Ticket Perth AU,132.43,Entertainment,0,2024,4,16,Tuesday,False
+2024-06-14,Transperth Cannington Purchase,13.23,Transport,0,2024,6,14,Friday,False
+2026-01-08,Dental Clinic Morley AU,175.23,Health,0,2026,1,8,Thursday,False
+2024-08-18,Telstra Mobile Online,55.0,Bills,0,2024,8,18,Sunday,True
+2025-04-17,DoorDash Thu,1.5,Dining,0,2025,4,17,Thursday,False
+2025-07-25,GP Clinic Cannington AU,102.12,Health,0,2025,7,25,Friday,False
+2024-09-22,Spotify Online,13.99,Bills,0,2024,9,22,Sunday,True
+2024-05-03,Nando's Cannington Card,29.63,Dining,0,2024,5,3,Friday,False
+2025-04-26,KFC Sat,33.33,Dining,0,2025,4,26,Saturday,True
+2024-05-14,IGA Joondalup AU,10.89,Groceries,0,2024,5,14,Tuesday,False
+2025-11-28,Woolworths Joondalup Card,32.14,Groceries,0,2025,11,28,Friday,False
+2024-10-29,Nail Studio Cannington,63.82,Personal Care,0,2024,10,29,Tuesday,False
+2025-11-12,Netflix Online,25.99,Bills,0,2025,11,12,Wednesday,False
+2025-10-23,IGA Cannington AU,41.71,Groceries,0,2025,10,23,Thursday,False
+2026-04-18,Myer AU,132.15,Shopping,0,2026,4,18,Saturday,True
+2025-12-11,Coles Perth,59.25,Groceries,0,2025,12,11,Thursday,False
+2024-03-30,Ampol Fuel Balcatta,66.72,Transport,0,2024,3,30,Saturday,True
+2026-05-04,Kmart Perth Card,31.2,Shopping,0,2026,5,4,Monday,False
+2024-09-26,DoorDash Online,30.61,Dining,0,2024,9,26,Thursday,False
+2025-10-16,Amazon AU Perth Thu,153.36,Shopping,0,2025,10,16,Thursday,False
+2025-09-23,Spotify Cannington AU,11.77,Bills,0,2025,9,23,Tuesday,False
+2024-05-27,Kmart Ellenbrook Purchase,60.23,Shopping,0,2024,5,27,Monday,False
+2026-01-05,ALDI Morley Purchase,54.61,Groceries,0,2026,1,5,Monday,False
+2025-10-29,Target Morley Purchase,23.39,Shopping,0,2025,10,29,Wednesday,False
+2025-02-22,Uber Online Sat,8.58,Transport,0,2025,2,22,Saturday,True
+2026-04-04,Telstra Mobile Ellenbrook,68.71,Bills,0,2026,4,4,Saturday,True
+2024-09-08,Telstra Mobile Sun,38.93,Bills,0,2024,9,8,Sunday,True
+2024-10-13,DiDi Ellenbrook,4.94,Transport,0,2024,10,13,Sunday,True
+2025-01-29,Udemy Joondalup AU,51.89,Education,0,2025,1,29,Wednesday,False
+2025-05-18,DiDi Balcatta Sun,9.1,Transport,0,2025,5,18,Sunday,True
+2025-11-21,Ampol Fuel Ellenbrook Fri,95.86,Transport,0,2025,11,21,Friday,False
+2025-06-19,Woolworths Morley Card,64.93,Groceries,0,2025,6,19,Thursday,False
+2024-01-17,Nando's Cannington,65.58,Dining,0,2024,1,17,Wednesday,False
+2026-02-28,ALDI Online Sat,61.78,Groceries,0,2026,2,28,Saturday,True
+2025-08-15,DiDi AU,4.77,Transport,0,2025,8,15,Friday,False
+2025-01-18,Telstra Mobile Online,55.0,Bills,0,2025,1,18,Saturday,True
+2026-03-27,Rent Balcatta,650.0,Bills,0,2026,3,27,Friday,False
+2024-12-22,BP Fuel Ellenbrook,64.83,Transport,0,2024,12,22,Sunday,True
+2025-09-25,Spudshed Balcatta Thu,38.95,Groceries,0,2025,9,25,Thursday,False
+2026-02-24,Optus Internet Balcatta Card,84.28,Bills,0,2026,2,24,Tuesday,False
+2024-10-25,Netflix Joondalup Purchase,18.8,Bills,0,2024,10,25,Friday,False
+2025-11-29,Kmart,79.33,Shopping,0,2025,11,29,Saturday,True
+2024-04-22,KFC Morley Card,22.23,Dining,0,2024,4,22,Monday,False
+2024-07-09,Optus Internet Morley AU,86.37,Bills,0,2024,7,9,Tuesday,False
+2025-03-08,KFC Morley Sat,32.24,Dining,0,2025,3,8,Saturday,True
+2024-06-07,KFC Balcatta AU,28.42,Dining,0,2024,6,7,Friday,False
+2024-08-03,Nando's AU,48.39,Dining,0,2024,8,3,Saturday,True
+2024-02-13,GP Clinic Joondalup AU,61.71,Health,0,2024,2,13,Tuesday,False
+2026-06-20,Barber and Beauty Joondalup Purchase,66.8,Personal Care,0,2026,6,20,Saturday,True
+2025-06-07,Concert Ticket Card,119.12,Entertainment,0,2025,6,7,Saturday,True
+2024-10-10,Hair Salon Perth AU,55.39,Personal Care,0,2024,10,10,Thursday,False
+2024-05-03,PlayStation Store Perth,29.1,Entertainment,0,2024,5,3,Friday,False
+2024-03-03,Transperth Perth,11.61,Transport,0,2024,3,3,Sunday,True
+2025-04-04,Nail Studio Cannington,69.44,Personal Care,0,2025,4,4,Friday,False
+2025-06-09,Australia Post Cannington Purchase,12.11,Other,0,2025,6,9,Monday,False
+2025-03-14,Ampol Fuel Online AU,107.57,Transport,0,2025,3,14,Friday,False
+2025-12-24,Synergy Electricity Online Card,132.66,Bills,0,2025,12,24,Wednesday,False
+2025-12-22,Netflix Mon,25.92,Bills,0,2025,12,22,Monday,False
+2025-12-23,DiDi Cannington AU,38.22,Transport,0,2025,12,23,Tuesday,False
+2025-11-16,Priceline Pharmacy Perth Card,13.23,Health,0,2025,11,16,Sunday,True
+2024-06-18,ALDI Joondalup Tue,30.11,Groceries,0,2024,6,18,Tuesday,False
+2025-04-01,Target Ellenbrook Purchase,1.5,Shopping,0,2025,4,1,Tuesday,False
+2024-09-02,Nando's Cannington Card,10.9,Dining,0,2024,9,2,Monday,False
+2024-06-09,Ampol Fuel Card,77.7,Transport,0,2024,6,9,Sunday,True
+2025-04-01,Barber and Beauty Morley Purchase,1.5,Personal Care,0,2025,4,1,Tuesday,False
+2026-05-22,DiDi Perth,16.12,Transport,0,2026,5,22,Friday,False
+2025-11-22,Spotify Online,13.99,Bills,0,2025,11,22,Saturday,True
+2024-01-19,DiDi Joondalup Purchase,22.12,Transport,0,2024,1,19,Friday,False
+2024-07-16,Priceline Pharmacy Morley,55.99,Health,0,2024,7,16,Tuesday,False
+2024-03-18,Coles Online Mon,53.57,Groceries,0,2024,3,18,Monday,False
+2025-10-10,Steam Morley Purchase,59.75,Entertainment,0,2025,10,10,Friday,False
+2026-06-08,Woolworths Joondalup AU,43.06,Groceries,0,2026,6,8,Monday,False
+2026-01-09,Officeworks Perth,66.65,Education,0,2026,1,9,Friday,False
+2024-10-02,Ampol Fuel Card,69.98,Transport,0,2024,10,2,Wednesday,False
+2025-09-11,IGA Morley Thu,30.68,Groceries,0,2025,9,11,Thursday,False
+2026-03-24,DiDi Tue,29.92,Transport,0,2026,3,24,Tuesday,False
+2025-07-22,DiDi Ellenbrook Card,24.0,Transport,0,2025,7,22,Tuesday,False
+2025-07-30,Australia Post Joondalup Purchase,34.27,Other,0,2025,7,30,Wednesday,False
+2024-01-10,Coles Ellenbrook AU,10.69,Groceries,0,2024,1,10,Wednesday,False
+2024-02-26,Chemist Warehouse Online Card,29.75,Health,0,2024,2,26,Monday,False
+2025-06-13,Target AU,15.73,Shopping,0,2025,6,13,Friday,False
+2024-10-29,BP Fuel Joondalup Tue,90.65,Transport,0,2024,10,29,Tuesday,False
+2024-10-25,KFC Morley AU,32.3,Dining,0,2024,10,25,Friday,False
+2024-11-04,Optus Internet Joondalup AU,90.02,Bills,0,2024,11,4,Monday,False
+2025-01-12,Optus Internet Morley Sun,83.87,Bills,0,2025,1,12,Sunday,True
+2025-02-18,Priceline Pharmacy Balcatta,37.53,Health,0,2025,2,18,Tuesday,False
+2024-02-02,Spudshed Morley AU,82.27,Groceries,0,2024,2,2,Friday,False
+2024-04-06,IGA Cannington,37.03,Groceries,0,2024,4,6,Saturday,True
+2024-07-20,Netflix Joondalup Sat,30.88,Bills,0,2024,7,20,Saturday,True
+2025-01-14,Udemy Joondalup Purchase,25.76,Education,0,2025,1,14,Tuesday,False
+2024-01-08,Optus Internet Online,79.0,Bills,0,2024,1,8,Monday,False
+2025-12-29,Ampol Fuel Perth,53.16,Transport,0,2025,12,29,Monday,False
+2026-01-08,Coles Joondalup Thu,72.82,Groceries,0,2026,1,8,Thursday,False
+2024-06-11,Ampol Fuel AU,73.08,Transport,0,2024,6,11,Tuesday,False
+2024-01-24,Ampol Fuel Wed,83.76,Transport,0,2024,1,24,Wednesday,False
+2025-05-29,Chemist Warehouse Joondalup Purchase,23.24,Health,0,2025,5,29,Thursday,False
+2024-08-06,Woolworths Online Tue,36.53,Groceries,0,2024,8,6,Tuesday,False
+2025-09-23,ALDI Card,89.55,Groceries,0,2025,9,23,Tuesday,False
+2025-03-09,DoorDash Balcatta,32.95,Dining,0,2025,3,9,Sunday,True
+2024-06-23,Barber and Beauty Online,55.46,Personal Care,0,2024,6,23,Sunday,True
+2025-09-05,ALDI Balcatta Card,60.41,Groceries,0,2025,9,5,Friday,False
+2024-02-12,Kmart Joondalup Purchase,27.87,Shopping,0,2024,2,12,Monday,False
+2024-06-23,ALDI Perth Card,58.36,Groceries,0,2024,6,23,Sunday,True
+2026-02-12,Nando's Thu,22.14,Dining,0,2026,2,12,Thursday,False
+2025-07-05,Woolworths Online Sat,65.45,Groceries,0,2025,7,5,Saturday,True
+2024-11-10,Target AU,35.84,Shopping,0,2024,11,10,Sunday,True
+2024-10-11,Transperth Joondalup,1.5,Transport,0,2024,10,11,Friday,False
+2025-12-26,Udemy Cannington Purchase,44.36,Education,0,2025,12,26,Friday,False
+2025-03-02,Myer Ellenbrook Sun,60.48,Shopping,0,2025,3,2,Sunday,True
+2024-09-20,Dental Clinic Balcatta AU,239.42,Health,0,2024,9,20,Friday,False
+2024-01-27,McDonald's Cannington Purchase,24.61,Dining,0,2024,1,27,Saturday,True
+2025-05-06,Water Corporation Perth AU,99.72,Bills,0,2025,5,6,Tuesday,False
+2026-01-02,Spudshed Joondalup Fri,38.71,Groceries,0,2026,1,2,Friday,False
+2024-02-12,Netflix Online,25.99,Bills,0,2024,2,12,Monday,False
+2024-06-12,Netflix Perth Purchase,24.11,Bills,0,2024,6,12,Wednesday,False
+2025-03-08,Woolworths Perth Sat,84.59,Groceries,0,2025,3,8,Saturday,True
+2024-11-28,Virgin Australia Morley Purchase,215.52,Travel,0,2024,11,28,Thursday,False
+2026-03-16,Nando's Joondalup Purchase,25.26,Dining,0,2026,3,16,Monday,False
+2025-08-05,Amazon AU Ellenbrook AU,60.36,Shopping,0,2025,8,5,Tuesday,False
+2025-06-02,Woolworths AU,37.26,Groceries,0,2025,6,2,Monday,False
+2025-08-08,Optus Internet Online,79.0,Bills,0,2025,8,8,Friday,False
+2025-10-12,Nando's Balcatta Sun,37.38,Dining,0,2025,10,12,Sunday,True
+2025-04-06,Local Cafe Joondalup AU,18.43,Dining,0,2025,4,6,Sunday,True
+2026-03-27,Coles Cannington AU,21.72,Groceries,0,2026,3,27,Friday,False
+2025-06-16,Netflix Online,18.13,Bills,0,2025,6,16,Monday,False
+2024-09-02,Ampol Fuel Morley,0.15,Transport,1,2024,9,2,Monday,False
+2024-04-06,PlayStation Store Balcatta Sat,39.7,Entertainment,0,2024,4,6,Saturday,True
+2025-09-19,BP Fuel Ellenbrook AU,50.18,Transport,0,2025,9,19,Friday,False
+2024-06-10,Local Cafe Cannington Card,10.78,Dining,0,2024,6,10,Monday,False
+2024-12-22,Uber Eats Balcatta Sun,43.8,Dining,0,2024,12,22,Sunday,True
+2026-01-26,Woolworths Joondalup AU,54.13,Groceries,0,2026,1,26,Monday,False
+2025-06-18,Ampol Fuel Morley Purchase,83.15,Transport,0,2025,6,18,Wednesday,False
+2025-07-23,Nando's Online Wed,35.98,Dining,0,2025,7,23,Wednesday,False
+2025-11-22,Uber Eats Perth AU,33.5,Dining,0,2025,11,22,Saturday,True
+2024-05-22,Spotify Online,13.99,Bills,0,2024,5,22,Wednesday,False
+2025-10-06,DiDi Morley Card,18.9,Transport,0,2025,10,6,Monday,False
+2025-12-07,Transperth Morley Purchase,6.97,Transport,0,2025,12,7,Sunday,True
+2024-03-30,BP Fuel Joondalup Sat,114.61,Transport,0,2024,3,30,Saturday,True
+2025-09-23,BP Fuel Perth Card,38.15,Transport,0,2025,9,23,Tuesday,False
+2025-10-23,Coles Ellenbrook Card,37.0,Groceries,0,2025,10,23,Thursday,False
+2024-06-26,Uber Eats Joondalup Wed,29.28,Dining,0,2024,6,26,Wednesday,False
+2025-08-12,Netflix Online,25.99,Bills,0,2025,8,12,Tuesday,False
+2024-05-28,DiDi Online AU,25.57,Transport,0,2024,5,28,Tuesday,False
+2025-02-10,Ampol Fuel Online AU,25.03,Transport,0,2025,2,10,Monday,False
+2025-08-19,Spudshed Ellenbrook Card,105.16,Groceries,0,2025,8,19,Tuesday,False
+2024-06-30,Barber and Beauty Sun,66.02,Personal Care,0,2024,6,30,Sunday,True
+2024-06-09,Udemy Balcatta Purchase,12.59,Education,0,2024,6,9,Sunday,True
+2024-07-09,Udemy Balcatta Card,25.46,Education,0,2024,7,9,Tuesday,False
+2024-04-15,Rent AU,637.18,Bills,0,2024,4,15,Monday,False
+2025-01-11,Spudshed Perth Sat,9.93,Groceries,0,2025,1,11,Saturday,True
+2025-06-11,Coles Balcatta,60.22,Groceries,0,2025,6,11,Wednesday,False
+2025-10-11,Coles,77.16,Groceries,0,2025,10,11,Saturday,True
+2025-09-26,Spudshed Balcatta,25.75,Groceries,0,2025,9,26,Friday,False
+2025-11-17,IGA Balcatta Card,30.31,Groceries,0,2025,11,17,Monday,False
+2024-01-10,Rent Purchase,651.72,Bills,0,2024,1,10,Wednesday,False
+2025-11-18,Nando's Perth Card,24.89,Dining,0,2025,11,18,Tuesday,False
+2025-03-25,Uber Eats Joondalup,47.13,Dining,0,2025,3,25,Tuesday,False
+2024-03-31,Concert Ticket Cannington Purchase,195.58,Entertainment,0,2024,3,31,Sunday,True
+2026-06-06,IGA Ellenbrook,48.81,Groceries,0,2026,6,6,Saturday,True
+2024-08-12,Spudshed Balcatta AU,21.11,Groceries,0,2024,8,12,Monday,False
+2025-04-15,BP Fuel Online Tue,35.3,Transport,0,2025,4,15,Tuesday,False
+2024-05-16,Dental Clinic Online AU,261.2,Health,0,2024,5,16,Thursday,False
+2026-04-09,Ampol Fuel Ellenbrook AU,96.97,Transport,0,2026,4,9,Thursday,False
+2025-06-29,Uber Eats Online,20.57,Dining,0,2025,6,29,Sunday,True
+2026-03-12,Netflix Online,25.99,Bills,0,2026,3,12,Thursday,False
+2024-12-14,Udemy Ellenbrook Purchase,25.33,Education,0,2024,12,14,Saturday,True
+2024-01-29,McDonald's Joondalup Purchase,8.62,Dining,0,2024,1,29,Monday,False
+2025-09-29,Spudshed Balcatta Card,3.45,Groceries,0,2025,9,29,Monday,False
+2026-04-16,ALDI Cannington Card,34.58,Groceries,0,2026,4,16,Thursday,False
+2024-02-04,IGA Ellenbrook AU,20.03,Groceries,0,2024,2,4,Sunday,True
+2025-07-20,Charity Donation Perth Card,24.06,Other,0,2025,7,20,Sunday,True
+2024-06-23,Chemist Warehouse Sun,47.23,Health,0,2024,6,23,Sunday,True
+2025-03-18,Amazon AU Cannington Tue,58.1,Shopping,0,2025,3,18,Tuesday,False
+2024-05-03,Woolworths Cannington Fri,24.6,Groceries,0,2024,5,3,Friday,False
+2024-04-05,Spudshed,47.67,Groceries,0,2024,4,5,Friday,False
+2024-01-20,BP Fuel Balcatta Card,74.77,Transport,0,2024,1,20,Saturday,True
+2024-11-03,Myer Ellenbrook Card,118.17,Shopping,0,2024,11,3,Sunday,True
+2025-04-09,Local Cafe Joondalup Card,11.38,Dining,0,2025,4,9,Wednesday,False
+2024-03-07,Woolworths Balcatta Thu,112.44,Groceries,0,2024,3,7,Thursday,False
+2024-04-20,Local Cafe Purchase,23.4,Dining,0,2024,4,20,Saturday,True
+2025-11-12,Australia Post Purchase,23.27,Other,0,2025,11,12,Wednesday,False
+2024-08-17,Synergy Electricity Cannington Purchase,247.49,Bills,0,2024,8,17,Saturday,True
+2026-02-28,IGA Sat,55.31,Groceries,0,2026,2,28,Saturday,True
+2025-04-10,DiDi,16.32,Transport,0,2025,4,10,Thursday,False
+2024-08-12,Netflix Online,25.99,Bills,0,2024,8,12,Monday,False
+2026-02-03,Charity Donation Balcatta AU,20.43,Other,0,2026,2,3,Tuesday,False
+2025-04-16,HOYTS Joondalup Card,1.5,Entertainment,0,2025,4,16,Wednesday,False
+2025-10-26,KFC,33.78,Dining,0,2025,10,26,Sunday,True
+2025-05-06,Coles Joondalup Purchase,54.34,Groceries,0,2025,5,6,Tuesday,False
+2024-01-14,ALDI Balcatta Purchase,31.43,Groceries,0,2024,1,14,Sunday,True
+2026-01-02,Rent Balcatta,650.0,Bills,0,2026,1,2,Friday,False
+2024-11-02,Optus Internet Online AU,75.76,Bills,0,2024,11,2,Saturday,True
+2025-02-02,Spudshed Perth,44.48,Groceries,0,2025,2,2,Sunday,True
+2025-02-12,Charity Donation Morley,7.89,Other,0,2025,2,12,Wednesday,False
+2024-08-16,Rent Balcatta,650.0,Bills,0,2024,8,16,Friday,False
+2024-10-27,Spudshed Perth,1.82,Groceries,0,2024,10,27,Sunday,True
+2024-09-25,IGA Cannington Wed,78.09,Groceries,0,2024,9,25,Wednesday,False
+2026-05-05,Synergy Electricity Joondalup AU,30.93,Bills,0,2026,5,5,Tuesday,False
+2025-05-12,McDonald's Joondalup AU,8.32,Dining,0,2025,5,12,Monday,False
+2024-01-25,Nando's Balcatta,17.37,Dining,0,2024,1,25,Thursday,False
+2024-10-20,KFC Cannington AU,27.11,Dining,0,2024,10,20,Sunday,True
+2024-07-16,Coles Morley Purchase,70.47,Groceries,0,2024,7,16,Tuesday,False
+2024-11-11,DiDi Perth,14.17,Transport,0,2024,11,11,Monday,False
+2024-06-13,Myer Perth Thu,39.83,Shopping,0,2024,6,13,Thursday,False
+2024-07-29,Coles Joondalup Mon,65.55,Groceries,0,2024,7,29,Monday,False
+2026-06-07,Nando's Online Card,70.71,Dining,0,2026,6,7,Sunday,True
+2025-04-25,DiDi Perth Fri,31.94,Transport,0,2025,4,25,Friday,False
+2026-01-29,McDonald's Morley AU,7.76,Dining,0,2026,1,29,Thursday,False
+2025-01-08,Kmart Morley Purchase,69.0,Shopping,0,2025,1,8,Wednesday,False
+2025-01-24,Nando's Online AU,35.12,Dining,0,2025,1,24,Friday,False
+2025-12-19,Chemist Warehouse Ellenbrook Fri,47.1,Health,0,2025,12,19,Friday,False
+2024-12-29,Beauty Store Online Purchase,49.61,Personal Care,0,2024,12,29,Sunday,True
+2026-04-27,Transperth Perth Card,6.78,Transport,0,2026,4,27,Monday,False
+2025-07-01,Target Morley Purchase,90.01,Shopping,0,2025,7,1,Tuesday,False
+2025-05-21,BIG W Cannington Card,12.73,Shopping,0,2025,5,21,Wednesday,False
+2026-02-21,Woolworths AU,93.74,Groceries,0,2026,2,21,Saturday,True
+2025-04-20,Netflix Cannington Card,23.21,Bills,0,2025,4,20,Sunday,True
+2024-04-02,DoorDash Cannington Card,56.39,Dining,0,2024,4,2,Tuesday,False
+2025-02-12,BP Fuel Ellenbrook Purchase,79.36,Transport,0,2025,2,12,Wednesday,False
+2025-05-28,Uber Ellenbrook Card,1.5,Transport,0,2025,5,28,Wednesday,False
+2024-03-21,DiDi Balcatta Thu,20.79,Transport,0,2024,3,21,Thursday,False
+2025-10-20,Local Cafe Joondalup AU,15.95,Dining,0,2025,10,20,Monday,False
+2024-11-15,Uber Cannington AU,40.73,Transport,0,2024,11,15,Friday,False
+2024-01-23,Netflix Cannington AU,25.8,Bills,0,2024,1,23,Tuesday,False
+2025-06-19,BIG W Card,0.71,Shopping,1,2025,6,19,Thursday,False
+2025-12-12,HOYTS Joondalup Fri,23.42,Entertainment,0,2025,12,12,Friday,False
+2024-04-12,Uber Perth Purchase,21.52,Transport,0,2024,4,12,Friday,False
+2024-10-07,Udemy Balcatta,1.5,Education,0,2024,10,7,Monday,False
+2026-02-05,Target Online Card,21.52,Shopping,0,2026,2,5,Thursday,False
+2024-02-29,Hotel Joondalup Card,383.68,Travel,0,2024,2,29,Thursday,False
+2025-10-17,ALDI Balcatta Card,54.73,Groceries,0,2025,10,17,Friday,False
+2024-05-17,Cotton On AU,1.83,Shopping,0,2024,5,17,Friday,False
+2024-04-09,DoorDash Balcatta,35.58,Dining,0,2024,4,9,Tuesday,False
+2024-10-27,Woolworths Balcatta,67.36,Groceries,0,2024,10,27,Sunday,True
+2025-08-30,IGA AU,64.95,Groceries,0,2025,8,30,Saturday,True
+2024-09-16,McDonald's Joondalup Card,11.36,Dining,0,2024,9,16,Monday,False
+2025-07-17,Uber Ellenbrook Purchase,38.3,Transport,0,2025,7,17,Thursday,False
+2026-01-04,Concert Ticket Morley AU,49.22,Entertainment,0,2026,1,4,Sunday,True
+2025-09-25,Woolworths Perth,4.88,Groceries,0,2025,9,25,Thursday,False
+2024-02-07,BIG W Perth Card,77.47,Shopping,0,2024,2,7,Wednesday,False
+2026-05-31,Officeworks Cannington,30.09,Education,0,2026,5,31,Sunday,True
+2025-11-08,McDonald's Online Sat,7.67,Dining,0,2025,11,8,Saturday,True
+2024-10-25,PlayStation Store Cannington Purchase,69.38,Entertainment,0,2024,10,25,Friday,False
+2024-12-12,Target Ellenbrook Purchase,43.78,Shopping,0,2024,12,12,Thursday,False
+2025-06-30,Miscellaneous Purchase Cannington Card,80.33,Other,0,2025,6,30,Monday,False
+2025-04-10,Concert Ticket Thu,143.73,Entertainment,0,2025,4,10,Thursday,False
+2024-12-08,Kmart Morley AU,81.56,Shopping,0,2024,12,8,Sunday,True
+2024-04-29,Myer Online AU,126.95,Shopping,0,2024,4,29,Monday,False
+2024-06-02,Coles Balcatta Card,64.07,Groceries,0,2024,6,2,Sunday,True
+2024-05-10,McDonald's Online Purchase,14.22,Dining,0,2024,5,10,Friday,False
+2025-06-30,Coles Cannington Mon,29.27,Groceries,0,2025,6,30,Monday,False
+2025-10-06,BIG W Morley,101.51,Shopping,0,2025,10,6,Monday,False
+2024-12-28,Australia Post Online Card,131.75,Other,1,2024,12,28,Saturday,True
+2025-09-30,Target Ellenbrook,124.36,Shopping,0,2025,9,30,Tuesday,False
+2025-11-24,Spudshed Morley,59.53,Groceries,0,2025,11,24,Monday,False
+2025-08-23,Water Corporation Perth AU,140.62,Bills,0,2025,8,23,Saturday,True
+2025-07-19,DoorDash Cannington Sat,60.97,Dining,0,2025,7,19,Saturday,True
+2025-04-08,Optus Internet Online,79.0,Bills,0,2025,4,8,Tuesday,False
+2024-10-23,Spudshed Online AU,110.7,Groceries,0,2024,10,23,Wednesday,False
+2025-11-15,Spudshed Perth,17.61,Groceries,0,2025,11,15,Saturday,True
+2024-01-31,Rent Online AU,679.01,Bills,0,2024,1,31,Wednesday,False
+2024-05-19,IGA Online Sun,47.53,Groceries,0,2024,5,19,Sunday,True
+2024-08-01,Cotton On Purchase,30.77,Shopping,0,2024,8,1,Thursday,False
+2025-08-06,Ampol Fuel Cannington Card,86.42,Transport,0,2025,8,6,Wednesday,False
+2026-04-08,Netflix Perth AU,118.02,Bills,1,2026,4,8,Wednesday,False
+2024-08-09,Coursera Cannington Purchase,70.82,Education,0,2024,8,9,Friday,False
+2024-11-22,Spotify Online,13.99,Bills,0,2024,11,22,Friday,False
+2026-05-17,Ampol Fuel Morley,88.87,Transport,0,2026,5,17,Sunday,True
+2025-04-05,Chemist Warehouse Morley Sat,39.76,Health,0,2025,4,5,Saturday,True
+2026-02-06,IGA Ellenbrook Card,40.86,Groceries,0,2026,2,6,Friday,False
+2024-12-28,Uber Eats Joondalup AU,63.63,Dining,0,2024,12,28,Saturday,True
+2026-03-31,Coursera Online Purchase,112.82,Education,0,2026,3,31,Tuesday,False
+2025-01-25,Woolworths Cannington Purchase,771.71,Groceries,1,2025,1,25,Saturday,True
+2024-10-23,Synergy Electricity Morley Purchase,213.61,Bills,0,2024,10,23,Wednesday,False
+2025-03-14,Uber Eats Joondalup Fri,45.48,Dining,0,2025,3,14,Friday,False
+2025-02-26,Amazon AU Cannington Wed,26.99,Shopping,0,2025,2,26,Wednesday,False
+2025-10-04,Steam Online Purchase,45.69,Entertainment,0,2025,10,4,Saturday,True
+2025-06-28,Spudshed Balcatta Card,105.97,Groceries,0,2025,6,28,Saturday,True
+2025-06-15,DoorDash Online Purchase,33.33,Dining,0,2025,6,15,Sunday,True
+2024-04-25,Myer AU,110.15,Shopping,0,2024,4,25,Thursday,False
+2024-02-05,BP Fuel Balcatta AU,82.36,Transport,0,2024,2,5,Monday,False
+2026-03-29,KFC Perth,138.08,Dining,1,2026,3,29,Sunday,True
+2024-10-02,Uber Eats Morley Wed,35.95,Dining,0,2024,10,2,Wednesday,False
+2024-01-20,Amazon AU Perth AU,91.11,Shopping,0,2024,1,20,Saturday,True
+2024-01-10,BP Fuel Joondalup Wed,110.28,Transport,0,2024,1,10,Wednesday,False
+2024-02-10,Qantas Joondalup Card,376.32,Travel,0,2024,2,10,Saturday,True
+2025-04-16,ALDI Online AU,25.18,Groceries,0,2025,4,16,Wednesday,False
+2025-07-31,Ampol Fuel,63.82,Transport,0,2025,7,31,Thursday,False
+2025-04-21,Spotify Cannington,13.19,Bills,0,2025,4,21,Monday,False
+2025-05-15,McDonald's Ellenbrook Thu,11.59,Dining,0,2025,5,15,Thursday,False
+2024-10-11,Nando's Online AU,33.35,Dining,0,2024,10,11,Friday,False
+2026-01-21,DoorDash AU,37.88,Dining,0,2026,1,21,Wednesday,False
+2024-02-16,ALDI AU,48.52,Groceries,0,2024,2,16,Friday,False
+2025-09-27,Uber Eats Online Purchase,26.34,Dining,0,2025,9,27,Saturday,True
+2024-02-22,Spotify Online,13.99,Bills,0,2024,2,22,Thursday,False
+2024-09-18,Telstra Mobile Online,55.0,Bills,0,2024,9,18,Wednesday,False
+2024-07-17,Woolworths Balcatta Purchase,29.42,Groceries,0,2024,7,17,Wednesday,False
+2024-06-22,Spotify Online,13.99,Bills,0,2024,6,22,Saturday,True
+2024-01-06,PlayStation Store Online Card,15.7,Entertainment,0,2024,1,6,Saturday,True
+2026-04-01,Uber Ellenbrook,9.81,Transport,0,2026,4,1,Wednesday,False
+2026-02-02,Nando's Perth Card,37.97,Dining,0,2026,2,2,Monday,False
+2025-02-07,DiDi Perth AU,33.24,Transport,0,2025,2,7,Friday,False
+2026-02-20,IGA Morley AU,45.42,Groceries,0,2026,2,20,Friday,False
+2025-12-12,Netflix Online,25.99,Bills,0,2025,12,12,Friday,False
+2024-07-16,BP Fuel Joondalup Card,67.01,Transport,0,2024,7,16,Tuesday,False
+2024-04-05,Steam Online,21.6,Entertainment,0,2024,4,5,Friday,False
+2024-12-21,Optus Internet Online AU,85.26,Bills,0,2024,12,21,Saturday,True
+2024-12-16,Local Cafe Ellenbrook,34.17,Dining,0,2024,12,16,Monday,False
+2025-04-13,IGA Balcatta Card,13.67,Groceries,0,2025,4,13,Sunday,True
+2024-11-05,Priceline Pharmacy Ellenbrook AU,19.32,Health,0,2024,11,5,Tuesday,False
+2026-01-13,Uber Eats Cannington AU,44.98,Dining,0,2026,1,13,Tuesday,False
+2024-02-10,Telstra Mobile Joondalup,53.03,Bills,0,2024,2,10,Saturday,True
+2025-08-25,Optus Internet Morley Mon,76.25,Bills,0,2025,8,25,Monday,False
+2024-10-05,Myer Online Purchase,130.13,Shopping,0,2024,10,5,Saturday,True
+2025-01-20,BP Fuel Morley Mon,38.18,Transport,0,2025,1,20,Monday,False
+2025-08-13,Coles Card,61.03,Groceries,0,2025,8,13,Wednesday,False
+2025-01-23,IGA Cannington,11.09,Groceries,0,2025,1,23,Thursday,False
+2026-02-04,TAFE Course Materials Morley Card,75.55,Education,0,2026,2,4,Wednesday,False
+2026-03-21,Spudshed Ellenbrook AU,1.67,Groceries,0,2026,3,21,Saturday,True
+2024-01-06,McDonald's Cannington,22.48,Dining,0,2024,1,6,Saturday,True
+2026-03-05,ALDI Cannington AU,24.48,Groceries,0,2026,3,5,Thursday,False
+2024-02-11,Uber Eats Joondalup,63.57,Dining,0,2024,2,11,Sunday,True
+2024-07-13,Hair Salon Morley AU,92.62,Personal Care,0,2024,7,13,Saturday,True
+2024-05-29,Target Morley Purchase,27.61,Shopping,0,2024,5,29,Wednesday,False
+2025-01-21,Coursera Online Purchase,75.51,Education,0,2025,1,21,Tuesday,False
+2024-08-14,Event Cinemas Joondalup Wed,117.72,Entertainment,1,2024,8,14,Wednesday,False
+2024-08-02,Transperth Online Fri,6.03,Transport,0,2024,8,2,Friday,False
+2025-08-13,Nando's Morley,1.5,Dining,0,2025,8,13,Wednesday,False
+2025-06-30,TAFE Course Materials Joondalup Mon,96.16,Education,0,2025,6,30,Monday,False
+2025-12-20,KFC Sat,22.31,Dining,0,2025,12,20,Saturday,True
+2025-08-13,BP Fuel Balcatta Purchase,64.79,Transport,0,2025,8,13,Wednesday,False
+2024-05-29,Concert Ticket Joondalup Wed,97.16,Entertainment,0,2024,5,29,Wednesday,False
+2025-07-23,BP Fuel Morley Wed,74.38,Transport,0,2025,7,23,Wednesday,False
+2025-12-04,Officeworks Balcatta,48.63,Education,0,2025,12,4,Thursday,False
+2026-05-21,Coles Morley,54.75,Groceries,0,2026,5,21,Thursday,False
+2025-11-29,Dental Clinic Joondalup,334.01,Health,0,2025,11,29,Saturday,True
+2024-05-19,Uber Eats Joondalup Purchase,70.72,Dining,0,2024,5,19,Sunday,True
+2024-05-01,ALDI Morley,51.65,Groceries,0,2024,5,1,Wednesday,False
+2024-08-06,DiDi Joondalup Tue,15.24,Transport,0,2024,8,6,Tuesday,False
+2024-07-23,IGA Joondalup Purchase,52.04,Groceries,0,2024,7,23,Tuesday,False
+2025-03-23,McDonald's Perth,22.27,Dining,0,2025,3,23,Sunday,True
+2024-12-04,PlayStation Store Morley,27.7,Entertainment,0,2024,12,4,Wednesday,False
+2025-11-24,BIG W Joondalup AU,67.94,Shopping,0,2025,11,24,Monday,False
+2024-08-31,DoorDash Morley Purchase,77.54,Dining,0,2024,8,31,Saturday,True
+2024-04-27,Transperth Perth AU,11.44,Transport,0,2024,4,27,Saturday,True
+2024-03-06,Concert Ticket,155.05,Entertainment,0,2024,3,6,Wednesday,False
+2025-03-20,Woolworths Ellenbrook Thu,28.9,Groceries,0,2025,3,20,Thursday,False
+2025-05-26,Target Online AU,60.5,Shopping,0,2025,5,26,Monday,False
+2024-03-27,Hotel Perth Purchase,139.37,Travel,0,2024,3,27,Wednesday,False
+2026-01-11,DoorDash Balcatta,44.95,Dining,0,2026,1,11,Sunday,True
+2025-01-18,Local Cafe AU,25.14,Dining,0,2025,1,18,Saturday,True
+2026-06-18,Telstra Mobile Online Card,53.79,Bills,0,2026,6,18,Thursday,False
+2024-11-25,Synergy Electricity Cannington AU,109.23,Bills,0,2024,11,25,Monday,False
+2025-06-22,Amazon AU Ellenbrook AU,80.47,Shopping,0,2025,6,22,Sunday,True
+2024-02-07,Ampol Fuel Morley Wed,33.15,Transport,0,2024,2,7,Wednesday,False
+2024-07-06,BP Fuel Cannington AU,96.17,Transport,0,2024,7,6,Saturday,True
+2026-03-16,IGA Morley Purchase,4.49,Groceries,0,2026,3,16,Monday,False
+2026-05-04,BP Fuel Morley AU,95.82,Transport,0,2026,5,4,Monday,False
+2026-03-14,DiDi Ellenbrook Card,22.93,Transport,0,2026,3,14,Saturday,True
+2025-03-17,Transperth Balcatta AU,8.23,Transport,0,2025,3,17,Monday,False
+2026-04-03,Uber Morley,29.59,Transport,0,2026,4,3,Friday,False
+2025-07-21,IGA Joondalup AU,46.67,Groceries,0,2025,7,21,Monday,False
+2024-04-21,McDonald's Online,12.51,Dining,0,2024,4,21,Sunday,True
+2026-04-19,Rent Online Sun,680.65,Bills,0,2026,4,19,Sunday,True
+2024-04-28,BIG W Balcatta Sun,71.19,Shopping,0,2024,4,28,Sunday,True
+2024-11-11,Myer Cannington Purchase,111.03,Shopping,0,2024,11,11,Monday,False
+2025-03-09,IGA Cannington,50.7,Groceries,0,2025,3,9,Sunday,True
+2024-12-15,IGA Cannington Sun,23.0,Groceries,0,2024,12,15,Sunday,True
+2025-06-02,Ampol Fuel Online AU,84.35,Transport,0,2025,6,2,Monday,False
+2026-04-18,Telstra Mobile Morley Card,39.69,Bills,0,2026,4,18,Saturday,True
+2024-03-22,KFC Ellenbrook,40.14,Dining,0,2024,3,22,Friday,False
+2025-02-22,Priceline Pharmacy Cannington Card,12.01,Health,0,2025,2,22,Saturday,True
+2025-11-22,KFC Online,15.3,Dining,0,2025,11,22,Saturday,True
+2025-11-15,PlayStation Store Ellenbrook Purchase,1.5,Entertainment,0,2025,11,15,Saturday,True
+2025-10-19,Ampol Fuel Perth Card,119.01,Transport,0,2025,10,19,Sunday,True
+2026-02-02,Nando's Morley Mon,46.32,Dining,0,2026,2,2,Monday,False
+2026-06-07,HOYTS Joondalup,27.17,Entertainment,0,2026,6,7,Sunday,True
+2025-01-02,IGA Joondalup Card,27.58,Groceries,0,2025,1,2,Thursday,False
+2024-10-22,Spotify Online,13.99,Bills,0,2024,10,22,Tuesday,False
+2024-11-24,IGA Morley Purchase,35.18,Groceries,0,2024,11,24,Sunday,True
+2025-10-31,Coles Online AU,74.57,Groceries,0,2025,10,31,Friday,False
+2026-05-10,DiDi Joondalup AU,29.83,Transport,0,2026,5,10,Sunday,True
+2026-04-26,Local Cafe Perth Card,14.5,Dining,0,2026,4,26,Sunday,True
+2026-06-13,ALDI Ellenbrook AU,54.56,Groceries,0,2026,6,13,Saturday,True
+2025-08-18,Rent Ellenbrook AU,635.52,Bills,0,2025,8,18,Monday,False
+2025-02-23,Ampol Fuel Ellenbrook Card,124.13,Transport,0,2025,2,23,Sunday,True
+2024-06-10,Uber Online Card,34.69,Transport,0,2024,6,10,Monday,False
+2025-05-05,Ampol Fuel Ellenbrook,65.04,Transport,0,2025,5,5,Monday,False
+2025-12-18,Telstra Mobile Online,55.0,Bills,0,2025,12,18,Thursday,False
+2025-11-02,Target Sun,19.57,Shopping,0,2025,11,2,Sunday,True
+2026-05-12,Spudshed Joondalup Card,26.19,Groceries,0,2026,5,12,Tuesday,False
+2025-04-16,Ampol Fuel Joondalup AU,47.64,Transport,0,2025,4,16,Wednesday,False
+2025-03-08,ALDI Ellenbrook AU,39.93,Groceries,0,2025,3,8,Saturday,True
+2024-10-06,ALDI Joondalup Card,23.83,Groceries,0,2024,10,6,Sunday,True
+2026-02-28,Chemist Warehouse Online Card,48.88,Health,0,2026,2,28,Saturday,True
+2026-05-11,Cotton On Joondalup Mon,73.18,Shopping,0,2026,5,11,Monday,False
+2024-03-28,Local Cafe Ellenbrook AU,13.48,Dining,0,2024,3,28,Thursday,False
+2024-12-27,Virgin Australia Ellenbrook,246.94,Travel,0,2024,12,27,Friday,False
+2025-09-15,Steam Joondalup Mon,27.44,Entertainment,0,2025,9,15,Monday,False
+2025-03-12,Uber Eats Perth Card,33.88,Dining,0,2025,3,12,Wednesday,False
+2024-05-26,Spudshed Card,63.54,Groceries,0,2024,5,26,Sunday,True
+2026-02-23,DiDi Balcatta Purchase,42.43,Transport,0,2026,2,23,Monday,False
+2025-07-07,Barber and Beauty Online Card,64.71,Personal Care,0,2025,7,7,Monday,False
+2024-11-17,Optus Internet Ellenbrook Card,83.76,Bills,0,2024,11,17,Sunday,True
+2024-10-13,Cotton On Balcatta Purchase,102.77,Shopping,0,2024,10,13,Sunday,True
+2025-05-29,ALDI Joondalup AU,58.45,Groceries,0,2025,5,29,Thursday,False
+2024-07-03,DiDi Joondalup Purchase,11.59,Transport,0,2024,7,3,Wednesday,False
+2025-10-14,Local Cafe Purchase,24.14,Dining,0,2025,10,14,Tuesday,False
+2024-08-11,Nando's Balcatta Purchase,37.22,Dining,0,2024,8,11,Sunday,True
+2024-03-29,BIG W Ellenbrook,3.96,Shopping,0,2024,3,29,Friday,False
+2024-08-07,Nando's Balcatta Card,33.86,Dining,0,2024,8,7,Wednesday,False
+2024-07-19,Kmart Online,18.6,Shopping,0,2024,7,19,Friday,False
+2026-05-08,Optus Internet Online,79.0,Bills,0,2026,5,8,Friday,False
+2024-06-08,Kmart Joondalup Purchase,57.91,Shopping,0,2024,6,8,Saturday,True
+2024-09-06,Spudshed Ellenbrook,40.2,Groceries,0,2024,9,6,Friday,False
+2025-09-03,Local Cafe Balcatta Wed,9.58,Dining,0,2025,9,3,Wednesday,False
+2026-03-01,Myer Ellenbrook,98.9,Shopping,0,2026,3,1,Sunday,True
+2025-08-13,DoorDash Joondalup Wed,29.09,Dining,0,2025,8,13,Wednesday,False
+2024-07-26,Spudshed Ellenbrook Card,47.82,Groceries,0,2024,7,26,Friday,False
+2025-09-25,BIG W Morley Card,115.42,Shopping,0,2025,9,25,Thursday,False
+2025-01-28,Local Cafe Perth AU,24.09,Dining,0,2025,1,28,Tuesday,False
+2024-04-29,Target AU,101.34,Shopping,0,2024,4,29,Monday,False
+2024-03-07,IGA Balcatta Card,49.05,Groceries,0,2024,3,7,Thursday,False
+2025-10-12,Netflix Online,25.99,Bills,0,2025,10,12,Sunday,True
+2024-01-11,Woolworths Cannington,47.39,Groceries,0,2024,1,11,Thursday,False
+2025-10-22,Steam Balcatta Card,38.35,Entertainment,0,2025,10,22,Wednesday,False
+2024-11-07,Rent Joondalup Purchase,653.22,Bills,0,2024,11,7,Thursday,False
+2026-04-05,DoorDash Cannington Sun,75.57,Dining,0,2026,4,5,Sunday,True
+2026-05-19,Synergy Electricity Morley,239.54,Bills,0,2026,5,19,Tuesday,False
+2025-06-01,BP Fuel Cannington Card,59.64,Transport,0,2025,6,1,Sunday,True
+2024-08-04,McDonald's AU,13.81,Dining,0,2024,8,4,Sunday,True
+2025-01-13,Coles Balcatta AU,53.54,Groceries,0,2025,1,13,Monday,False
+2025-02-16,PlayStation Store Perth,45.41,Entertainment,0,2025,2,16,Sunday,True
+2025-12-31,Optus Internet Ellenbrook AU,76.32,Bills,0,2025,12,31,Wednesday,False
+2025-06-11,Steam Card,18.65,Entertainment,0,2025,6,11,Wednesday,False
+2024-10-21,HOYTS Joondalup Purchase,39.39,Entertainment,0,2024,10,21,Monday,False
+2024-12-15,Coles Joondalup Sun,88.6,Groceries,0,2024,12,15,Sunday,True
+2025-05-20,Hair Salon Morley,76.52,Personal Care,0,2025,5,20,Tuesday,False
+2025-01-15,ALDI Balcatta,37.57,Groceries,0,2025,1,15,Wednesday,False
+2024-06-08,Optus Internet Online,79.0,Bills,0,2024,6,8,Saturday,True
+2025-09-12,Netflix Online,25.99,Bills,0,2025,9,12,Friday,False
+2025-09-21,BP Fuel Balcatta Sun,56.81,Transport,0,2025,9,21,Sunday,True
+2024-07-09,Uber Eats Ellenbrook AU,29.48,Dining,0,2024,7,9,Tuesday,False
+2026-03-22,Spotify Online,13.99,Bills,0,2026,3,22,Sunday,True
+2024-09-08,DoorDash Perth,71.43,Dining,0,2024,9,8,Sunday,True
+2024-05-26,Myer Cannington Card,95.02,Shopping,0,2024,5,26,Sunday,True
+2024-12-25,PlayStation Store Perth,14.49,Entertainment,0,2024,12,25,Wednesday,False
+2025-01-07,Ampol Fuel AU,94.37,Transport,0,2025,1,7,Tuesday,False
+2025-04-08,Transperth Ellenbrook Tue,6.21,Transport,0,2025,4,8,Tuesday,False
+2024-09-17,Telstra Mobile Online,61.9,Bills,0,2024,9,17,Tuesday,False
+2024-03-05,Coles Ellenbrook AU,58.75,Groceries,0,2024,3,5,Tuesday,False
+2024-04-18,Transperth Balcatta,7.08,Transport,0,2024,4,18,Thursday,False
+2024-12-17,BIG W Cannington AU,56.29,Shopping,0,2024,12,17,Tuesday,False
+2026-04-08,Charity Donation Morley Purchase,25.48,Other,0,2026,4,8,Wednesday,False
+2025-04-30,Ampol Fuel Perth Wed,11.49,Transport,0,2025,4,30,Wednesday,False
+2025-03-27,Coles Ellenbrook AU,65.94,Groceries,0,2025,3,27,Thursday,False
+2024-04-21,Coles Morley AU,39.26,Groceries,0,2024,4,21,Sunday,True
+2025-05-30,Coles Balcatta Card,59.36,Groceries,0,2025,5,30,Friday,False
+2025-11-27,McDonald's Cannington AU,4.47,Dining,0,2025,11,27,Thursday,False
+2024-09-14,Uber Cannington Card,32.87,Transport,0,2024,9,14,Saturday,True
+2025-04-02,Nando's Online AU,22.16,Dining,0,2025,4,2,Wednesday,False
+2025-02-28,Spudshed Balcatta,18.35,Groceries,0,2025,2,28,Friday,False
+2025-06-27,Concert Ticket Ellenbrook Fri,211.52,Entertainment,0,2025,6,27,Friday,False
+2026-06-07,Netflix Ellenbrook Card,24.04,Bills,0,2026,6,7,Sunday,True
+2025-04-18,HOYTS AU,32.07,Entertainment,0,2025,4,18,Friday,False
+2024-11-27,McDonald's Joondalup Purchase,32.83,Dining,0,2024,11,27,Wednesday,False
+2026-02-18,Coles Purchase,78.85,Groceries,0,2026,2,18,Wednesday,False
+2024-04-05,ALDI Joondalup Fri,50.38,Groceries,0,2024,4,5,Friday,False
+2025-12-31,Coles Cannington AU,69.13,Groceries,0,2025,12,31,Wednesday,False
+2026-06-13,HOYTS Ellenbrook AU,34.26,Entertainment,0,2026,6,13,Saturday,True
+2025-12-27,IGA Cannington AU,56.02,Groceries,0,2025,12,27,Saturday,True
+2025-11-15,Priceline Pharmacy Morley Purchase,15.86,Health,0,2025,11,15,Saturday,True
+2024-11-14,Amazon AU Perth Purchase,130.69,Shopping,0,2024,11,14,Thursday,False
+2024-08-07,Transperth Balcatta Wed,6.47,Transport,0,2024,8,7,Wednesday,False
+2025-01-11,Coles Cannington,89.85,Groceries,0,2025,1,11,Saturday,True
+2024-10-18,Myer Balcatta,57.11,Shopping,0,2024,10,18,Friday,False
+2024-06-06,IGA Joondalup Thu,49.83,Groceries,0,2024,6,6,Thursday,False
+2025-09-22,Spotify Online,13.99,Bills,0,2025,9,22,Monday,False
+2025-07-09,Telstra Mobile Online,61.06,Bills,0,2025,7,9,Wednesday,False
+2025-07-14,Target Morley AU,101.58,Shopping,0,2025,7,14,Monday,False
+2025-01-24,Barber and Beauty Perth Fri,84.61,Personal Care,0,2025,1,24,Friday,False
+2025-12-16,Nail Studio Joondalup,69.59,Personal Care,0,2025,12,16,Tuesday,False
+2024-07-18,DoorDash Ellenbrook Purchase,30.85,Dining,0,2024,7,18,Thursday,False
+2024-05-30,Water Corporation Perth Thu,165.41,Bills,0,2024,5,30,Thursday,False
+2025-10-04,ALDI Sat,50.7,Groceries,0,2025,10,4,Saturday,True
+2024-04-26,Ampol Fuel Perth AU,87.05,Transport,0,2024,4,26,Friday,False
+2024-07-18,Telstra Mobile Online,55.0,Bills,0,2024,7,18,Thursday,False
+2024-06-06,KFC Morley AU,21.5,Dining,0,2024,6,6,Thursday,False
+2024-09-02,Water Corporation Online Card,93.49,Bills,0,2024,9,2,Monday,False
+2025-05-02,Kmart Cannington Card,51.77,Shopping,0,2025,5,2,Friday,False
+2025-09-11,IGA Ellenbrook Thu,49.79,Groceries,0,2025,9,11,Thursday,False
+2025-07-07,McDonald's Ellenbrook,20.33,Dining,0,2025,7,7,Monday,False
+2026-06-09,Coles Online Purchase,88.87,Groceries,0,2026,6,9,Tuesday,False
+2026-04-04,Woolworths Joondalup,32.65,Groceries,0,2026,4,4,Saturday,True
+2026-02-24,Netflix Joondalup Card,22.74,Bills,0,2026,2,24,Tuesday,False
+2026-05-25,McDonald's Card,38.23,Dining,0,2026,5,25,Monday,False
+2025-05-02,Netflix Perth AU,21.4,Bills,0,2025,5,2,Friday,False
+2024-02-06,Spudshed Online,55.23,Groceries,0,2024,2,6,Tuesday,False
+2024-03-24,Ampol Fuel Cannington,16.71,Transport,0,2024,3,24,Sunday,True
+2025-06-25,Steam Joondalup Purchase,14.78,Entertainment,0,2025,6,25,Wednesday,False
+2024-11-24,Spotify Cannington Purchase,12.31,Bills,0,2024,11,24,Sunday,True
+2026-05-09,Optus Internet Ellenbrook Sat,92.35,Bills,0,2026,5,9,Saturday,True
+2024-06-07,Chemist Warehouse AU,58.32,Health,0,2024,6,7,Friday,False
+2025-08-04,Optus Internet Ellenbrook Purchase,76.25,Bills,0,2025,8,4,Monday,False
+2025-10-26,Steam Joondalup,1.5,Entertainment,0,2025,10,26,Sunday,True
+2025-12-23,BP Fuel Online Purchase,89.8,Transport,0,2025,12,23,Tuesday,False
+2025-01-01,BP Fuel Perth AU,36.81,Transport,0,2025,1,1,Wednesday,False
+2025-02-27,DoorDash Perth,50.06,Dining,0,2025,2,27,Thursday,False
+2024-01-12,Netflix Online,25.99,Bills,0,2024,1,12,Friday,False
+2025-07-31,Coles Thu,3.5,Groceries,0,2025,7,31,Thursday,False
+2025-05-28,Transperth Perth Wed,2.22,Transport,0,2025,5,28,Wednesday,False
+2024-03-06,Ampol Fuel Joondalup Wed,64.53,Transport,0,2024,3,6,Wednesday,False
+2026-02-22,Spotify Online,13.99,Bills,0,2026,2,22,Sunday,True
+2025-02-18,Telstra Mobile Online,55.0,Bills,0,2025,2,18,Tuesday,False
+2026-01-22,Spotify Online,13.99,Bills,0,2026,1,22,Thursday,False
+2026-01-20,IGA Balcatta Tue,28.01,Groceries,0,2026,1,20,Tuesday,False
+2026-02-06,Coles Ellenbrook AU,85.24,Groceries,0,2026,2,6,Friday,False
+2025-03-04,Transperth Cannington Purchase,1.5,Transport,0,2025,3,4,Tuesday,False
+2025-07-14,IGA Joondalup Card,43.47,Groceries,0,2025,7,14,Monday,False
+2026-04-26,GP Clinic Online Purchase,72.49,Health,0,2026,4,26,Sunday,True
+2025-11-01,Uber Eats Online Purchase,13.85,Dining,0,2025,11,1,Saturday,True
+2024-10-22,Synergy Electricity AU,1141.86,Bills,1,2024,10,22,Tuesday,False
+2025-03-18,ALDI Cannington,55.13,Groceries,0,2025,3,18,Tuesday,False
+2025-08-05,Woolworths Online,91.17,Groceries,0,2025,8,5,Tuesday,False
+2024-06-12,Coles Card,28.42,Groceries,0,2024,6,12,Wednesday,False
+2025-05-14,Ampol Fuel Purchase,69.51,Transport,0,2025,5,14,Wednesday,False
+2025-03-02,Nail Studio Perth Card,34.28,Personal Care,0,2025,3,2,Sunday,True
+2026-03-07,Priceline Pharmacy Online AU,52.98,Health,0,2026,3,7,Saturday,True
+2024-10-09,Local Cafe Wed,18.35,Dining,0,2024,10,9,Wednesday,False
+2026-03-29,Steam Cannington,61.09,Entertainment,0,2026,3,29,Sunday,True
+2025-06-09,McDonald's Morley,21.16,Dining,0,2025,6,9,Monday,False
+2024-06-01,Transperth Online Sat,7.39,Transport,0,2024,6,1,Saturday,True
+2026-04-10,Rent Balcatta,650.0,Bills,0,2026,4,10,Friday,False
+2025-12-16,Concert Ticket,132.44,Entertainment,0,2025,12,16,Tuesday,False
+2024-11-02,Woolworths Ellenbrook,2.25,Groceries,0,2024,11,2,Saturday,True
+2025-10-17,Telstra Mobile Balcatta AU,64.64,Bills,0,2025,10,17,Friday,False
+2025-01-05,ALDI Purchase,47.98,Groceries,0,2025,1,5,Sunday,True
+2024-11-23,Transperth Morley AU,6.86,Transport,0,2024,11,23,Saturday,True
+2025-12-18,Barber and Beauty Online AU,29.75,Personal Care,0,2025,12,18,Thursday,False
+2024-10-23,Transperth Ellenbrook,9.03,Transport,0,2024,10,23,Wednesday,False
+2026-03-03,Ampol Fuel Perth Purchase,20.29,Transport,0,2026,3,3,Tuesday,False
+2025-03-08,Optus Internet Online,79.0,Bills,0,2025,3,8,Saturday,True
+2025-04-12,ALDI Joondalup Purchase,24.59,Groceries,0,2025,4,12,Saturday,True
+2024-09-11,BP Fuel Ellenbrook AU,51.46,Transport,0,2024,9,11,Wednesday,False
+2024-05-15,Hair Salon Cannington AU,65.47,Personal Care,0,2024,5,15,Wednesday,False
+2024-11-08,Spudshed Fri,32.91,Groceries,0,2024,11,8,Friday,False
+2025-03-25,Spudshed Morley Tue,49.59,Groceries,0,2025,3,25,Tuesday,False
+2026-05-07,Telstra Mobile Ellenbrook Thu,54.32,Bills,0,2026,5,7,Thursday,False
+2025-06-20,Officeworks Joondalup Purchase,33.9,Education,0,2025,6,20,Friday,False
+2025-03-19,Spudshed Perth,32.04,Groceries,0,2025,3,19,Wednesday,False
+2025-02-27,Transperth Morley AU,9.91,Transport,0,2025,2,27,Thursday,False
+2024-03-13,GP Clinic Joondalup,123.53,Health,0,2024,3,13,Wednesday,False
+2026-02-17,Spudshed Cannington Card,18.58,Groceries,0,2026,2,17,Tuesday,False
+2025-01-04,Ampol Fuel Balcatta Card,94.26,Transport,0,2025,1,4,Saturday,True
+2025-06-08,IGA Online,28.32,Groceries,0,2025,6,8,Sunday,True
+2025-03-27,ALDI Ellenbrook Purchase,43.53,Groceries,0,2025,3,27,Thursday,False
+2024-07-15,Spudshed Morley Purchase,56.8,Groceries,0,2024,7,15,Monday,False
+2024-05-06,Virgin Australia Joondalup AU,584.87,Travel,0,2024,5,6,Monday,False
+2024-06-27,Concert Ticket Cannington Purchase,139.35,Entertainment,0,2024,6,27,Thursday,False
+2024-07-03,DiDi Cannington,10.67,Transport,0,2024,7,3,Wednesday,False
+2025-08-19,Nando's Cannington Tue,29.94,Dining,0,2025,8,19,Tuesday,False
+2025-03-18,Telstra Mobile Online,55.0,Bills,0,2025,3,18,Tuesday,False
+2025-01-09,Coles Perth AU,94.6,Groceries,0,2025,1,9,Thursday,False
+2024-02-08,Optus Internet Online,79.0,Bills,0,2024,2,8,Thursday,False
+2025-09-28,Transperth,8.51,Transport,0,2025,9,28,Sunday,True
+2025-02-24,Ampol Fuel Ellenbrook AU,13.22,Transport,0,2025,2,24,Monday,False
+2024-11-11,Hair Salon Online Card,41.91,Personal Care,0,2024,11,11,Monday,False
+2024-04-09,Spudshed Online Tue,68.37,Groceries,0,2024,4,9,Tuesday,False
+2025-11-12,Ampol Fuel Morley AU,0.11,Transport,1,2025,11,12,Wednesday,False
+2025-04-08,Priceline Pharmacy Ellenbrook Card,33.06,Health,0,2025,4,8,Tuesday,False
+2024-02-11,Coles Purchase,58.66,Groceries,0,2024,2,11,Sunday,True
+2024-07-06,Woolworths Cannington Purchase,119.86,Groceries,0,2024,7,6,Saturday,True
+2025-01-17,Uber Eats Ellenbrook Card,204.44,Dining,1,2025,1,17,Friday,False
+2025-08-11,Uber Perth Mon,33.51,Transport,0,2025,8,11,Monday,False
+2025-06-12,Netflix Online,25.99,Bills,0,2025,6,12,Thursday,False
+2025-05-15,Transperth Perth Card,11.51,Transport,0,2025,5,15,Thursday,False
+2026-04-23,Uber Balcatta Purchase,23.29,Transport,0,2026,4,23,Thursday,False
+2024-04-13,McDonald's Online AU,11.85,Dining,0,2024,4,13,Saturday,True
+2025-06-30,Transperth Joondalup Purchase,6.3,Transport,0,2025,6,30,Monday,False
+2026-05-08,Kmart Cannington Fri,35.55,Shopping,0,2026,5,8,Friday,False
+2025-08-29,Rent Balcatta,650.0,Bills,0,2025,8,29,Friday,False
+2024-04-17,Coles Balcatta Card,69.74,Groceries,0,2024,4,17,Wednesday,False
+2026-02-14,BP Fuel Cannington Card,92.48,Transport,0,2026,2,14,Saturday,True
+2024-11-26,Telstra Mobile Ellenbrook Purchase,54.57,Bills,0,2024,11,26,Tuesday,False
+2025-10-29,BIG W Joondalup AU,25.67,Shopping,0,2025,10,29,Wednesday,False
+2026-01-25,DiDi,13.84,Transport,0,2026,1,25,Sunday,True
+2025-08-02,PlayStation Store Balcatta Sat,46.48,Entertainment,0,2025,8,2,Saturday,True
+2026-05-15,Spudshed Online AU,65.58,Groceries,0,2026,5,15,Friday,False
+2024-06-18,Telstra Mobile Online,55.0,Bills,0,2024,6,18,Tuesday,False
+2026-02-09,IGA Morley Card,25.64,Groceries,0,2026,2,9,Monday,False
+2024-11-26,Woolworths Morley Tue,73.77,Groceries,0,2024,11,26,Tuesday,False
+2024-12-05,KFC Perth,44.83,Dining,0,2024,12,5,Thursday,False
+2025-09-23,Kmart Perth,42.25,Shopping,0,2025,9,23,Tuesday,False
+2026-02-18,BP Fuel Joondalup AU,22.2,Transport,0,2026,2,18,Wednesday,False
+2025-09-04,Ampol Fuel,68.91,Transport,0,2025,9,4,Thursday,False
+2026-01-21,Spudshed Perth Wed,99.76,Groceries,0,2026,1,21,Wednesday,False
+2026-04-01,Water Corporation Balcatta Wed,108.6,Bills,0,2026,4,1,Wednesday,False
+2025-09-12,Priceline Pharmacy Joondalup Fri,19.98,Health,0,2025,9,12,Friday,False
+2024-12-11,HOYTS Perth AU,21.74,Entertainment,0,2024,12,11,Wednesday,False
+2024-04-04,Uber Eats Purchase,30.91,Dining,0,2024,4,4,Thursday,False
+2026-04-12,Netflix Online,25.99,Bills,0,2026,4,12,Sunday,True
+2026-01-12,BIG W Cannington,39.27,Shopping,0,2026,1,12,Monday,False
+2024-12-14,BIG W Joondalup Purchase,53.24,Shopping,0,2024,12,14,Saturday,True
+2025-10-10,Spudshed Cannington Card,34.02,Groceries,0,2025,10,10,Friday,False
+2025-06-24,Dental Clinic Morley Card,138.88,Health,0,2025,6,24,Tuesday,False
+2025-05-12,ALDI Online Purchase,2.33,Groceries,0,2025,5,12,Monday,False
+2026-06-23,Kmart Joondalup,16.19,Shopping,0,2026,6,23,Tuesday,False
+2026-01-13,Local Cafe Balcatta AU,12.53,Dining,0,2026,1,13,Tuesday,False
+2024-05-22,Airbnb Online,183.12,Travel,0,2024,5,22,Wednesday,False
+2025-07-14,KFC Joondalup AU,218.73,Dining,1,2025,7,14,Monday,False
+2024-09-07,PlayStation Store Joondalup Card,17.41,Entertainment,0,2024,9,7,Saturday,True
+2024-07-07,Cotton On Sun,65.09,Shopping,0,2024,7,7,Sunday,True
+2025-01-04,Local Cafe Perth Sat,4.45,Dining,0,2025,1,4,Saturday,True
+2024-05-27,Cotton On Online Purchase,3.82,Shopping,0,2024,5,27,Monday,False
+2025-12-09,GP Clinic Balcatta Card,93.61,Health,0,2025,12,9,Tuesday,False
+2025-07-26,Target Perth AU,117.82,Shopping,0,2025,7,26,Saturday,True
+2024-02-05,Chemist Warehouse Online Card,23.8,Health,0,2024,2,5,Monday,False
+2025-09-13,Spudshed Perth Card,98.52,Groceries,0,2025,9,13,Saturday,True
+2024-05-15,Spudshed Joondalup,41.97,Groceries,0,2024,5,15,Wednesday,False
+2026-06-01,McDonald's Balcatta Mon,19.65,Dining,0,2026,6,1,Monday,False
+2025-07-30,KFC AU,9.43,Dining,0,2025,7,30,Wednesday,False
+2025-06-25,Woolworths Online Wed,33.2,Groceries,0,2025,6,25,Wednesday,False
+2024-01-27,ALDI Cannington Card,52.75,Groceries,0,2024,1,27,Saturday,True
+2025-03-30,ALDI Perth Card,54.69,Groceries,0,2025,3,30,Sunday,True
+2025-06-24,BIG W Ellenbrook Card,78.08,Shopping,0,2025,6,24,Tuesday,False
+2025-04-02,Netflix Joondalup AU,26.79,Bills,0,2025,4,2,Wednesday,False
+2024-09-06,Officeworks Online Purchase,27.85,Education,0,2024,9,6,Friday,False
+2024-04-26,Rent Balcatta,650.0,Bills,0,2024,4,26,Friday,False
+2025-05-05,ALDI Online Purchase,51.3,Groceries,0,2025,5,5,Monday,False
+2026-06-02,Kmart Cannington AU,82.68,Shopping,0,2026,6,2,Tuesday,False
+2024-01-26,Coles Joondalup Fri,56.99,Groceries,0,2024,1,26,Friday,False
+2024-05-26,Gift Purchase Balcatta Card,13.68,Other,0,2024,5,26,Sunday,True
+2024-11-06,Coles Balcatta Wed,59.68,Groceries,0,2024,11,6,Wednesday,False
+2025-08-17,Concert Ticket Balcatta Purchase,40.34,Entertainment,0,2025,8,17,Sunday,True
+2025-04-13,Steam Perth Card,48.61,Entertainment,0,2025,4,13,Sunday,True
+2025-04-18,Woolworths Morley AU,1.5,Groceries,0,2025,4,18,Friday,False
+2025-04-14,Booking.com Online,119.07,Travel,0,2025,4,14,Monday,False
+2024-04-24,Airbnb Cannington Wed,524.85,Travel,0,2024,4,24,Wednesday,False
+2025-11-17,Myer Online Mon,219.99,Shopping,0,2025,11,17,Monday,False
+2024-10-11,Rent Balcatta,650.0,Bills,0,2024,10,11,Friday,False
+2024-12-20,Rent Balcatta,650.0,Bills,0,2024,12,20,Friday,False
+2026-04-02,Gift Purchase Balcatta,46.18,Other,0,2026,4,2,Thursday,False
+2024-08-25,Transperth Purchase,14.22,Transport,0,2024,8,25,Sunday,True
+2026-01-22,DiDi Perth Card,28.83,Transport,0,2026,1,22,Thursday,False
+2024-10-08,Optus Internet Online,79.0,Bills,0,2024,10,8,Tuesday,False
+2025-10-23,Amazon AU Morley Card,70.02,Shopping,0,2025,10,23,Thursday,False
+2024-08-07,Barber and Beauty Perth AU,13.25,Personal Care,0,2024,8,7,Wednesday,False
+2024-02-20,Steam Ellenbrook,61.83,Entertainment,0,2024,2,20,Tuesday,False
+2025-05-24,Event Cinemas Morley Sat,8.41,Entertainment,0,2025,5,24,Saturday,True
+2024-06-16,DiDi Ellenbrook Card,3.3,Transport,0,2024,6,16,Sunday,True
+2025-09-11,DoorDash Ellenbrook,50.16,Dining,0,2025,9,11,Thursday,False
+2026-04-28,Uber Eats,44.24,Dining,0,2026,4,28,Tuesday,False
+2025-08-09,DiDi Perth Card,23.49,Transport,0,2025,8,9,Saturday,True
+2025-04-11,Rent Balcatta,650.0,Bills,0,2025,4,11,Friday,False
+2025-08-27,Cotton On Online Card,98.11,Shopping,0,2025,8,27,Wednesday,False
+2025-06-29,PlayStation Store Balcatta AU,30.82,Entertainment,0,2025,6,29,Sunday,True
+2025-12-03,Myer Ellenbrook Purchase,46.43,Shopping,0,2025,12,3,Wednesday,False
+2025-03-14,Rent Balcatta,650.0,Bills,0,2025,3,14,Friday,False
+2026-03-10,Steam Morley Card,36.95,Entertainment,0,2026,3,10,Tuesday,False
+2024-12-01,DoorDash Perth Purchase,99.67,Dining,0,2024,12,1,Sunday,True
+2024-03-19,Concert Ticket Joondalup Purchase,120.07,Entertainment,0,2024,3,19,Tuesday,False
+2024-08-02,Hair Salon Joondalup Fri,66.61,Personal Care,0,2024,8,2,Friday,False
+2024-07-13,Telstra Mobile Sat,52.05,Bills,0,2024,7,13,Saturday,True
+2025-02-19,Ampol Fuel Balcatta Wed,95.85,Transport,0,2025,2,19,Wednesday,False
+2025-05-24,Local Cafe Online,8.49,Dining,0,2025,5,24,Saturday,True
+2026-02-27,Spudshed Cannington,36.23,Groceries,0,2026,2,27,Friday,False
+2025-08-02,McDonald's Cannington Sat,19.3,Dining,0,2025,8,2,Saturday,True
+2025-07-14,Barber and Beauty Morley Mon,65.83,Personal Care,0,2025,7,14,Monday,False
+2025-07-05,ALDI Balcatta Purchase,11.07,Groceries,0,2025,7,5,Saturday,True
+2024-05-21,BIG W Joondalup AU,76.93,Shopping,0,2024,5,21,Tuesday,False
+2024-04-02,Kmart Morley AU,45.86,Shopping,0,2024,4,2,Tuesday,False
+2024-11-17,IGA Purchase,15.11,Groceries,0,2024,11,17,Sunday,True
+2025-09-27,Transperth,8.92,Transport,0,2025,9,27,Saturday,True
+2024-11-02,Ampol Fuel Online Sat,97.53,Transport,0,2024,11,2,Saturday,True
+2024-11-16,IGA Ellenbrook,27.03,Groceries,0,2024,11,16,Saturday,True
+2024-10-28,Kmart Online Card,42.48,Shopping,0,2024,10,28,Monday,False
+2024-12-05,Target Ellenbrook Purchase,5.03,Shopping,0,2024,12,5,Thursday,False
+2024-07-24,BIG W Cannington AU,54.8,Shopping,0,2024,7,24,Wednesday,False
+2024-10-30,Transperth Ellenbrook,6.18,Transport,0,2024,10,30,Wednesday,False
+2024-03-21,Chemist Warehouse Ellenbrook Purchase,49.19,Health,0,2024,3,21,Thursday,False
+2025-09-17,Udemy Online AU,17.98,Education,0,2025,9,17,Wednesday,False
+2025-12-22,IGA Mon,77.28,Groceries,0,2025,12,22,Monday,False
+2026-03-17,Coles Balcatta Purchase,83.08,Groceries,0,2026,3,17,Tuesday,False
+2026-02-14,DiDi Cannington AU,17.64,Transport,0,2026,2,14,Saturday,True
+2024-02-23,ALDI Balcatta Purchase,51.76,Groceries,0,2024,2,23,Friday,False
